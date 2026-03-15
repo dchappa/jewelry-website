@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Diamond Jewelry Gallery - Indian Jewellers</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;600;700&family=Inter:wght@300;400;500;600&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <div class="header-content">
+      <h1>Diamond Gallery</h1>
+      <p class="tagline">Curated diamond jewelry from India's finest jewellers</p>
+    </div>
+  </header>
+
+  <nav class="filters">
+    <div class="filter-bar">
+      <div class="source-filters">
+        <button class="filter-btn active" data-source="all">All Sources</button>
+      </div>
+      <div class="sort-controls">
+        <select id="sort-select">
+          <option value="default">Sort by</option>
+          <option value="price-asc">Price: Low to High</option>
+          <option value="price-desc">Price: High to Low</option>
+          <option value="name-asc">Name: A to Z</option>
+        </select>
+        <button id="refresh-btn" title="Refresh products">&#x21bb;</button>
+      </div>
+    </div>
+  </nav>
+
+  <main>
+    <div class="status-bar">
+      <span id="product-count"></span>
+      <span id="last-updated"></span>
+    </div>
+    <div id="loading" class="loading">
+      <div class="spinner"></div>
+      <p>Fetching jewelry from across India...</p>
+    </div>
+    <div id="error" class="error" style="display:none">
+      <p>Something went wrong. <button onclick="loadProducts(true)">Try again</button></p>
+    </div>
+    <div id="gallery" class="gallery"></div>
+  </main>
+
+  <footer>
+    <p>Product data sourced from publicly available listings. Prices may vary.</p>
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>
