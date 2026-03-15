@@ -1,5 +1,3 @@
-const API_BASE = "";
-
 let allProducts = [];
 let currentSource = "all";
 let currentSort = "default";
@@ -14,15 +12,18 @@ function formatPrice(price) {
   }).format(price);
 }
 
-// Time ago helper
-function timeAgo(timestamp) {
-  if (!timestamp) return "";
+// Friendly time display for ISO date strings
+function timeAgo(isoString) {
+  if (!isoString) return "";
+  const timestamp = new Date(isoString).getTime();
   const seconds = Math.floor((Date.now() - timestamp) / 1000);
   if (seconds < 60) return "just now";
   const minutes = Math.floor(seconds / 60);
   if (minutes < 60) return `${minutes}m ago`;
   const hours = Math.floor(minutes / 60);
-  return `${hours}h ago`;
+  if (hours < 24) return `${hours}h ago`;
+  const days = Math.floor(hours / 24);
+  return `${days}d ago`;
 }
 
 // Render product card
@@ -141,8 +142,8 @@ function buildSourceFilters(products) {
   });
 }
 
-// Load products from API
-async function loadProducts(refresh = false) {
+// Load products from static JSON
+async function loadProducts() {
   const loading = document.getElementById("loading");
   const error = document.getElementById("error");
   const gallery = document.getElementById("gallery");
@@ -154,8 +155,7 @@ async function loadProducts(refresh = false) {
   refreshBtn.classList.add("spinning");
 
   try {
-    const url = `${API_BASE}/api/products${refresh ? "?refresh=true" : ""}`;
-    const res = await fetch(url);
+    const res = await fetch("products.json");
     if (!res.ok) throw new Error("Failed to fetch");
 
     const data = await res.json();
@@ -184,7 +184,7 @@ document.getElementById("sort-select").addEventListener("change", (e) => {
 });
 
 document.getElementById("refresh-btn").addEventListener("click", () => {
-  loadProducts(true);
+  loadProducts();
 });
 
 // Initial load
