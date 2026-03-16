@@ -36,7 +36,9 @@ async function scrapeAll() {
   );
 
   // Close the shared browser after all scrapers finish
-  await closeBrowser().catch(() => {});
+  await closeBrowser().catch((err) => {
+    console.error("Failed to close browser:", err.message);
+  });
 
   // Fill in demo data for sources that returned nothing
   const scrapedSources = new Set(scraped.map((p) => p.source));

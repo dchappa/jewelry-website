@@ -66,9 +66,28 @@ async function scrapeWithBrowser(url, extractFn, options = {}) {
 }
 
 async function closeBrowser() {
-  if (browserInstance) {
-    await browserInstance.close();
-    browserInstance = null;
+  if (!browserInstance) return;
+  const instance = browserInstance;
+  browserInstance = null;
+  try {
+    const pid = instance.process()?.pid;
+    await Promise.race([
+      instance.close(),
+      new Promise((_, reject) =>
+        setTimeout(() => reject(new Error("Browser close timed out")), 10000)
+      ),
+    ]);
+    console.log("Browser closed");
+    // Force-kill if the process is still around
+    if (pid) {
+      try { process.kill(pid, 0); process.kill(pid, "SIGKILL"); } catch {}
+    }
+  } catch (err) {
+    console.error("Browser close error:", err.message);
+    const pid = instance.process()?.pid;
+    if (pid) {
+      try { process.kill(pid, "SIGKILL"); } catch {}
+    }
   }
 }
 

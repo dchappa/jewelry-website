@@ -27,6 +27,8 @@ async function main() {
   console.log(`Done in ${elapsed}s`);
   console.log(`Wrote ${products.length} products to ${OUTPUT_PATH}`);
   console.log("By source:", JSON.stringify(sources));
+
+  process.exit(0);
 }
 
 main().catch((err) => {
