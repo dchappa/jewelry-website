@@ -49,6 +49,14 @@
       "category": "Diamond Jewelry"
     },
     {
+      "name": "Wing Crest Diamond Necklace",
+      "price": 213492,
+      "image": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw1b1b38f0/images/hi-res/55D5WMNCMAA09_1.jpg",
+      "url": "https://www.tanishq.co.in/product/wing-crest-diamond-necklace-55d5wmncmaa09.html?lang=en_IN",
+      "source": "Tanishq",
+      "category": "Diamond Jewelry"
+    },
+    {
       "name": "Chromatic Wing Diamond Ring",
       "price": 127161,
       "image": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwf05a39af/images/hi-res/55D5WXFBZAA02_1.jpg",
@@ -185,14 +193,6 @@
       "category": "Diamond Jewelry"
     },
     {
-      "name": "Glow Wings Diamond Bracelet",
-      "price": 124059,
-      "image": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw55b4d348/images/hi-res/55D5WXBCEAA02_1.jpg",
-      "url": "https://www.tanishq.co.in/product/glow-wings-diamond-bracelet-55d5wxbceaa02.html?lang=en_IN",
-      "source": "Tanishq",
-      "category": "Diamond Jewelry"
-    },
-    {
       "name": "Prism Wing Diamond Stud Earrings",
       "price": null,
       "image": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwb406b4f2/images/hi-res/50D5WMSAMABA02_1.jpg",
@@ -290,7 +290,7 @@
     },
     {
       "name": "The Felicityelle Ring",
-      "price": 37386,
+      "price": 43892,
       "image": "https://kinclimg4.bluestone.com/f_webp,c_scale,w_1024,b_rgb:f0f0f0/giproduct/BIVT0084R23_YAA14DIG6XXXXXXXX_ABCD00-BP-PICS-00000-1024-65653.png",
       "url": "https://www.bluestone.com/rings/the-felicityelle-ring~8436.html?impEvent=browseclick&posEvent=11&sortbyEvent=mostpopular&tagEvent=",
       "source": "BlueStone",
@@ -593,6 +593,6 @@
       "category": "Diamond Jewelry"
     }
   ],
-  "lastFetched": "2026-03-24T13:06:48.572Z",
+  "lastFetched": "2026-03-24T19:00:08.502Z",
   "count": 74
 }
