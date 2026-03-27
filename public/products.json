@@ -434,7 +434,7 @@
     },
     {
       "name": "Aagni Diamond Mangalsutra Bracelet",
-      "price": 56408,
+      "price": 57006,
       "image": "https://www.candere.com/media/catalog/product/C/0/C015297___1.jpeg?optimize=medium&bg-color=255,255,255&fit=bounds&height=360&width=360&canvas=360:360",
       "url": "https://www.candere.com/aagni-diamond-mangalsutra-bracelet.html",
       "source": "Kalyan Jewellers",
@@ -465,14 +465,6 @@
       "category": "Diamond Jewelry"
     },
     {
-      "name": "Sarika Eternity Diamond Band",
-      "price": 52009,
-      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=",
-      "url": "https://www.candere.com/sarika-diamond-eternity-band.html",
-      "source": "Kalyan Jewellers",
-      "category": "Diamond Jewelry"
-    },
-    {
       "name": "Flower Bow Kids Diamond Earrings",
       "price": 18956,
       "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=",
@@ -485,14 +477,6 @@
       "price": 21278,
       "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=",
       "url": "https://www.candere.com/firefly-kids-gemstone-gold-earrings.html",
-      "source": "Kalyan Jewellers",
-      "category": "Diamond Jewelry"
-    },
-    {
-      "name": "Rushada Diamond Earrings",
-      "price": 108191,
-      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=",
-      "url": "https://www.candere.com/rushada-diamond-earrings.html",
       "source": "Kalyan Jewellers",
       "category": "Diamond Jewelry"
     },
@@ -609,6 +593,6 @@
       "category": "Diamond Jewelry"
     }
   ],
-  "lastFetched": "2026-03-27T07:04:13.746Z",
-  "count": 76
+  "lastFetched": "2026-03-27T13:00:42.830Z",
+  "count": 74
 }
