@@ -73,14 +73,6 @@
       "category": "Diamond Jewelry"
     },
     {
-      "name": "Luminous Wings Diamond Bangle",
-      "price": 113006,
-      "image": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw9ab34964/images/hi-res/55D5WMVAM1A02_1.jpg",
-      "url": "https://www.tanishq.co.in/product/luminous-wings-diamond-bangle-55d5wmvam1a02.html?lang=en_IN",
-      "source": "Tanishq",
-      "category": "Diamond Jewelry"
-    },
-    {
       "name": "Chromatic Flight Diamond Ring",
       "price": 135719,
       "image": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw53825f35/images/hi-res/55D5WMFBZAA02_1.jpg",
@@ -189,6 +181,14 @@
       "price": 91641,
       "image": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw621f2db3/images/hi-res/50D5FDSVBABA09_1.jpg",
       "url": "https://www.tanishq.co.in/product/sculpted-wing-diamond-stud-earrings-50d5fdsvbaba09.html?lang=en_IN",
+      "source": "Tanishq",
+      "category": "Diamond Jewelry"
+    },
+    {
+      "name": "Glow Wings Diamond Bracelet",
+      "price": 125849,
+      "image": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw55b4d348/images/hi-res/55D5WXBCEAA02_1.jpg",
+      "url": "https://www.tanishq.co.in/product/glow-wings-diamond-bracelet-55d5wxbceaa02.html?lang=en_IN",
       "source": "Tanishq",
       "category": "Diamond Jewelry"
     },
@@ -403,7 +403,7 @@
     {
       "name": "Bhavani Gold Jhumki",
       "price": 36404,
-      "image": "https://www.candere.com/media/catalog/product/G/E/GE00443__1_2.jpeg?optimize=medium&bg-color=255,255,255&fit=bounds&height=360&width=360&canvas=360:360",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=",
       "url": "https://www.candere.com/bhavani-gold-jhumki.html",
       "source": "Kalyan Jewellers",
       "category": "Diamond Jewelry"
@@ -411,7 +411,7 @@
     {
       "name": "Fondly Flexi Diamond Ring",
       "price": 27267,
-      "image": "https://www.candere.com/media/catalog/product/c/0/c015460_1_5.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=360&width=360&canvas=360:360",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=",
       "url": "https://www.candere.com/fondly-flexi-diamond-ring.html",
       "source": "Kalyan Jewellers",
       "category": "Diamond Jewelry"
@@ -419,7 +419,7 @@
     {
       "name": "Warrior Princess Flexi Diamond Ring",
       "price": 32106,
-      "image": "https://www.candere.com/media/catalog/product/C/0/C015375__1_1.jpeg?optimize=medium&bg-color=255,255,255&fit=bounds&height=360&width=360&canvas=360:360",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=",
       "url": "https://www.candere.com/warrior-princess-flexi-diamond-ring.html",
       "source": "Kalyan Jewellers",
       "category": "Diamond Jewelry"
@@ -443,7 +443,7 @@
     {
       "name": "Delisha Diamond Mangalsutra Bracelet",
       "price": 49758,
-      "image": "https://www.candere.com/media/catalog/product/C/0/C015299___1_2.jpeg?optimize=medium&bg-color=255,255,255&fit=bounds&height=360&width=360&canvas=360:360",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=",
       "url": "https://www.candere.com/delisha-diamond-mangalsutra-bracelet.html",
       "source": "Kalyan Jewellers",
       "category": "Diamond Jewelry"
@@ -451,7 +451,7 @@
     {
       "name": "Azza Diamond Mangalsutra Bracelet",
       "price": 58991,
-      "image": "https://www.candere.com/media/catalog/product/C/0/C015293_1_1_4.jpeg?optimize=medium&bg-color=255,255,255&fit=bounds&height=360&width=360&canvas=360:360",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=",
       "url": "https://www.candere.com/azza-diamond-mangalsutra-bracelet.html",
       "source": "Kalyan Jewellers",
       "category": "Diamond Jewelry"
@@ -657,6 +657,134 @@
       "category": "Diamond Jewelry"
     },
     {
+      "name": "Little Vermin Kids Gold Earrings",
+      "price": 19787,
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=",
+      "url": "https://www.candere.com/little-vermin-kids-gold-earrings.html",
+      "source": "Kalyan Jewellers",
+      "category": "Diamond Jewelry"
+    },
+    {
+      "name": "Pesty Butterfly Kids Gold Earrings",
+      "price": 13864,
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=",
+      "url": "https://www.candere.com/pesty-butterfly-kids-gold-earrings.html",
+      "source": "Kalyan Jewellers",
+      "category": "Diamond Jewelry"
+    },
+    {
+      "name": "Ekakshara Gold Pendant",
+      "price": 35262,
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=",
+      "url": "https://www.candere.com/ekakshara-gold-pendant.html",
+      "source": "Kalyan Jewellers",
+      "category": "Diamond Jewelry"
+    },
+    {
+      "name": "A Initial Kids Diamond Pendant With Chain",
+      "price": 52962,
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=",
+      "url": "https://www.candere.com/a-initial-kids-diamond-pendant-with-chain.html",
+      "source": "Kalyan Jewellers",
+      "category": "Diamond Jewelry"
+    },
+    {
+      "name": "Kettai Vanki Diamond Ring",
+      "price": 66845,
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=",
+      "url": "https://www.candere.com/kettai-vanki-diamond-ring.html",
+      "source": "Kalyan Jewellers",
+      "category": "Diamond Jewelry"
+    },
+    {
+      "name": "Visakam Vanki Diamond Ring",
+      "price": 86889,
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=",
+      "url": "https://www.candere.com/visakam-vanki-diamond-ring.html",
+      "source": "Kalyan Jewellers",
+      "category": "Diamond Jewelry"
+    },
+    {
+      "name": "Unroll Flip Diamond Earrings",
+      "price": 70384,
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=",
+      "url": "https://www.candere.com/unroll-flip-diamond-earrings.html",
+      "source": "Kalyan Jewellers",
+      "category": "Diamond Jewelry"
+    },
+    {
+      "name": "Three for One Miracle Diamond Flexi Ring",
+      "price": 30361,
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=",
+      "url": "https://www.candere.com/three-for-one-miracle-diamond-flexi-ring.html",
+      "source": "Kalyan Jewellers",
+      "category": "Diamond Jewelry"
+    },
+    {
+      "name": "Blaze Daze Hera Diamond Ring",
+      "price": 36074,
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=",
+      "url": "https://www.candere.com/blaze-daze-hera-diamond-ring.html",
+      "source": "Kalyan Jewellers",
+      "category": "Diamond Jewelry"
+    },
+    {
+      "name": "Mandira Diamond Wedding Band",
+      "price": 79438,
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=",
+      "url": "https://www.candere.com/mandira-diamond-wedding-band.html",
+      "source": "Kalyan Jewellers",
+      "category": "Diamond Jewelry"
+    },
+    {
+      "name": "Prink Hera Diamond Ring",
+      "price": 36224,
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=",
+      "url": "https://www.candere.com/prink-hera-diamond-ring.html",
+      "source": "Kalyan Jewellers",
+      "category": "Diamond Jewelry"
+    },
+    {
+      "name": "Ritheka Diamond Wedding Band",
+      "price": 99621,
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=",
+      "url": "https://www.candere.com/ritheka-diamond-wedding-band.html",
+      "source": "Kalyan Jewellers",
+      "category": "Diamond Jewelry"
+    },
+    {
+      "name": "Flairious Hera Diamond Ring",
+      "price": 27730,
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=",
+      "url": "https://www.candere.com/flairious-hera-diamond-ring.html",
+      "source": "Kalyan Jewellers",
+      "category": "Diamond Jewelry"
+    },
+    {
+      "name": "Cowboy Diamond Flexi Necklace",
+      "price": 86357,
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=",
+      "url": "https://www.candere.com/cowboy-diamond-flexi-necklace.html",
+      "source": "Kalyan Jewellers",
+      "category": "Diamond Jewelry"
+    },
+    {
+      "name": "Bubbly Diamond Flexi Ring",
+      "price": 34327,
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=",
+      "url": "https://www.candere.com/bubbly-diamond-flexi-ring.html",
+      "source": "Kalyan Jewellers",
+      "category": "Diamond Jewelry"
+    },
+    {
+      "name": "Dancing Dolphins Gold Ring",
+      "price": 78453,
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=",
+      "url": "https://www.candere.com/dancing-dolphins-gold-ring.html",
+      "source": "Kalyan Jewellers",
+      "category": "Diamond Jewelry"
+    },
+    {
       "name": "Delicate Diamond Bracelet",
       "price": 41200,
       "image": "https://images.unsplash.com/photo-1573408301185-9146fe634ad0?w=400&h=400&fit=crop",
@@ -737,6 +865,6 @@
       "category": "Diamond Jewelry"
     }
   ],
-  "lastFetched": "2026-03-29T07:00:38.348Z",
-  "count": 92
+  "lastFetched": "2026-03-29T12:51:40.484Z",
+  "count": 108
 }
