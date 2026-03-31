@@ -1,6 +1,214 @@
 {
   "products": [
     {
+      "name": "Dancing Wing Diamond Drop Earrings",
+      "price": 125861,
+      "image": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw25d93713/images/hi-res/55D5WYDBSABA02_1.jpg",
+      "url": "https://www.tanishq.co.in/product/dancing-wing-diamond-drop-earrings-55d5wydbsaba02.html?lang=en_IN",
+      "source": "Tanishq",
+      "category": "Diamond Jewelry"
+    },
+    {
+      "name": "Flutter Wing Diamond Ring",
+      "price": 51661,
+      "image": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw14cd9345/images/hi-res/50D5WMFCDAA02_1.jpg",
+      "url": "https://www.tanishq.co.in/product/flutter-wing-diamond-ring-50d5wmfcdaa02.html?lang=en_IN",
+      "source": "Tanishq",
+      "category": "Diamond Jewelry"
+    },
+    {
+      "name": "Rising Wing Diamond Drop Earrings",
+      "price": 119105,
+      "image": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw4892dde5/images/hi-res/55D5WMDCMABA09_1.jpg",
+      "url": "https://www.tanishq.co.in/product/rising-wing-diamond-drop-earrings-55d5wmdcmaba09.html?lang=en_IN",
+      "source": "Tanishq",
+      "category": "Diamond Jewelry"
+    },
+    {
+      "name": "Celestial Wing Diamond Ring",
+      "price": 80661,
+      "image": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwf038f7ee/images/hi-res/50DXWMFCCAA02_1.jpg",
+      "url": "https://www.tanishq.co.in/product/celestial-wing-diamond-ring-50dxwmfccaa02.html?lang=en_IN",
+      "source": "Tanishq",
+      "category": "Diamond Jewelry"
+    },
+    {
+      "name": "Winged Veil Diamond Drop Earrings",
+      "price": 55816,
+      "image": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw74550de2/images/hi-res/50D5WMDBRAAA02_1.jpg",
+      "url": "https://www.tanishq.co.in/product/winged-veil-diamond-drop-earrings-50d5wmdbraaa02.html?lang=en_IN",
+      "source": "Tanishq",
+      "category": "Diamond Jewelry"
+    },
+    {
+      "name": "Flutter Bloom Diamond Drop Earrings",
+      "price": 125802,
+      "image": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw984dc076/images/hi-res/55D5WXDBSABA02_1.jpg",
+      "url": "https://www.tanishq.co.in/product/flutter-bloom-diamond-drop-earrings-55d5wxdbsaba02.html?lang=en_IN",
+      "source": "Tanishq",
+      "category": "Diamond Jewelry"
+    },
+    {
+      "name": "Wing Crest Diamond Necklace",
+      "price": 217187,
+      "image": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw1b1b38f0/images/hi-res/55D5WMNCMAA09_1.jpg",
+      "url": "https://www.tanishq.co.in/product/wing-crest-diamond-necklace-55d5wmncmaa09.html?lang=en_IN",
+      "source": "Tanishq",
+      "category": "Diamond Jewelry"
+    },
+    {
+      "name": "Chromatic Wing Diamond Ring",
+      "price": 128640,
+      "image": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwf05a39af/images/hi-res/55D5WXFBZAA02_1.jpg",
+      "url": "https://www.tanishq.co.in/product/chromatic-wing-diamond-ring-55d5wxfbzaa02.html?lang=en_IN",
+      "source": "Tanishq",
+      "category": "Diamond Jewelry"
+    },
+    {
+      "name": "Aerial Bloom Diamond Drop Earrings",
+      "price": 88554,
+      "image": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwd0cafa16/images/hi-res/50D5WMDACABA02_1.jpg",
+      "url": "https://www.tanishq.co.in/product/aerial-bloom-diamond-drop-earrings-50d5wmdacaba02.html?lang=en_IN",
+      "source": "Tanishq",
+      "category": "Diamond Jewelry"
+    },
+    {
+      "name": "Chromatic Flight Diamond Ring",
+      "price": 135882,
+      "image": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw53825f35/images/hi-res/55D5WMFBZAA02_1.jpg",
+      "url": "https://www.tanishq.co.in/product/chromatic-flight-diamond-ring-55d5wmfbzaa02.html?lang=en_IN",
+      "source": "Tanishq",
+      "category": "Diamond Jewelry"
+    },
+    {
+      "name": "Winged Rhythm Diamond Bangle",
+      "price": 105376,
+      "image": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw12dd3db8/images/hi-res/55D5WYVAJ1A02_1.jpg",
+      "url": "https://www.tanishq.co.in/product/winged-rhythm-diamond-bangle-55d5wyvaj1a02.html?lang=en_IN",
+      "source": "Tanishq",
+      "category": "Diamond Jewelry"
+    },
+    {
+      "name": "Winged Arc Diamond Ring",
+      "price": 104139,
+      "image": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw4fdc7527/images/hi-res/50D5WMFCIAA02_1.jpg",
+      "url": "https://www.tanishq.co.in/product/winged-arc-diamond-ring-50d5wmfciaa02.html?lang=en_IN",
+      "source": "Tanishq",
+      "category": "Diamond Jewelry"
+    },
+    {
+      "name": "Flutter Rhythm Diamond Bracelet",
+      "price": 96810,
+      "image": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwb7867a1a/images/hi-res/55D5WMBCFAA02_1.jpg",
+      "url": "https://www.tanishq.co.in/product/flutter-rhythm-diamond-bracelet-55d5wmbcfaa02.html?lang=en_IN",
+      "source": "Tanishq",
+      "category": "Diamond Jewelry"
+    },
+    {
+      "name": "Radiant Flight Diamond Ring",
+      "price": 73494,
+      "image": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw34800885/images/hi-res/50D5WMFCCAA02_1.jpg",
+      "url": "https://www.tanishq.co.in/product/radiant-flight-diamond-ring-50d5wmfccaa02.html?lang=en_IN",
+      "source": "Tanishq",
+      "category": "Diamond Jewelry"
+    },
+    {
+      "name": "Sculpted Wing Diamond Pendant",
+      "price": 59027,
+      "image": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwc214e02d/images/hi-res/50D5WMPAFAAA02_1.jpg",
+      "url": "https://www.tanishq.co.in/product/sculpted-wing-diamond-pendant-50d5wmpafaaa02.html?lang=en_IN",
+      "source": "Tanishq",
+      "category": "Diamond Jewelry"
+    },
+    {
+      "name": "Linear Wings Diamond Bangle",
+      "price": 106258,
+      "image": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwe0ade55b/images/hi-res/55D5WMVAF1A02_1.jpg",
+      "url": "https://www.tanishq.co.in/product/linear-wings-diamond-bangle-55d5wmvaf1a02.html?lang=en_IN",
+      "source": "Tanishq",
+      "category": "Diamond Jewelry"
+    },
+    {
+      "name": "Wings in Motion Diamond Drop Earrings",
+      "price": 115414,
+      "image": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw3b8bce61/images/hi-res/55D5WMDAMABA32_1.jpg",
+      "url": "https://www.tanishq.co.in/product/wings-in-motion-diamond-drop-earrings-55d5wmdamaba32.html?lang=en_IN",
+      "source": "Tanishq",
+      "category": "Diamond Jewelry"
+    },
+    {
+      "name": "Soaring Wing Diamond Necklace",
+      "price": 146283,
+      "image": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw4b1a415b/images/hi-res/55D5WXNALAA02_1.jpg",
+      "url": "https://www.tanishq.co.in/product/soaring-wing-diamond-necklace-55d5wxnalaa02.html?lang=en_IN",
+      "source": "Tanishq",
+      "category": "Diamond Jewelry"
+    },
+    {
+      "name": "Aerial Poise Diamond Ring",
+      "price": 75876,
+      "image": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwb904b65b/images/hi-res/50D5WMFAMAA32_1.jpg",
+      "url": "https://www.tanishq.co.in/product/aerial-poise-diamond-ring-50d5wmfamaa32.html?lang=en_IN",
+      "source": "Tanishq",
+      "category": "Diamond Jewelry"
+    },
+    {
+      "name": "Luminous Flight Diamond Drop Earrings",
+      "price": 69256,
+      "image": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwba3a9a65/images/hi-res/50D5WMDANAGA02_1.jpg",
+      "url": "https://www.tanishq.co.in/product/luminous-flight-diamond-drop-earrings-50d5wmdanaga02.html?lang=en_IN",
+      "source": "Tanishq",
+      "category": "Diamond Jewelry"
+    },
+    {
+      "name": "Aerial Rhythm Diamond Bangle",
+      "price": 175341,
+      "image": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw2f697439/images/hi-res/50D5WMVAN1A02_1.jpg",
+      "url": "https://www.tanishq.co.in/product/aerial-rhythm-diamond-bangle-50d5wmvan1a02.html?lang=en_IN",
+      "source": "Tanishq",
+      "category": "Diamond Jewelry"
+    },
+    {
+      "name": "Butterfly Flutter Diamond Bangle",
+      "price": 105530,
+      "image": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwa00a7046/images/hi-res/55D5WMVAJ1A02_1.jpg",
+      "url": "https://www.tanishq.co.in/product/butterfly-flutter-diamond-bangle-55d5wmvaj1a02.html?lang=en_IN",
+      "source": "Tanishq",
+      "category": "Diamond Jewelry"
+    },
+    {
+      "name": "Sculpted Wing Diamond Stud Earrings",
+      "price": 91806,
+      "image": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw621f2db3/images/hi-res/50D5FDSVBABA09_1.jpg",
+      "url": "https://www.tanishq.co.in/product/sculpted-wing-diamond-stud-earrings-50d5fdsvbaba09.html?lang=en_IN",
+      "source": "Tanishq",
+      "category": "Diamond Jewelry"
+    },
+    {
+      "name": "Glow Wings Diamond Bracelet",
+      "price": 126056,
+      "image": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw55b4d348/images/hi-res/55D5WXBCEAA02_1.jpg",
+      "url": "https://www.tanishq.co.in/product/glow-wings-diamond-bracelet-55d5wxbceaa02.html?lang=en_IN",
+      "source": "Tanishq",
+      "category": "Diamond Jewelry"
+    },
+    {
+      "name": "Prism Wing Diamond Stud Earrings",
+      "price": null,
+      "image": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwb406b4f2/images/hi-res/50D5WMSAMABA02_1.jpg",
+      "url": "https://www.tanishq.co.in/product/prism-wing-diamond-stud-earrings-50d5wmsamaba02.html?lang=en_IN",
+      "source": "Tanishq",
+      "category": "Diamond Jewelry"
+    },
+    {
+      "name": "Colourlift Wing Diamond Stud Earrings",
+      "price": 72145,
+      "image": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwe4cf55ff/images/hi-res/50D5WMSAKAGA02_1.jpg",
+      "url": "https://www.tanishq.co.in/product/colourlift-wing-diamond-stud-earrings-50d5wmsakaga02.html?lang=en_IN",
+      "source": "Tanishq",
+      "category": "Diamond Jewelry"
+    },
+    {
       "name": "The Gianna Ring",
       "price": 87421,
       "image": "https://kinclimg1.bluestone.com/f_webp,c_scale,w_1024,b_rgb:f0f0f0/giproduct/BIDG0319R180_YAA18DIG6XXXXXXXX_ABCD00-BP-PICS-00000-1024-66194.png",
@@ -306,7 +514,7 @@
     },
     {
       "name": "Frog Prince Kids Gold Earrings",
-      "price": 18039,
+      "price": 17856,
       "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=",
       "url": "https://www.candere.com/frog-prince-kids-gold-earrings.html",
       "source": "Kalyan Jewellers",
@@ -314,7 +522,7 @@
     },
     {
       "name": "Pyramid Kids Gold Earrings",
-      "price": 16105,
+      "price": 15943,
       "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=",
       "url": "https://www.candere.com/pyramid-kids-gold-earrings.html",
       "source": "Kalyan Jewellers",
@@ -322,7 +530,7 @@
     },
     {
       "name": "Baby Hearts Kids Diamond Earrings",
-      "price": 18530,
+      "price": 18367,
       "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=",
       "url": "https://www.candere.com/baby-hearts-kids-diamond-earrings.html",
       "source": "Kalyan Jewellers",
@@ -330,7 +538,7 @@
     },
     {
       "name": "Cherise Kids Gold Earrings",
-      "price": 15557,
+      "price": 15404,
       "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=",
       "url": "https://www.candere.com/cherise-kids-gold-earrings.html",
       "source": "Kalyan Jewellers",
@@ -338,7 +546,7 @@
     },
     {
       "name": "Red Berries Kids Gold Earrings",
-      "price": 19262,
+      "price": 19079,
       "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=",
       "url": "https://www.candere.com/red-berries-kids-gold-earrings.html",
       "source": "Kalyan Jewellers",
@@ -346,7 +554,7 @@
     },
     {
       "name": "Dwarf Palm Kids Diamond Earrings",
-      "price": 24754,
+      "price": 24532,
       "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=",
       "url": "https://www.candere.com/dwarf-palm-kids-diamond-earrings.html",
       "source": "Kalyan Jewellers",
@@ -354,7 +562,7 @@
     },
     {
       "name": "Dolphin Kids Diamond Earrings",
-      "price": 18129,
+      "price": 17964,
       "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=",
       "url": "https://www.candere.com/dolphin-kids-diamond-earrings.html",
       "source": "Kalyan Jewellers",
@@ -362,7 +570,7 @@
     },
     {
       "name": "Little Princess Kids Gold Earrings",
-      "price": 18498,
+      "price": 18321,
       "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=",
       "url": "https://www.candere.com/little-princess-kids-gold-earrings.html",
       "source": "Kalyan Jewellers",
@@ -370,7 +578,7 @@
     },
     {
       "name": "Heiress Kids Diamond Earrings",
-      "price": 22377,
+      "price": 22188,
       "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=",
       "url": "https://www.candere.com/heiress-kids-diamond-earrings.html",
       "source": "Kalyan Jewellers",
@@ -378,7 +586,7 @@
     },
     {
       "name": "Stargaze Kids Gold Earrings",
-      "price": 14675,
+      "price": 14535,
       "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=",
       "url": "https://www.candere.com/stargaze-kids-gold-earrings.html",
       "source": "Kalyan Jewellers",
@@ -386,7 +594,7 @@
     },
     {
       "name": "Rapture Kids Gold Earrings",
-      "price": 14998,
+      "price": 14844,
       "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=",
       "url": "https://www.candere.com/rapture-kids-gold-earrings.html",
       "source": "Kalyan Jewellers",
@@ -394,7 +602,7 @@
     },
     {
       "name": "Full Bloom Kids Gold Earrings",
-      "price": 16816,
+      "price": 16648,
       "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=",
       "url": "https://www.candere.com/full-bloom-kids-gold-earrings.html",
       "source": "Kalyan Jewellers",
@@ -402,7 +610,7 @@
     },
     {
       "name": "Pretty Petals Kids Gold Earrings",
-      "price": 20155,
+      "price": 19962,
       "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=",
       "url": "https://www.candere.com/pretty-petals-kids-gold-earrings.html",
       "source": "Kalyan Jewellers",
@@ -410,7 +618,7 @@
     },
     {
       "name": "Bug Me Kids Gold Earrings",
-      "price": 15830,
+      "price": 15676,
       "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=",
       "url": "https://www.candere.com/bug-me-kids-gold-earrings.html",
       "source": "Kalyan Jewellers",
@@ -418,7 +626,7 @@
     },
     {
       "name": "Sway Away Kids Gold Earrings",
-      "price": 16580,
+      "price": 16412,
       "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=",
       "url": "https://www.candere.com/sway-away-kids-gold-earrings.html",
       "source": "Kalyan Jewellers",
@@ -426,154 +634,10 @@
     },
     {
       "name": "Yen Kids Diamond Earrings",
-      "price": 21549,
+      "price": 21386,
       "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=",
       "url": "https://www.candere.com/yen-kids-diamond-earrings.html",
       "source": "Kalyan Jewellers",
-      "category": "Diamond Jewelry"
-    },
-    {
-      "name": "Little Vermin Kids Gold Earrings",
-      "price": 19921,
-      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=",
-      "url": "https://www.candere.com/little-vermin-kids-gold-earrings.html",
-      "source": "Kalyan Jewellers",
-      "category": "Diamond Jewelry"
-    },
-    {
-      "name": "Pesty Butterfly Kids Gold Earrings",
-      "price": 13965,
-      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=",
-      "url": "https://www.candere.com/pesty-butterfly-kids-gold-earrings.html",
-      "source": "Kalyan Jewellers",
-      "category": "Diamond Jewelry"
-    },
-    {
-      "name": "Ekakshara Gold Pendant",
-      "price": 35500,
-      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=",
-      "url": "https://www.candere.com/ekakshara-gold-pendant.html",
-      "source": "Kalyan Jewellers",
-      "category": "Diamond Jewelry"
-    },
-    {
-      "name": "A Initial Kids Diamond Pendant With Chain",
-      "price": 53298,
-      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=",
-      "url": "https://www.candere.com/a-initial-kids-diamond-pendant-with-chain.html",
-      "source": "Kalyan Jewellers",
-      "category": "Diamond Jewelry"
-    },
-    {
-      "name": "Kettai Vanki Diamond Ring",
-      "price": 67093,
-      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=",
-      "url": "https://www.candere.com/kettai-vanki-diamond-ring.html",
-      "source": "Kalyan Jewellers",
-      "category": "Diamond Jewelry"
-    },
-    {
-      "name": "Visakam Vanki Diamond Ring",
-      "price": 87313,
-      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=",
-      "url": "https://www.candere.com/visakam-vanki-diamond-ring.html",
-      "source": "Kalyan Jewellers",
-      "category": "Diamond Jewelry"
-    },
-    {
-      "name": "Unroll Flip Diamond Earrings",
-      "price": 70796,
-      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=",
-      "url": "https://www.candere.com/unroll-flip-diamond-earrings.html",
-      "source": "Kalyan Jewellers",
-      "category": "Diamond Jewelry"
-    },
-    {
-      "name": "Three for One Miracle Diamond Flexi Ring",
-      "price": 30526,
-      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=",
-      "url": "https://www.candere.com/three-for-one-miracle-diamond-flexi-ring.html",
-      "source": "Kalyan Jewellers",
-      "category": "Diamond Jewelry"
-    },
-    {
-      "name": "Blaze Daze Hera Diamond Ring",
-      "price": 36280,
-      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=",
-      "url": "https://www.candere.com/blaze-daze-hera-diamond-ring.html",
-      "source": "Kalyan Jewellers",
-      "category": "Diamond Jewelry"
-    },
-    {
-      "name": "Prink Hera Diamond Ring",
-      "price": 36423,
-      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=",
-      "url": "https://www.candere.com/prink-hera-diamond-ring.html",
-      "source": "Kalyan Jewellers",
-      "category": "Diamond Jewelry"
-    },
-    {
-      "name": "Flairious Hera Diamond Ring",
-      "price": 27892,
-      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=",
-      "url": "https://www.candere.com/flairious-hera-diamond-ring.html",
-      "source": "Kalyan Jewellers",
-      "category": "Diamond Jewelry"
-    },
-    {
-      "name": "Cowboy Diamond Flexi Necklace",
-      "price": 86822,
-      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=",
-      "url": "https://www.candere.com/cowboy-diamond-flexi-necklace.html",
-      "source": "Kalyan Jewellers",
-      "category": "Diamond Jewelry"
-    },
-    {
-      "name": "Bubbly Diamond Flexi Ring",
-      "price": 34435,
-      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=",
-      "url": "https://www.candere.com/bubbly-diamond-flexi-ring.html",
-      "source": "Kalyan Jewellers",
-      "category": "Diamond Jewelry"
-    },
-    {
-      "name": "Dancing Dolphins Gold Ring",
-      "price": 79788,
-      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=",
-      "url": "https://www.candere.com/dancing-dolphins-gold-ring.html",
-      "source": "Kalyan Jewellers",
-      "category": "Diamond Jewelry"
-    },
-    {
-      "name": "Floral Diamond Pendant",
-      "price": 28470,
-      "image": "https://images.unsplash.com/photo-1599643478518-a784e5dc4c8f?w=400&h=400&fit=crop",
-      "url": "https://www.tanishq.co.in/collections/diamond-jewellery",
-      "source": "Tanishq",
-      "category": "Diamond Jewelry"
-    },
-    {
-      "name": "Solitaire Diamond Ring",
-      "price": 52300,
-      "image": "https://images.unsplash.com/photo-1605100804763-247f67b3557e?w=400&h=400&fit=crop",
-      "url": "https://www.tanishq.co.in/collections/diamond-jewellery",
-      "source": "Tanishq",
-      "category": "Diamond Jewelry"
-    },
-    {
-      "name": "Diamond Cluster Earrings",
-      "price": 34500,
-      "image": "https://images.unsplash.com/photo-1535632066927-ab7c9ab60908?w=400&h=400&fit=crop",
-      "url": "https://www.tanishq.co.in/collections/diamond-jewellery",
-      "source": "Tanishq",
-      "category": "Diamond Jewelry"
-    },
-    {
-      "name": "Elegant Diamond Necklace",
-      "price": 145000,
-      "image": "https://images.unsplash.com/photo-1611591437281-460bfbe1220a?w=400&h=400&fit=crop",
-      "url": "https://www.tanishq.co.in/collections/diamond-jewellery",
-      "source": "Tanishq",
       "category": "Diamond Jewelry"
     },
     {
@@ -657,6 +721,6 @@
       "category": "Diamond Jewelry"
     }
   ],
-  "lastFetched": "2026-03-31T13:13:06.641Z",
-  "count": 82
+  "lastFetched": "2026-03-31T18:59:17.177Z",
+  "count": 90
 }
