@@ -90,7 +90,7 @@
     },
     {
       "name": "Winged Arc Diamond Ring",
-      "price": 109481,
+      "price": 104873,
       "image": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw4fdc7527/images/hi-res/50D5WMFCIAA02_1.jpg",
       "url": "https://www.tanishq.co.in/product/winged-arc-diamond-ring-50d5wmfciaa02.html?lang=en_IN",
       "source": "Tanishq",
@@ -465,6 +465,14 @@
       "category": "Diamond Jewelry"
     },
     {
+      "name": "Sarika Eternity Diamond Band",
+      "price": 50913,
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=",
+      "url": "https://www.candere.com/sarika-diamond-eternity-band.html",
+      "source": "Kalyan Jewellers",
+      "category": "Diamond Jewelry"
+    },
+    {
       "name": "Flower Bow Kids Diamond Earrings",
       "price": 21218,
       "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=",
@@ -477,6 +485,14 @@
       "price": 21885,
       "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=",
       "url": "https://www.candere.com/firefly-kids-gemstone-gold-earrings.html",
+      "source": "Kalyan Jewellers",
+      "category": "Diamond Jewelry"
+    },
+    {
+      "name": "Rushada Diamond Earrings",
+      "price": 104686,
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=",
+      "url": "https://www.candere.com/rushada-diamond-earrings.html",
       "source": "Kalyan Jewellers",
       "category": "Diamond Jewelry"
     },
@@ -509,246 +525,6 @@
       "price": 34721,
       "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=",
       "url": "https://www.candere.com/fly-high-kids-gold-earrings.html",
-      "source": "Kalyan Jewellers",
-      "category": "Diamond Jewelry"
-    },
-    {
-      "name": "Frog Prince Kids Gold Earrings",
-      "price": 18162,
-      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=",
-      "url": "https://www.candere.com/frog-prince-kids-gold-earrings.html",
-      "source": "Kalyan Jewellers",
-      "category": "Diamond Jewelry"
-    },
-    {
-      "name": "Pyramid Kids Gold Earrings",
-      "price": 16213,
-      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=",
-      "url": "https://www.candere.com/pyramid-kids-gold-earrings.html",
-      "source": "Kalyan Jewellers",
-      "category": "Diamond Jewelry"
-    },
-    {
-      "name": "Baby Hearts Kids Diamond Earrings",
-      "price": 22243,
-      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=",
-      "url": "https://www.candere.com/baby-hearts-kids-diamond-earrings.html",
-      "source": "Kalyan Jewellers",
-      "category": "Diamond Jewelry"
-    },
-    {
-      "name": "Cherise Kids Gold Earrings",
-      "price": 15659,
-      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=",
-      "url": "https://www.candere.com/cherise-kids-gold-earrings.html",
-      "source": "Kalyan Jewellers",
-      "category": "Diamond Jewelry"
-    },
-    {
-      "name": "Red Berries Kids Gold Earrings",
-      "price": 19385,
-      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=",
-      "url": "https://www.candere.com/red-berries-kids-gold-earrings.html",
-      "source": "Kalyan Jewellers",
-      "category": "Diamond Jewelry"
-    },
-    {
-      "name": "Dwarf Palm Kids Diamond Earrings",
-      "price": 24904,
-      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=",
-      "url": "https://www.candere.com/dwarf-palm-kids-diamond-earrings.html",
-      "source": "Kalyan Jewellers",
-      "category": "Diamond Jewelry"
-    },
-    {
-      "name": "Dolphin Kids Diamond Earrings",
-      "price": 18240,
-      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=",
-      "url": "https://www.candere.com/dolphin-kids-diamond-earrings.html",
-      "source": "Kalyan Jewellers",
-      "category": "Diamond Jewelry"
-    },
-    {
-      "name": "Little Princess Kids Gold Earrings",
-      "price": 18615,
-      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=",
-      "url": "https://www.candere.com/little-princess-kids-gold-earrings.html",
-      "source": "Kalyan Jewellers",
-      "category": "Diamond Jewelry"
-    },
-    {
-      "name": "Heiress Kids Diamond Earrings",
-      "price": 22503,
-      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=",
-      "url": "https://www.candere.com/heiress-kids-diamond-earrings.html",
-      "source": "Kalyan Jewellers",
-      "category": "Diamond Jewelry"
-    },
-    {
-      "name": "Stargaze Kids Gold Earrings",
-      "price": 14768,
-      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=",
-      "url": "https://www.candere.com/stargaze-kids-gold-earrings.html",
-      "source": "Kalyan Jewellers",
-      "category": "Diamond Jewelry"
-    },
-    {
-      "name": "Rapture Kids Gold Earrings",
-      "price": 15100,
-      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=",
-      "url": "https://www.candere.com/rapture-kids-gold-earrings.html",
-      "source": "Kalyan Jewellers",
-      "category": "Diamond Jewelry"
-    },
-    {
-      "name": "Full Bloom Kids Gold Earrings",
-      "price": 16928,
-      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=",
-      "url": "https://www.candere.com/full-bloom-kids-gold-earrings.html",
-      "source": "Kalyan Jewellers",
-      "category": "Diamond Jewelry"
-    },
-    {
-      "name": "Pretty Petals Kids Gold Earrings",
-      "price": 20284,
-      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=",
-      "url": "https://www.candere.com/pretty-petals-kids-gold-earrings.html",
-      "source": "Kalyan Jewellers",
-      "category": "Diamond Jewelry"
-    },
-    {
-      "name": "Bug Me Kids Gold Earrings",
-      "price": 15933,
-      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=",
-      "url": "https://www.candere.com/bug-me-kids-gold-earrings.html",
-      "source": "Kalyan Jewellers",
-      "category": "Diamond Jewelry"
-    },
-    {
-      "name": "Sway Away Kids Gold Earrings",
-      "price": 16692,
-      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=",
-      "url": "https://www.candere.com/sway-away-kids-gold-earrings.html",
-      "source": "Kalyan Jewellers",
-      "category": "Diamond Jewelry"
-    },
-    {
-      "name": "Yen Kids Diamond Earrings",
-      "price": 21659,
-      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=",
-      "url": "https://www.candere.com/yen-kids-diamond-earrings.html",
-      "source": "Kalyan Jewellers",
-      "category": "Diamond Jewelry"
-    },
-    {
-      "name": "Little Vermin Kids Gold Earrings",
-      "price": 20027,
-      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=",
-      "url": "https://www.candere.com/little-vermin-kids-gold-earrings.html",
-      "source": "Kalyan Jewellers",
-      "category": "Diamond Jewelry"
-    },
-    {
-      "name": "Pesty Butterfly Kids Gold Earrings",
-      "price": 14046,
-      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=",
-      "url": "https://www.candere.com/pesty-butterfly-kids-gold-earrings.html",
-      "source": "Kalyan Jewellers",
-      "category": "Diamond Jewelry"
-    },
-    {
-      "name": "Ekakshara Gold Pendant",
-      "price": 35688,
-      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=",
-      "url": "https://www.candere.com/ekakshara-gold-pendant.html",
-      "source": "Kalyan Jewellers",
-      "category": "Diamond Jewelry"
-    },
-    {
-      "name": "A Initial Kids Diamond Pendant With Chain",
-      "price": 53566,
-      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=",
-      "url": "https://www.candere.com/a-initial-kids-diamond-pendant-with-chain.html",
-      "source": "Kalyan Jewellers",
-      "category": "Diamond Jewelry"
-    },
-    {
-      "name": "Kettai Vanki Diamond Ring",
-      "price": 74729,
-      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=",
-      "url": "https://www.candere.com/kettai-vanki-diamond-ring.html",
-      "source": "Kalyan Jewellers",
-      "category": "Diamond Jewelry"
-    },
-    {
-      "name": "Visakam Vanki Diamond Ring",
-      "price": 87650,
-      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=",
-      "url": "https://www.candere.com/visakam-vanki-diamond-ring.html",
-      "source": "Kalyan Jewellers",
-      "category": "Diamond Jewelry"
-    },
-    {
-      "name": "Unroll Flip Diamond Earrings",
-      "price": 71124,
-      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=",
-      "url": "https://www.candere.com/unroll-flip-diamond-earrings.html",
-      "source": "Kalyan Jewellers",
-      "category": "Diamond Jewelry"
-    },
-    {
-      "name": "Three for One Miracle Diamond Flexi Ring",
-      "price": 30656,
-      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=",
-      "url": "https://www.candere.com/three-for-one-miracle-diamond-flexi-ring.html",
-      "source": "Kalyan Jewellers",
-      "category": "Diamond Jewelry"
-    },
-    {
-      "name": "Blaze Daze Hera Diamond Ring",
-      "price": 36443,
-      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=",
-      "url": "https://www.candere.com/blaze-daze-hera-diamond-ring.html",
-      "source": "Kalyan Jewellers",
-      "category": "Diamond Jewelry"
-    },
-    {
-      "name": "Prink Hera Diamond Ring",
-      "price": 36580,
-      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=",
-      "url": "https://www.candere.com/prink-hera-diamond-ring.html",
-      "source": "Kalyan Jewellers",
-      "category": "Diamond Jewelry"
-    },
-    {
-      "name": "Flairious Hera Diamond Ring",
-      "price": 28021,
-      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=",
-      "url": "https://www.candere.com/flairious-hera-diamond-ring.html",
-      "source": "Kalyan Jewellers",
-      "category": "Diamond Jewelry"
-    },
-    {
-      "name": "Cowboy Diamond Flexi Necklace",
-      "price": 87190,
-      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=",
-      "url": "https://www.candere.com/cowboy-diamond-flexi-necklace.html",
-      "source": "Kalyan Jewellers",
-      "category": "Diamond Jewelry"
-    },
-    {
-      "name": "Bubbly Diamond Flexi Ring",
-      "price": 34520,
-      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=",
-      "url": "https://www.candere.com/bubbly-diamond-flexi-ring.html",
-      "source": "Kalyan Jewellers",
-      "category": "Diamond Jewelry"
-    },
-    {
-      "name": "Dancing Dolphins Gold Ring",
-      "price": 80243,
-      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=",
-      "url": "https://www.candere.com/dancing-dolphins-gold-ring.html",
       "source": "Kalyan Jewellers",
       "category": "Diamond Jewelry"
     },
@@ -817,6 +593,6 @@
       "category": "Diamond Jewelry"
     }
   ],
-  "lastFetched": "2026-04-06T18:55:39.627Z",
-  "count": 102
+  "lastFetched": "2026-04-07T02:07:29.023Z",
+  "count": 74
 }
