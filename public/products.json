@@ -194,7 +194,7 @@
     },
     {
       "name": "Aerial Bloom Diamond Drop Earrings",
-      "price": 8390389537,
+      "price": null,
       "image": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwd0cafa16/images/hi-res/50D5WMDACABA02_1.jpg",
       "url": "https://www.tanishq.co.in/product/aerial-bloom-diamond-drop-earrings-50d5wmdacaba02.html?lang=en_IN",
       "source": "Tanishq",
@@ -473,8 +473,16 @@
       "category": "Diamond Jewelry"
     },
     {
+      "name": "Sarika Eternity Diamond Band",
+      "price": 53336,
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=",
+      "url": "https://www.candere.com/sarika-diamond-eternity-band.html",
+      "source": "Kalyan Jewellers",
+      "category": "Diamond Jewelry"
+    },
+    {
       "name": "Flower Bow Kids Diamond Earrings",
-      "price": 21358,
+      "price": 20755,
       "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=",
       "url": "https://www.candere.com/flower-bow-kids-diamond-earrings.html",
       "source": "Kalyan Jewellers",
@@ -485,6 +493,14 @@
       "price": 22060,
       "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=",
       "url": "https://www.candere.com/firefly-kids-gemstone-gold-earrings.html",
+      "source": "Kalyan Jewellers",
+      "category": "Diamond Jewelry"
+    },
+    {
+      "name": "Rushada Diamond Earrings",
+      "price": 104978,
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=",
+      "url": "https://www.candere.com/rushada-diamond-earrings.html",
       "source": "Kalyan Jewellers",
       "category": "Diamond Jewelry"
     },
@@ -585,6 +601,6 @@
       "category": "Diamond Jewelry"
     }
   ],
-  "lastFetched": "2026-04-10T18:48:23.949Z",
-  "count": 73
+  "lastFetched": "2026-04-11T02:01:25.075Z",
+  "count": 75
 }
