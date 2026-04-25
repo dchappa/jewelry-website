@@ -169,14 +169,6 @@
       "category": "Diamond Jewelry"
     },
     {
-      "name": "Feather Trace Diamond Drop Earrings",
-      "price": 46419,
-      "image": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw1fee4775/images/hi-res/50D5WMDASAAA02_1.jpg",
-      "url": "https://www.tanishq.co.in/product/feather-trace-diamond-drop-earrings-50d5wmdasaaa02.html?lang=en_IN",
-      "source": "Tanishq",
-      "category": "Diamond Jewelry"
-    },
-    {
       "name": "Aerial Curve Diamond Stud Earrings",
       "price": 109163,
       "image": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw02380f3f/images/hi-res/50D5WMSBVAAA02_1.jpg",
@@ -189,6 +181,14 @@
       "price": 102023,
       "image": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw77cc86ab/images/hi-res/55D5WMDCIABA02_1.jpg",
       "url": "https://www.tanishq.co.in/product/radiant-wings-diamond-drop-earrings-55d5wmdciaba02.html?lang=en_IN",
+      "source": "Tanishq",
+      "category": "Diamond Jewelry"
+    },
+    {
+      "name": "Whispering Wings Diamond Drop Earrings",
+      "price": 139612,
+      "image": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw4ebb4754/images/hi-res/55D5WMDAZADA32_1.jpg",
+      "url": "https://www.tanishq.co.in/product/whispering-wings-diamond-drop-earrings-55d5wmdazada32.html?lang=en_IN",
       "source": "Tanishq",
       "category": "Diamond Jewelry"
     },
@@ -609,6 +609,6 @@
       "category": "Diamond Jewelry"
     }
   ],
-  "lastFetched": "2026-04-25T07:11:28.199Z",
+  "lastFetched": "2026-04-25T12:59:26.105Z",
   "count": 76
 }
