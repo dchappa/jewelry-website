@@ -426,7 +426,7 @@
     },
     {
       "name": "Prism Leaf Diamond Earrings",
-      "price": 59810,
+      "price": 56916,
       "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=",
       "url": "https://www.candere.com/prism-leaf-diamond-earrings.html",
       "source": "Kalyan Jewellers",
@@ -434,7 +434,7 @@
     },
     {
       "name": "Prism Leaf Diamond Necklace",
-      "price": 81018,
+      "price": 76876,
       "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=",
       "url": "https://www.candere.com/prism-leaf-diamond-necklace.html",
       "source": "Kalyan Jewellers",
@@ -450,7 +450,7 @@
     },
     {
       "name": "Bluvera Diamond Earrings",
-      "price": 63224,
+      "price": 62363,
       "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=",
       "url": "https://www.candere.com/bluvera-diamond-earrings.html",
       "source": "Kalyan Jewellers",
@@ -458,7 +458,7 @@
     },
     {
       "name": "Bluvera Diamond Necklace",
-      "price": 88511,
+      "price": 84176,
       "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=",
       "url": "https://www.candere.com/bluvera-diamond-necklace.html",
       "source": "Kalyan Jewellers",
@@ -633,6 +633,6 @@
       "category": "Diamond Jewelry"
     }
   ],
-  "lastFetched": "2026-05-12T14:16:34.352Z",
+  "lastFetched": "2026-05-12T19:47:30.190Z",
   "count": 79
 }
