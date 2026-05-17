@@ -234,7 +234,7 @@
     },
     {
       "name": "Bluvera Diamond Necklace",
-      "price": 85064,
+      "price": 89462,
       "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=",
       "url": "https://www.candere.com/bluvera-diamond-necklace.html",
       "source": "Kalyan Jewellers",
@@ -417,6 +417,6 @@
       "category": "Diamond Jewelry"
     }
   ],
-  "lastFetched": "2026-05-16T19:01:02.526Z",
+  "lastFetched": "2026-05-17T02:49:16.704Z",
   "count": 52
 }
