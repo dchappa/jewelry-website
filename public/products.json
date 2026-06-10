@@ -17,10 +17,26 @@
       "category": "Diamond Jewelry"
     },
     {
+      "name": "Regal Halo Diamond Pendant and Earrings Set",
+      "price": 144016,
+      "image": "https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwc9534a27/images/hi-res/50IEP41AIADA34_1.jpg?sw=480&sh=480",
+      "url": "https://www.tanishq.co.in/product/regal-halo-diamond-pendant-and-earrings-set-50iep41aiada34.html?lang=en_IN",
+      "source": "Tanishq",
+      "category": "Diamond Jewelry"
+    },
+    {
       "name": "Mooncrest Pearl Diamond Pendant with Chain and Earrings Set",
       "price": 230042,
       "image": "https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw02869e62/images/hi-res/50IEP40AHGDA34_1.jpg?sw=480&sh=480",
       "url": "https://www.tanishq.co.in/product/mooncrest-pearl-diamond-pendant-with-chain-and-earrings-set-50iep40ahgda34.html?lang=en_IN",
+      "source": "Tanishq",
+      "category": "Diamond Jewelry"
+    },
+    {
+      "name": "Arc Spark Diamond Ring",
+      "price": 61461,
+      "image": "https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwbf83211c/images/hi-res/55IEP4FALAA29_1.jpg?sw=480&sh=480",
+      "url": "https://www.tanishq.co.in/product/arc-spark-diamond-ring-55iep4falaa29.html?lang=en_IN",
       "source": "Tanishq",
       "category": "Diamond Jewelry"
     },
@@ -173,22 +189,6 @@
       "price": 104523,
       "image": "https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw3a0b7884/images/hi-res/55D5WXVAJ1A02_1.jpg?sw=480&sh=480",
       "url": "https://www.tanishq.co.in/product/flutter-wings-diamond-bangle-55d5wxvaj1a02.html?lang=en_IN",
-      "source": "Tanishq",
-      "category": "Diamond Jewelry"
-    },
-    {
-      "name": "Blush Bloom Diamond Mangalsutra",
-      "price": 66162,
-      "image": "https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw21982bbd/images/hi-res/50D6GPYAGAA09_1.jpg?sw=480&sh=480",
-      "url": "https://www.tanishq.co.in/product/blush-bloom-diamond-mangalsutra-50d6gpyagaa09.html?lang=en_IN",
-      "source": "Tanishq",
-      "category": "Diamond Jewelry"
-    },
-    {
-      "name": "Petal Twist Diamond Pendant with Chain",
-      "price": 99178,
-      "image": "https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw21101d5b/images/hi-res/50D5JSGEMAA29_1.jpg?sw=480&sh=480",
-      "url": "https://www.tanishq.co.in/product/petal-twist-diamond-pendant-with-chain-50d5jsgemaa29.html?lang=en_IN",
       "source": "Tanishq",
       "category": "Diamond Jewelry"
     },
@@ -633,6 +633,6 @@
       "category": "Diamond Jewelry"
     }
   ],
-  "lastFetched": "2026-06-09T20:04:01.387Z",
+  "lastFetched": "2026-06-10T03:27:11.950Z",
   "count": 79
 }
