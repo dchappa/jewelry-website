@@ -425,6 +425,94 @@
       "category": "Diamond Jewelry"
     },
     {
+      "name": "Sorina Diamond Necklace",
+      "price": 171589,
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=",
+      "url": "https://www.candere.com/sorina-diamond-necklace.html",
+      "source": "Kalyan Jewellers",
+      "category": "Diamond Jewelry"
+    },
+    {
+      "name": "Virella Diamond Necklace",
+      "price": 127000,
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=",
+      "url": "https://www.candere.com/virella-diamond-necklace.html",
+      "source": "Kalyan Jewellers",
+      "category": "Diamond Jewelry"
+    },
+    {
+      "name": "Sore Diamond Earrings",
+      "price": 43197,
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=",
+      "url": "https://www.candere.com/sore-diamond-earrings.html",
+      "source": "Kalyan Jewellers",
+      "category": "Diamond Jewelry"
+    },
+    {
+      "name": "Sinclair Diamond Earrings",
+      "price": 40714,
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=",
+      "url": "https://www.candere.com/sinclair-diamond-earrings.html",
+      "source": "Kalyan Jewellers",
+      "category": "Diamond Jewelry"
+    },
+    {
+      "name": "Bubba Diamond Earrings",
+      "price": 34891,
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=",
+      "url": "https://www.candere.com/bubba-diamond-earrings.html",
+      "source": "Kalyan Jewellers",
+      "category": "Diamond Jewelry"
+    },
+    {
+      "name": "Inigo Diamond Earrings",
+      "price": 44504,
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=",
+      "url": "https://www.candere.com/inigo-diamond-earrings.html",
+      "source": "Kalyan Jewellers",
+      "category": "Diamond Jewelry"
+    },
+    {
+      "name": "Neytiri Diamond Earrings",
+      "price": 45752,
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=",
+      "url": "https://www.candere.com/neytiri-diamond-earrings.html",
+      "source": "Kalyan Jewellers",
+      "category": "Diamond Jewelry"
+    },
+    {
+      "name": "Solis Diamond Earrings",
+      "price": 42902,
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=",
+      "url": "https://www.candere.com/solis-diamond-earrings.html",
+      "source": "Kalyan Jewellers",
+      "category": "Diamond Jewelry"
+    },
+    {
+      "name": "Kalyra Diamond Earrings",
+      "price": 39687,
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=",
+      "url": "https://www.candere.com/kalyra-diamond-earrings.html",
+      "source": "Kalyan Jewellers",
+      "category": "Diamond Jewelry"
+    },
+    {
+      "name": "Vespera Diamond Earrings",
+      "price": 53492,
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=",
+      "url": "https://www.candere.com/vespera-diamond-earrings.html",
+      "source": "Kalyan Jewellers",
+      "category": "Diamond Jewelry"
+    },
+    {
+      "name": "Sorina Diamond Earrings",
+      "price": 58565,
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=",
+      "url": "https://www.candere.com/sorina-diamond-earrings.html",
+      "source": "Kalyan Jewellers",
+      "category": "Diamond Jewelry"
+    },
+    {
       "name": "Krillin Diamond Ring",
       "price": 20049,
       "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=",
@@ -457,94 +545,6 @@
       "category": "Diamond Jewelry"
     },
     {
-      "name": "BlueMuse Diamond Necklace",
-      "price": 81307,
-      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=",
-      "url": "https://www.candere.com/bluemuse-diamond-necklace.html",
-      "source": "Kalyan Jewellers",
-      "category": "Diamond Jewelry"
-    },
-    {
-      "name": "Ignara Diamond Pendant with chain",
-      "price": 66814,
-      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=",
-      "url": "https://www.candere.com/ignara-diamond-pendant-with-chain.html",
-      "source": "Kalyan Jewellers",
-      "category": "Diamond Jewelry"
-    },
-    {
-      "name": "Trielle Diamond Necklace",
-      "price": 89863,
-      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=",
-      "url": "https://www.candere.com/trielle-diamond-necklace.html",
-      "source": "Kalyan Jewellers",
-      "category": "Diamond Jewelry"
-    },
-    {
-      "name": "Twinspire Diamond Pendant with chain",
-      "price": 83320,
-      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=",
-      "url": "https://www.candere.com/twinspire-diamond-pendant-with-chain.html",
-      "source": "Kalyan Jewellers",
-      "category": "Diamond Jewelry"
-    },
-    {
-      "name": "Zephira Diamond Necklace",
-      "price": 260335,
-      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=",
-      "url": "https://www.candere.com/zephira-diamond-necklace.html",
-      "source": "Kalyan Jewellers",
-      "category": "Diamond Jewelry"
-    },
-    {
-      "name": "Flamara Diamond Bracelet",
-      "price": 42165,
-      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=",
-      "url": "https://www.candere.com/flamara-diamond-bracelet.html",
-      "source": "Kalyan Jewellers",
-      "category": "Diamond Jewelry"
-    },
-    {
-      "name": "Seravine Diamond Ring",
-      "price": 33943,
-      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=",
-      "url": "https://www.candere.com/seravine-diamond-ring.html",
-      "source": "Kalyan Jewellers",
-      "category": "Diamond Jewelry"
-    },
-    {
-      "name": "Hikari Diamond Ring",
-      "price": 43299,
-      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=",
-      "url": "https://www.candere.com/hikari-diamond-ring.html",
-      "source": "Kalyan Jewellers",
-      "category": "Diamond Jewelry"
-    },
-    {
-      "name": "Cyanara Diamond Ring",
-      "price": 38220,
-      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=",
-      "url": "https://www.candere.com/cyanara-diamond-ring.html",
-      "source": "Kalyan Jewellers",
-      "category": "Diamond Jewelry"
-    },
-    {
-      "name": "Obsidian Diamond Ring",
-      "price": 47348,
-      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=",
-      "url": "https://www.candere.com/obsidian-diamond-ring.html",
-      "source": "Kalyan Jewellers",
-      "category": "Diamond Jewelry"
-    },
-    {
-      "name": "Vilgax Diamond Pendant with chain",
-      "price": 91649,
-      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=",
-      "url": "https://www.candere.com/vilgax-diamond-pendant-with-chain.html",
-      "source": "Kalyan Jewellers",
-      "category": "Diamond Jewelry"
-    },
-    {
       "name": ".wishlist-hero-custom-button.wishlisthero-quick-view.wlh-right-btn > div > button {\n        padding: 8px !important;\n        border-radius:50%;\n        height: 33px !important;\n        width: 33px;\n    }\n    .wishlist-hero-custom-button.wishlisthero-floating button {\n        width: 35px !important;\n        height: 35px !important;\n        font-size:16px !important\n    }\n    @media (max-width: 480px) {\n        .wishlist-hero-custom-button.wishlisthero-quick-view.wlh-right-btn > div > button {\n            height: 32px !important;\n            width: 32px !important;\n        }\n        .wishlist-hero-custom-button.wishlisthero-floating button {\n            width: 30px !important;\n            height: 30px !important;\n            font-size:16px !important\n        }\n    }\n\n\n                \n              \n              \n            \n                  \n                  \n                  \n\n                    \n\n\n\n\n\n\n\n \n\n    .wishlist-hero-custom-button.wishlisthero-quick-view.wlh-right-btn > div > button {\n        padding: 8px !important;\n        border-radius:50%;\n        height: 33px !important;\n        width: 33px;\n    }\n    .wishlist-hero-custom-button.wishlisthero-floating button {\n        width: 35px !important;\n        height: 35px !important;\n        font-size:16px !important\n    }\n    @media (max-width: 480px) {\n        .wishlist-hero-custom-button.wishlisthero-quick-view.wlh-right-btn > div > button {\n            height: 32px !important;\n            width: 32px !important;\n        }\n        .wishlist-hero-custom-button.wishlisthero-floating button {\n            width: 30px !important;\n            height: 30px !important;\n            font-size:16px !important\n        }\n    }\n\n\n                    \n                    \n                  \n                  \n                \n              \n  \n\n  \n  \n\n          \n          \n              \n            \n        \n        \n          \n            Flat 50% off on making charge \n          \n        \n      \n  .discount-font {\n  font-size:12px;letter-spacing: 0px;\n  }\n   @media (max-width: 749px) {\n    .discount-font {\n  font-size:10px;letter-spacing: 0px;\n  }\n   }\n\n   .making-offer-box {\n  background: #e9e1ea; /* light purple */\n  border-radius: 14px;\n  padding: 16px 18px;\n  margin: 20px 0;\n  max-width:340px;\n}\n\n.making-offer-inner {\n  display: flex;\n  align-items: center;\n  gap: 12px;\n}\n\n.making-offer-icon {\n  width: 32px;\n  height: 32px;\n  border-radius: 50%;\n  background: linear-gradient(180deg, #FBE284 0%, #C19750 52.4%, #955D27 75%, #DBA926 100%);\n  display: flex;\n  align-items: center;\n  justify-content: center;\n}\n\n.making-offer-icon svg {\n  background: #e9e1ea; /* same as parent bg */\n  border-radius: 50%;\n  padding: 6px;\n  width:28px;\n  height:28px\n\n}\n\n.making-offer-divider {\n  width: 1px;\n  height: 40px;\n  background: #bfaec2;\n}\n\n.making-offer-content {\n  display: flex;\n  flex-direction: column;\n}\n\n.making-offer-title {\n background: linear-gradient(180deg, #4D2753 0%, #1C0E2B 142.55%);\n  -webkit-background-clip: text;\n  -webkit-text-fill-color: transparent;\n  margin: 0;\n\n  font-family: Helvetica;\n  font-weight: 400;\n  font-size: 14.49px;\n  line-height: 100%;\n  letter-spacing: 0%;\n\n}\n\n.making-offer-save {\n  background: linear-gradient(180deg, #4D2753 0%, #1C0E2B 142.55%);\n  -webkit-background-clip: text;\n  -webkit-text-fill-color: transparent;\n  margin: 8px 0 0;\n\n  font-family: Helvetica;\n  font-weight: 800;\n  font-size: 14.49px;\n  line-height: 100%;\n  letter-spacing: 0%;\n}\n\n            \n      \n    \n        Sale",
       "price": 10136001193900.102,
       "image": "https://www.pngjewellers.com/cdn/shop/files/DIDN0012-FXY48-main.webp?v=1747916515&width=1500",
@@ -569,10 +569,18 @@
       "category": "Diamond Jewelry"
     },
     {
+      "name": ".wishlist-hero-custom-button.wishlisthero-quick-view.wlh-right-btn > div > button {\n        padding: 8px !important;\n        border-radius:50%;\n        height: 33px !important;\n        width: 33px;\n    }\n    .wishlist-hero-custom-button.wishlisthero-floating button {\n        width: 35px !important;\n        height: 35px !important;\n        font-size:16px !important\n    }\n    @media (max-width: 480px) {\n        .wishlist-hero-custom-button.wishlisthero-quick-view.wlh-right-btn > div > button {\n            height: 32px !important;\n            width: 32px !important;\n        }\n        .wishlist-hero-custom-button.wishlisthero-floating button {\n            width: 30px !important;\n            height: 30px !important;\n            font-size:16px !important\n        }\n    }\n\n\n                \n              \n              \n            \n                  \n                  \n                  \n\n                    \n\n\n\n\n\n\n\n \n\n    .wishlist-hero-custom-button.wishlisthero-quick-view.wlh-right-btn > div > button {\n        padding: 8px !important;\n        border-radius:50%;\n        height: 33px !important;\n        width: 33px;\n    }\n    .wishlist-hero-custom-button.wishlisthero-floating button {\n        width: 35px !important;\n        height: 35px !important;\n        font-size:16px !important\n    }\n    @media (max-width: 480px) {\n        .wishlist-hero-custom-button.wishlisthero-quick-view.wlh-right-btn > div > button {\n            height: 32px !important;\n            width: 32px !important;\n        }\n        .wishlist-hero-custom-button.wishlisthero-floating button {\n            width: 30px !important;\n            height: 30px !important;\n            font-size:16px !important\n        }\n    }\n\n\n                    \n                    \n                  \n                  \n                \n              \n  \n\n  \n  \n\n          \n          \n              \n            \n        \n        \n          \n            Flat 30% off on making charge \n          \n        \n      \n  .discount-font {\n  font-size:12px;letter-spacing: 0px;\n  }\n   @media (max-width: 749px) {\n    .discount-font {\n  font-size:10px;letter-spacing: 0px;\n  }\n   }\n\n   .making-offer-box {\n  background: #e9e1ea; /* light purple */\n  border-radius: 14px;\n  padding: 16px 18px;\n  margin: 20px 0;\n  max-width:340px;\n}\n\n.making-offer-inner {\n  display: flex;\n  align-items: center;\n  gap: 12px;\n}\n\n.making-offer-icon {\n  width: 32px;\n  height: 32px;\n  border-radius: 50%;\n  background: linear-gradient(180deg, #FBE284 0%, #C19750 52.4%, #955D27 75%, #DBA926 100%);\n  display: flex;\n  align-items: center;\n  justify-content: center;\n}\n\n.making-offer-icon svg {\n  background: #e9e1ea; /* same as parent bg */\n  border-radius: 50%;\n  padding: 6px;\n  width:28px;\n  height:28px\n\n}\n\n.making-offer-divider {\n  width: 1px;\n  height: 40px;\n  background: #bfaec2;\n}\n\n.making-offer-content {\n  display: flex;\n  flex-direction: column;\n}\n\n.making-offer-title {\n background: linear-gradient(180deg, #4D2753 0%, #1C0E2B 142.55%);\n  -webkit-background-clip: text;\n  -webkit-text-fill-color: transparent;\n  margin: 0;\n\n  font-family: Helvetica;\n  font-weight: 400;\n  font-size: 14.49px;\n  line-height: 100%;\n  letter-spacing: 0%;\n\n}\n\n.making-offer-save {\n  background: linear-gradient(180deg, #4D2753 0%, #1C0E2B 142.55%);\n  -webkit-background-clip: text;\n  -webkit-text-fill-color: transparent;\n  margin: 8px 0 0;\n\n  font-family: Helvetica;\n  font-weight: 800;\n  font-size: 14.49px;\n  line-height: 100%;\n  letter-spacing: 0%;\n}",
+      "price": 13996001507700.14,
+      "image": "https://www.pngjewellers.com/cdn/shop/files/DNP24006_C_3a2fe866-ae71-4744-b95d-b25352493347.jpg?v=1772819967&width=1500",
+      "url": "https://www.pngjewellers.com/products/glint-petalia-diamond-nosepin",
+      "source": "PNG Jewellers",
+      "category": "Diamond Jewelry"
+    },
+    {
       "name": ".wishlist-hero-custom-button.wishlisthero-quick-view.wlh-right-btn > div > button {\n        padding: 8px !important;\n        border-radius:50%;\n        height: 33px !important;\n        width: 33px;\n    }\n    .wishlist-hero-custom-button.wishlisthero-floating button {\n        width: 35px !important;\n        height: 35px !important;\n        font-size:16px !important\n    }\n    @media (max-width: 480px) {\n        .wishlist-hero-custom-button.wishlisthero-quick-view.wlh-right-btn > div > button {\n            height: 32px !important;\n            width: 32px !important;\n        }\n        .wishlist-hero-custom-button.wishlisthero-floating button {\n            width: 30px !important;\n            height: 30px !important;\n            font-size:16px !important\n        }\n    }\n\n\n                \n              \n              \n            \n                  \n                  \n                  \n\n                    \n\n\n\n\n\n\n\n \n\n    .wishlist-hero-custom-button.wishlisthero-quick-view.wlh-right-btn > div > button {\n        padding: 8px !important;\n        border-radius:50%;\n        height: 33px !important;\n        width: 33px;\n    }\n    .wishlist-hero-custom-button.wishlisthero-floating button {\n        width: 35px !important;\n        height: 35px !important;\n        font-size:16px !important\n    }\n    @media (max-width: 480px) {\n        .wishlist-hero-custom-button.wishlisthero-quick-view.wlh-right-btn > div > button {\n            height: 32px !important;\n            width: 32px !important;\n        }\n        .wishlist-hero-custom-button.wishlisthero-floating button {\n            width: 30px !important;\n            height: 30px !important;\n            font-size:16px !important\n        }\n    }\n\n\n                    \n                    \n                  \n                  \n                \n              \n  \n\n  \n  \n\n          \n          \n              \n            \n        \n        \n          \n            Flat 50% off on making charge \n          \n        \n      \n  .discount-font {\n  font-size:12px;letter-spacing: 0px;\n  }\n   @media (max-width: 749px) {\n    .discount-font {\n  font-size:10px;letter-spacing: 0px;\n  }\n   }\n\n   .making-offer-box {\n  background: #e9e1ea; /* light purple */\n  border-radius: 14px;\n  padding: 16px 18px;\n  margin: 20px 0;\n  max-width:340px;\n}\n\n.making-offer-inner {\n  display: flex;\n  align-items: center;\n  gap: 12px;\n}\n\n.making-offer-icon {\n  width: 32px;\n  height: 32px;\n  border-radius: 50%;\n  background: linear-gradient(180deg, #FBE284 0%, #C19750 52.4%, #955D27 75%, #DBA926 100%);\n  display: flex;\n  align-items: center;\n  justify-content: center;\n}\n\n.making-offer-icon svg {\n  background: #e9e1ea; /* same as parent bg */\n  border-radius: 50%;\n  padding: 6px;\n  width:28px;\n  height:28px\n\n}\n\n.making-offer-divider {\n  width: 1px;\n  height: 40px;\n  background: #bfaec2;\n}\n\n.making-offer-content {\n  display: flex;\n  flex-direction: column;\n}\n\n.making-offer-title {\n background: linear-gradient(180deg, #4D2753 0%, #1C0E2B 142.55%);\n  -webkit-background-clip: text;\n  -webkit-text-fill-color: transparent;\n  margin: 0;\n\n  font-family: Helvetica;\n  font-weight: 400;\n  font-size: 14.49px;\n  line-height: 100%;\n  letter-spacing: 0%;\n\n}\n\n.making-offer-save {\n  background: linear-gradient(180deg, #4D2753 0%, #1C0E2B 142.55%);\n  -webkit-background-clip: text;\n  -webkit-text-fill-color: transparent;\n  margin: 8px 0 0;\n\n  font-family: Helvetica;\n  font-weight: 800;\n  font-size: 14.49px;\n  line-height: 100%;\n  letter-spacing: 0%;\n}",
-      "price": 83483009225600.83,
-      "image": "https://www.pngjewellers.com/cdn/shop/files/IJTNC01952XX_C.jpg?v=1772807797&width=1500",
-      "url": "https://www.pngjewellers.com/products/dainty-bond-gold-diamond-modern-mangalsutra-for-women",
+      "price": 22648002522300.227,
+      "image": "https://www.pngjewellers.com/cdn/shop/files/SG30185CH_C_20.jpg?v=1772811289&width=1500",
+      "url": "https://www.pngjewellers.com/products/mystic-mushroom-classic-gold-and-dia-pendant-for-woman",
       "source": "PNG Jewellers",
       "category": "Diamond Jewelry"
     },
@@ -633,6 +641,6 @@
       "category": "Diamond Jewelry"
     }
   ],
-  "lastFetched": "2026-06-16T16:45:45.813Z",
-  "count": 79
+  "lastFetched": "2026-06-16T20:47:20.269Z",
+  "count": 80
 }
