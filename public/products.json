@@ -137,34 +137,10 @@
       "category": "Diamond Jewelry"
     },
     {
-      "name": "Heart Flare Diamond Stud Earrings",
-      "price": 53130,
-      "image": "https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw50e0c4e4/images/hi-res/50D5S2SOEADA09_1.jpg?sw=480&sh=480",
-      "url": "https://www.tanishq.co.in/product/heart-flare-diamond-stud-earrings-50d5s2soeada09.html?lang=en_IN",
-      "source": "Tanishq",
-      "category": "Diamond Jewelry"
-    },
-    {
-      "name": "Prism Halo Diamond Drop Earrings",
-      "price": 56799,
-      "image": "https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw9c4b3be9/images/hi-res/50D5S2DOGADA09_1.jpg?sw=480&sh=480",
-      "url": "https://www.tanishq.co.in/product/prism-halo-diamond-drop-earrings-50d5s2dogada09.html?lang=en_IN",
-      "source": "Tanishq",
-      "category": "Diamond Jewelry"
-    },
-    {
       "name": "Vertex Flow Diamond Pendant",
       "price": 37148,
       "image": "https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw9fa96005/images/hi-res/50D5S2POJAAA09_1.jpg?sw=480&sh=480",
       "url": "https://www.tanishq.co.in/product/vertex-flow-diamond-pendant-50d5s2pojaaa09.html?lang=en_IN",
-      "source": "Tanishq",
-      "category": "Diamond Jewelry"
-    },
-    {
-      "name": "Edge Pulse Diamond Drop Earrings",
-      "price": 70965,
-      "image": "https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwffcb215a/images/hi-res/50D5S2DOJADA09_1.jpg?sw=480&sh=480",
-      "url": "https://www.tanishq.co.in/product/edge-pulse-diamond-drop-earrings-50d5s2dojada09.html?lang=en_IN",
       "source": "Tanishq",
       "category": "Diamond Jewelry"
     },
@@ -177,18 +153,42 @@
       "category": "Diamond Jewelry"
     },
     {
-      "name": "Triad Drift Diamond Drop Earrings",
-      "price": 76286,
-      "image": "https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw2c1a0e5c/images/hi-res/50D5S2DOFADA09_1.jpg?sw=480&sh=480",
-      "url": "https://www.tanishq.co.in/product/triad-drift-diamond-drop-earrings-50d5s2dofada09.html?lang=en_IN",
-      "source": "Tanishq",
-      "category": "Diamond Jewelry"
-    },
-    {
       "name": "Scarlet Swirl Diamond Mangalsutra",
       "price": 67875,
       "image": "https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwcf67cfa0/images/hi-res/50D6GPYACAA09_1.jpg?sw=480&sh=480",
       "url": "https://www.tanishq.co.in/product/scarlet-swirl-diamond-mangalsutra-50d6gpyacaa09.html?lang=en_IN",
+      "source": "Tanishq",
+      "category": "Diamond Jewelry"
+    },
+    {
+      "name": "Flutter Joy Diamond Drop Earrings",
+      "price": 46654,
+      "image": "https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw4d0219ca/images/hi-res/50DXWMDAJAAA02_1.jpg?sw=480&sh=480",
+      "url": "https://www.tanishq.co.in/product/flutter-joy-diamond-drop-earrings-50dxwmdajaaa02.html?lang=en_IN",
+      "source": "Tanishq",
+      "category": "Diamond Jewelry"
+    },
+    {
+      "name": "Scarlet Lotus Diamond Mangalsutra",
+      "price": 68722,
+      "image": "https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwd8200489/images/hi-res/50D6GPYAFAA09_1.jpg?sw=480&sh=480",
+      "url": "https://www.tanishq.co.in/product/scarlet-lotus-diamond-mangalsutra-50d6gpyafaa09.html?lang=en_IN",
+      "source": "Tanishq",
+      "category": "Diamond Jewelry"
+    },
+    {
+      "name": "Winged Rhythm Diamond Bangle",
+      "price": 146778,
+      "image": "https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw386409b7/images/hi-res/50D5WYVAJ1A02_1.jpg?sw=480&sh=480",
+      "url": "https://www.tanishq.co.in/product/winged-rhythm-diamond-bangle-50d5wyvaj1a02.html?lang=en_IN",
+      "source": "Tanishq",
+      "category": "Diamond Jewelry"
+    },
+    {
+      "name": "Verdant Bloom Diamond Mangalsutra",
+      "price": 74738,
+      "image": "https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwb2166168/images/hi-res/50D6GPYAHAA09_1.jpg?sw=480&sh=480",
+      "url": "https://www.tanishq.co.in/product/verdant-bloom-diamond-mangalsutra-50d6gpyahaa09.html?lang=en_IN",
       "source": "Tanishq",
       "category": "Diamond Jewelry"
     },
@@ -641,6 +641,6 @@
       "category": "Diamond Jewelry"
     }
   ],
-  "lastFetched": "2026-07-09T19:40:46.830Z",
+  "lastFetched": "2026-07-10T02:42:33.984Z",
   "count": 80
 }
