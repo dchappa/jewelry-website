@@ -1,232 +1,8 @@
 {
   "products": [
     {
-      "name": "Silent Vein Diamond Pendant",
-      "price": 30438,
-      "image": "https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw6a7aa7de/images/hi-res/50D6GPPNUAAA26_1.jpg?sw=480&sh=480",
-      "url": "https://www.tanishq.co.in/product/silent-vein-diamond-pendant-50d6gppnuaaa26.html?lang=en_IN",
-      "source": "Tanishq",
-      "category": "Diamond Jewelry"
-    },
-    {
-      "name": "Whispered Light Diamond Ring",
-      "price": 37861,
-      "image": "https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw1ddd631c/images/hi-res/50D6GPFNTAA26_1.jpg?sw=480&sh=480",
-      "url": "https://www.tanishq.co.in/product/whispered-light-diamond-ring-50d6gpfntaa26.html?lang=en_IN",
-      "source": "Tanishq",
-      "category": "Diamond Jewelry"
-    },
-    {
-      "name": "Floating Glimmer Diamond Pendant",
-      "price": 34360,
-      "image": "https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwb14324f8/images/hi-res/50D6GPPNZAAA26_1.jpg?sw=480&sh=480",
-      "url": "https://www.tanishq.co.in/product/floating-glimmer-diamond-pendant-50d6gppnzaaa26.html?lang=en_IN",
-      "source": "Tanishq",
-      "category": "Diamond Jewelry"
-    },
-    {
-      "name": "Mirror Muse Diamond Pendant",
-      "price": 41646,
-      "image": "https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw6bd5e74d/images/hi-res/50D6GPPNVAAA26_1.jpg?sw=480&sh=480",
-      "url": "https://www.tanishq.co.in/product/mirror-muse-diamond-pendant-50d6gppnvaaa26.html?lang=en_IN",
-      "source": "Tanishq",
-      "category": "Diamond Jewelry"
-    },
-    {
-      "name": "Echo Drift Diamond Drop Earrings",
-      "price": 40353,
-      "image": "https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw03a1ed36/images/hi-res/50D6GPDNMAAA26_1.jpg?sw=480&sh=480",
-      "url": "https://www.tanishq.co.in/product/echo-drift-diamond-drop-earrings-50d6gpdnmaaa26.html?lang=en_IN",
-      "source": "Tanishq",
-      "category": "Diamond Jewelry"
-    },
-    {
-      "name": "Sculpted Marquise Diamond Ring",
-      "price": 73112,
-      "image": "https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw93c86d7d/images/hi-res/50D6GPFODAA26_1.jpg?sw=480&sh=480",
-      "url": "https://www.tanishq.co.in/product/sculpted-marquise-diamond-ring-50d6gpfodaa26.html?lang=en_IN",
-      "source": "Tanishq",
-      "category": "Diamond Jewelry"
-    },
-    {
-      "name": "Hidden Gleam Diamond Stud Earrings",
-      "price": 56892,
-      "image": "https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw64187e2e/images/hi-res/50D6GPSNLABA26_1.jpg?sw=480&sh=480",
-      "url": "https://www.tanishq.co.in/product/hidden-gleam-diamond-stud-earrings-50d6gpsnlaba26.html?lang=en_IN",
-      "source": "Tanishq",
-      "category": "Diamond Jewelry"
-    },
-    {
-      "name": "Hidden Echo Diamond Bangle",
-      "price": 138659,
-      "image": "https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwc1b11723/images/hi-res/50D6GPVNC1A26_1.jpg?sw=480&sh=480",
-      "url": "https://www.tanishq.co.in/product/hidden-echo-diamond-bangle-50d6gpvnc1a26.html?lang=en_IN",
-      "source": "Tanishq",
-      "category": "Diamond Jewelry"
-    },
-    {
-      "name": "Mirror Whisper Diamond Hoop Earrings",
-      "price": 60787,
-      "image": "https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw644d50d5/images/hi-res/50D6GPHNKABA26_1.jpg?sw=480&sh=480",
-      "url": "https://www.tanishq.co.in/product/mirror-whisper-diamond-hoop-earrings-50d6gphnkaba26.html?lang=en_IN",
-      "source": "Tanishq",
-      "category": "Diamond Jewelry"
-    },
-    {
-      "name": "Midnight Glint Diamond Bracelet",
-      "price": 31812,
-      "image": "https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwe96a4bf2/images/hi-res/55IEF2BCLAA29_1.jpg?sw=480&sh=480",
-      "url": "https://www.tanishq.co.in/product/midnight-glint-diamond-bracelet-55ief2bclaa29.html?lang=en_IN",
-      "source": "Tanishq",
-      "category": "Diamond Jewelry"
-    },
-    {
-      "name": "Sunflare Teardrop Diamond Pendant with Chain",
-      "price": 48770,
-      "image": "https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwcfae7cfe/images/hi-res/50D5S2GOCAA09_1.jpg?sw=480&sh=480",
-      "url": "https://www.tanishq.co.in/product/sunflare-teardrop-diamond-pendant-with-chain-50d5s2gocaa09.html?lang=en_IN",
-      "source": "Tanishq",
-      "category": "Diamond Jewelry"
-    },
-    {
-      "name": "Regal Halo Diamond Pendant and Earrings Set",
-      "price": 141452,
-      "image": "https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwc9534a27/images/hi-res/50IEP41AIADA34_1.jpg?sw=480&sh=480",
-      "url": "https://www.tanishq.co.in/product/regal-halo-diamond-pendant-and-earrings-set-50iep41aiada34.html?lang=en_IN",
-      "source": "Tanishq",
-      "category": "Diamond Jewelry"
-    },
-    {
-      "name": "Mooncrest Pearl Diamond Pendant with Chain and Earrings Set",
-      "price": 224391,
-      "image": "https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw02869e62/images/hi-res/50IEP40AHGDA34_1.jpg?sw=480&sh=480",
-      "url": "https://www.tanishq.co.in/product/mooncrest-pearl-diamond-pendant-with-chain-and-earrings-set-50iep40ahgda34.html?lang=en_IN",
-      "source": "Tanishq",
-      "category": "Diamond Jewelry"
-    },
-    {
-      "name": "Arc Spark Diamond Ring",
-      "price": 60333,
-      "image": "https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwbf83211c/images/hi-res/55IEP4FALAA29_1.jpg?sw=480&sh=480",
-      "url": "https://www.tanishq.co.in/product/arc-spark-diamond-ring-55iep4falaa29.html?lang=en_IN",
-      "source": "Tanishq",
-      "category": "Diamond Jewelry"
-    },
-    {
-      "name": "Lustre Burst Diamond Stud Earrings",
-      "price": 56064,
-      "image": "https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwcb54d97a/images/hi-res/50D5S2SOCADA09_1.jpg?sw=480&sh=480",
-      "url": "https://www.tanishq.co.in/product/lustre-burst-diamond-stud-earrings-50d5s2socada09.html?lang=en_IN",
-      "source": "Tanishq",
-      "category": "Diamond Jewelry"
-    },
-    {
-      "name": "Prism Star Diamond Pendant with Chain",
-      "price": 48569,
-      "image": "https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw959a4d9d/images/hi-res/50D5S2GODAA09_1.jpg?sw=480&sh=480",
-      "url": "https://www.tanishq.co.in/product/prism-star-diamond-pendant-with-chain-50d5s2godaa09.html?lang=en_IN",
-      "source": "Tanishq",
-      "category": "Diamond Jewelry"
-    },
-    {
-      "name": "Halo Grid Diamond Stud Earrings",
-      "price": 55657,
-      "image": "https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw11b1c65e/images/hi-res/50D5S2SODADA09_1.jpg?sw=480&sh=480",
-      "url": "https://www.tanishq.co.in/product/halo-grid-diamond-stud-earrings-50d5s2sodada09.html?lang=en_IN",
-      "source": "Tanishq",
-      "category": "Diamond Jewelry"
-    },
-    {
-      "name": "Vertex Flow Diamond Pendant",
-      "price": 37138,
-      "image": "https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw9fa96005/images/hi-res/50D5S2POJAAA09_1.jpg?sw=480&sh=480",
-      "url": "https://www.tanishq.co.in/product/vertex-flow-diamond-pendant-50d5s2pojaaa09.html?lang=en_IN",
-      "source": "Tanishq",
-      "category": "Diamond Jewelry"
-    },
-    {
-      "name": "Void Frame Diamond Pendant with Chain",
-      "price": 35129,
-      "image": "https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwd2cf0d33/images/hi-res/50D5S2GOKAA09_1.jpg?sw=480&sh=480",
-      "url": "https://www.tanishq.co.in/product/void-frame-diamond-pendant-with-chain-50d5s2gokaa09.html?lang=en_IN",
-      "source": "Tanishq",
-      "category": "Diamond Jewelry"
-    },
-    {
-      "name": "Scarlet Swirl Diamond Mangalsutra",
-      "price": 67849,
-      "image": "https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwcf67cfa0/images/hi-res/50D6GPYACAA09_1.jpg?sw=480&sh=480",
-      "url": "https://www.tanishq.co.in/product/scarlet-swirl-diamond-mangalsutra-50d6gpyacaa09.html?lang=en_IN",
-      "source": "Tanishq",
-      "category": "Diamond Jewelry"
-    },
-    {
-      "name": "Flutter Joy Diamond Drop Earrings",
-      "price": 46635,
-      "image": "https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw4d0219ca/images/hi-res/50DXWMDAJAAA02_1.jpg?sw=480&sh=480",
-      "url": "https://www.tanishq.co.in/product/flutter-joy-diamond-drop-earrings-50dxwmdajaaa02.html?lang=en_IN",
-      "source": "Tanishq",
-      "category": "Diamond Jewelry"
-    },
-    {
-      "name": "Scarlet Lotus Diamond Mangalsutra",
-      "price": 68689,
-      "image": "https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwd8200489/images/hi-res/50D6GPYAFAA09_1.jpg?sw=480&sh=480",
-      "url": "https://www.tanishq.co.in/product/scarlet-lotus-diamond-mangalsutra-50d6gpyafaa09.html?lang=en_IN",
-      "source": "Tanishq",
-      "category": "Diamond Jewelry"
-    },
-    {
-      "name": "Winged Rhythm Diamond Bangle",
-      "price": 146702,
-      "image": "https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw386409b7/images/hi-res/50D5WYVAJ1A02_1.jpg?sw=480&sh=480",
-      "url": "https://www.tanishq.co.in/product/winged-rhythm-diamond-bangle-50d5wyvaj1a02.html?lang=en_IN",
-      "source": "Tanishq",
-      "category": "Diamond Jewelry"
-    },
-    {
-      "name": "Verdant Bloom Diamond Mangalsutra",
-      "price": 74707,
-      "image": "https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwb2166168/images/hi-res/50D6GPYAHAA09_1.jpg?sw=480&sh=480",
-      "url": "https://www.tanishq.co.in/product/verdant-bloom-diamond-mangalsutra-50d6gpyahaa09.html?lang=en_IN",
-      "source": "Tanishq",
-      "category": "Diamond Jewelry"
-    },
-    {
-      "name": "Aerial Bloom Diamond Drop Earrings",
-      "price": null,
-      "image": "https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwd0cafa16/images/hi-res/50D5WMDACABA02_1.jpg?sw=480&sh=480",
-      "url": "https://www.tanishq.co.in/product/aerial-bloom-diamond-drop-earrings-50d5wmdacaba02.html?lang=en_IN",
-      "source": "Tanishq",
-      "category": "Diamond Jewelry"
-    },
-    {
-      "name": "Prism Wing Diamond Stud Earrings",
-      "price": null,
-      "image": "https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwb406b4f2/images/hi-res/50D5WMSAMABA02_1.jpg?sw=480&sh=480",
-      "url": "https://www.tanishq.co.in/product/prism-wing-diamond-stud-earrings-50d5wmsamaba02.html?lang=en_IN",
-      "source": "Tanishq",
-      "category": "Diamond Jewelry"
-    },
-    {
-      "name": "Wings in Motion Diamond Drop Earrings",
-      "price": 114192,
-      "image": "https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw3b8bce61/images/hi-res/55D5WMDAMABA32_1.jpg?sw=480&sh=480",
-      "url": "https://www.tanishq.co.in/product/wings-in-motion-diamond-drop-earrings-55d5wmdamaba32.html?lang=en_IN",
-      "source": "Tanishq",
-      "category": "Diamond Jewelry"
-    },
-    {
-      "name": "Colourlift Wing Diamond Stud Earrings",
-      "price": null,
-      "image": "https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwe4cf55ff/images/hi-res/50D5WMSAKAGA02_1.jpg?sw=480&sh=480",
-      "url": "https://www.tanishq.co.in/product/colourlift-wing-diamond-stud-earrings-50d5wmsakaga02.html?lang=en_IN",
-      "source": "Tanishq",
-      "category": "Diamond Jewelry"
-    },
-    {
       "name": "The Odalia Ring",
-      "price": 91922,
+      "price": 91686,
       "image": "https://kinclimg6.bluestone.com/f_webp,c_scale,w_1024,b_rgb:f0f0f0/giproduct/BICM0337R03_WAA18DIG4XXXXXXXX_ABCD00-BP-PICS-00000-1024-68721.png",
       "url": "https://www.bluestone.com/rings/the-odalia-ring~76891.html?impEvent=browseclick&posEvent=1&sortbyEvent=mostpopular&tagEvent=",
       "source": "BlueStone",
@@ -234,7 +10,7 @@
     },
     {
       "name": "The Osla Ring",
-      "price": 119783,
+      "price": 119441,
       "image": "https://kinclimg8.bluestone.com/f_webp,c_scale,w_1024,b_rgb:f0f0f0/giproduct/BICM0449R15_RAA18DIG4XXXXXXXX_ABCD00-BP-PICS-00000-1024-92191.png",
       "url": "https://www.bluestone.com/rings/the-osla-ring~76887.html?impEvent=browseclick&posEvent=2&sortbyEvent=mostpopular&tagEvent=",
       "source": "BlueStone",
@@ -242,7 +18,7 @@
     },
     {
       "name": "The Numa Chevron Ring",
-      "price": 93755,
+      "price": 93342,
       "image": "https://kinclimg4.bluestone.com/f_webp,c_scale,w_1024,b_rgb:f0f0f0/giproduct/BIVS0451R17_YAA18DIG6XXXXXXXX_ABCD00-BP-PICS-00000-1024-72189.png",
       "url": "https://www.bluestone.com/rings/the-numa-chevron-ring~41481.html?impEvent=browseclick&posEvent=3&sortbyEvent=mostpopular&tagEvent=",
       "source": "BlueStone",
@@ -250,7 +26,7 @@
     },
     {
       "name": "The Aretha Ring",
-      "price": 41507,
+      "price": 41365,
       "image": "https://kinclimg7.bluestone.com/f_webp,c_scale,w_1024,b_rgb:f0f0f0/giproduct/BICM0344R14_RAA14DIG6XXXXXXXX_ABCD00-BP-PICS-00000-1024-53002.png",
       "url": "https://www.bluestone.com/rings/the-aretha-ring~76539.html?impEvent=browseclick&posEvent=4&sortbyEvent=mostpopular&tagEvent=",
       "source": "BlueStone",
@@ -258,7 +34,7 @@
     },
     {
       "name": "The Fenmore Band for Him",
-      "price": 63852,
+      "price": 63572,
       "image": null,
       "url": "https://www.bluestone.com/rings/the-fenmore-band-for-him~45250.html?impEvent=browseclick&posEvent=5&sortbyEvent=mostpopular&tagEvent=",
       "source": "BlueStone",
@@ -266,7 +42,7 @@
     },
     {
       "name": "The Imogen Ring",
-      "price": 126730,
+      "price": 126243,
       "image": "https://kinclimg8.bluestone.com/f_webp,c_scale,w_1024,b_rgb:f0f0f0/giproduct/BIPO0835R92_YAA18DIG6XXXXXXXX_ABCD00-BP-PICS-00000-1024-86758.png",
       "url": "https://www.bluestone.com/rings/the-imogen-ring~88376.html?impEvent=browseclick&posEvent=6&sortbyEvent=mostpopular&tagEvent=",
       "source": "BlueStone",
@@ -274,7 +50,7 @@
     },
     {
       "name": "The Dinella Ring",
-      "price": 201898,
+      "price": 201321,
       "image": "https://kinclimg5.bluestone.com/f_webp,c_scale,w_1024,b_rgb:f0f0f0/giproduct/BIPO0757R04_YAA18DIG6XXXXXXXX_ABCD00-BP-PICS-00000-1024-72145.png",
       "url": "https://www.bluestone.com/rings/the-dinella-ring~84747.html?impEvent=browseclick&posEvent=7&sortbyEvent=mostpopular&tagEvent=",
       "source": "BlueStone",
@@ -282,7 +58,7 @@
     },
     {
       "name": "The Elite Ring",
-      "price": 83254,
+      "price": 82906,
       "image": "https://kinclimg2.bluestone.com/f_webp,c_scale,w_1024,b_rgb:f0f0f0/giproduct/BVWP0136R47_RAA18DIG4XXXXXXXX_ABCD00-BP-PICS-00000-1024-22970.png",
       "url": "https://www.bluestone.com/rings/the-elite-ring~29670.html?impEvent=browseclick&posEvent=8&sortbyEvent=mostpopular&tagEvent=",
       "source": "BlueStone",
@@ -290,7 +66,7 @@
     },
     {
       "name": "The Rayla Ring",
-      "price": 94020,
+      "price": 93621,
       "image": "https://kinclimg9.bluestone.com/f_webp,c_scale,w_1024,b_rgb:f0f0f0/giproduct/BVWP0136R44_YAA18DIG6XXXXXXXX_ABCD00-BP-PICS-00000-1024-12602.png",
       "url": "https://www.bluestone.com/rings/the-rayla-ring~13662.html?impEvent=browseclick&posEvent=9&sortbyEvent=mostpopular&tagEvent=",
       "source": "BlueStone",
@@ -298,7 +74,7 @@
     },
     {
       "name": "The Ivan Chevron Ring",
-      "price": 44997,
+      "price": 44890,
       "image": null,
       "url": "https://www.bluestone.com/rings/the-ivan-chevron-ring~75030.html?impEvent=browseclick&posEvent=10&sortbyEvent=mostpopular&tagEvent=",
       "source": "BlueStone",
@@ -306,7 +82,7 @@
     },
     {
       "name": "The Lomhar Band",
-      "price": 214162,
+      "price": 213821,
       "image": "https://kinclimg8.bluestone.com/f_webp,c_scale,w_1024,b_rgb:f0f0f0/giproduct/BIAB0574R09_WAA18DIG6XXXXXXXX_ABCD00-BP-PICS-00000-1024-68699.png",
       "url": "https://www.bluestone.com/rings/the-lomhar-band~58783.html?impEvent=browseclick&posEvent=11&sortbyEvent=mostpopular&tagEvent=",
       "source": "BlueStone",
@@ -322,7 +98,7 @@
     },
     {
       "name": "The Jessie Ring For Him",
-      "price": 155315,
+      "price": 154662,
       "image": "https://kinclimg3.bluestone.com/f_webp,c_scale,w_1024,b_rgb:f0f0f0/giproduct/BIPO0880R134_YAA18DIG6XXXXXXXX_ABCD00-BP-PICS-00000-1024-70397.png",
       "url": "https://www.bluestone.com/rings/the-jessie-ring-for-him~95114.html?impEvent=browseclick&posEvent=13&sortbyEvent=mostpopular&tagEvent=",
       "source": "BlueStone",
@@ -330,7 +106,7 @@
     },
     {
       "name": "The Holland Ring",
-      "price": 85986,
+      "price": 85729,
       "image": "https://kinclimg2.bluestone.com/f_webp,c_scale,w_1024,b_rgb:f0f0f0/giproduct/BITD0880R400_RAA18DIG6XXXXXXXX_ABCD00-BP-PICS-00000-1024-76505.png",
       "url": "https://www.bluestone.com/rings/the-holland-ring~102497.html?impEvent=browseclick&posEvent=14&sortbyEvent=mostpopular&tagEvent=",
       "source": "BlueStone",
@@ -338,7 +114,7 @@
     },
     {
       "name": "The Se Soucier Ring",
-      "price": 97000,
+      "price": 96911,
       "image": null,
       "url": "https://www.bluestone.com/rings/the-se-soucier-ring~103956.html?impEvent=browseclick&posEvent=15&sortbyEvent=mostpopular&tagEvent=",
       "source": "BlueStone",
@@ -346,7 +122,7 @@
     },
     {
       "name": "The Reef Ring",
-      "price": 55495,
+      "price": 55405,
       "image": "https://kinclimg7.bluestone.com/f_webp,c_scale,w_1024,b_rgb:f0f0f0/giproduct/BISL0880R372_YAA18DIG4XXXXXXXX_ABCD00-BP-PICS-00000-1024-76588.png",
       "url": "https://www.bluestone.com/rings/the-reef-ring~104239.html?impEvent=browseclick&posEvent=16&sortbyEvent=mostpopular&tagEvent=",
       "source": "BlueStone",
@@ -354,7 +130,7 @@
     },
     {
       "name": "The Le Sommet Ring",
-      "price": 117666,
+      "price": 117206,
       "image": "https://kinclimg6.bluestone.com/f_webp,c_scale,w_1024,b_rgb:f0f0f0/giproduct/BISE0932R181_RAA18DIG6XXXXXXXX_ABCD00-BP-PICS-00000-1024-75825.png",
       "url": "https://www.bluestone.com/rings/the-le-sommet-ring~105031.html?impEvent=browseclick&posEvent=17&sortbyEvent=mostpopular&tagEvent=",
       "source": "BlueStone",
@@ -362,7 +138,7 @@
     },
     {
       "name": "The Genix Ring",
-      "price": 48900,
+      "price": 48686,
       "image": "https://kinclimg3.bluestone.com/f_webp,c_scale,w_1024,b_rgb:f0f0f0/giproduct/BIKR0942R130_YAA18DIG6XXXXXXXX_ABCD00-BP-PICS-00000-1024-82494.png",
       "url": "https://www.bluestone.com/rings/the-genix-ring~112292.html?impEvent=browseclick&posEvent=18&sortbyEvent=mostpopular&tagEvent=",
       "source": "BlueStone",
@@ -370,7 +146,7 @@
     },
     {
       "name": "The Zirona Ring For Him",
-      "price": 65063,
+      "price": 64824,
       "image": "https://kinclimg8.bluestone.com/f_webp,c_scale,w_1024,b_rgb:f0f0f0/giproduct/BISL1006R306_RAA18DIG6XXXXXXXX_ABCD00-BP-PICS-00000-1024-112417.png",
       "url": "https://www.bluestone.com/rings/the-zirona-ring-for-him~170500.html?impEvent=browseclick&posEvent=19&sortbyEvent=mostpopular&tagEvent=",
       "source": "BlueStone",
@@ -378,7 +154,7 @@
     },
     {
       "name": "The Alma Ring",
-      "price": 64092,
+      "price": 63819,
       "image": null,
       "url": "https://www.bluestone.com/rings/the-alma-ring~7512.html?impEvent=browseclick&posEvent=20&sortbyEvent=mostpopular&tagEvent=",
       "source": "BlueStone",
@@ -386,7 +162,7 @@
     },
     {
       "name": "The Cygnus Ring",
-      "price": 50962,
+      "price": 50804,
       "image": "https://kinclimg2.bluestone.com/f_webp,c_scale,w_1024,b_rgb:f0f0f0/giproduct/BISK0368R03_YAA14DIG4XXXXXXXX_ABCD00-BP-PICS-00000-1024-66176.png",
       "url": "https://www.bluestone.com/rings/the-cygnus-ring~28247.html?impEvent=browseclick&posEvent=21&sortbyEvent=mostpopular&tagEvent=",
       "source": "BlueStone",
@@ -394,7 +170,7 @@
     },
     {
       "name": "The Ayane Band Ring",
-      "price": 112455,
+      "price": 112267,
       "image": "https://kinclimg9.bluestone.com/f_webp,c_scale,w_1024,b_rgb:f0f0f0/giproduct/BIPO0737R10_RAA18DIG4XXXXXXXX_ABCD00-BP-PICS-00000-1024-72073.png",
       "url": "https://www.bluestone.com/rings/the-ayane-band-ring~76974.html?impEvent=browseclick&posEvent=22&sortbyEvent=mostpopular&tagEvent=",
       "source": "BlueStone",
@@ -402,7 +178,7 @@
     },
     {
       "name": "The Ciarah Ring",
-      "price": 55340,
+      "price": 55132,
       "image": "https://kinclimg7.bluestone.com/f_webp,c_scale,w_1024,b_rgb:f0f0f0/giproduct/BIAR0097R12_YAA18DIG6XXXXXXXX_ABCD00-BP-PICS-00000-1024-70480.png",
       "url": "https://www.bluestone.com/rings/the-ciarah-ring~76535.html?impEvent=browseclick&posEvent=23&sortbyEvent=mostpopular&tagEvent=",
       "source": "BlueStone",
@@ -410,7 +186,7 @@
     },
     {
       "name": "The Nury Chevron Ring",
-      "price": 50999,
+      "price": 50816,
       "image": "https://kinclimg2.bluestone.com/f_webp,c_scale,w_1024,b_rgb:f0f0f0/giproduct/BIVS0451R19_WAA18DIG6XXXXXXXX_ABCD00-BP-PICS-00000-1024-66173.png",
       "url": "https://www.bluestone.com/rings/the-nury-chevron-ring~41483.html?impEvent=browseclick&posEvent=24&sortbyEvent=mostpopular&tagEvent=",
       "source": "BlueStone",
@@ -418,7 +194,7 @@
     },
     {
       "name": "Kislap Diamond Pendant With Chain",
-      "price": 109541,
+      "price": 108965,
       "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=",
       "url": "https://www.candere.com/kislap-diamond-pendant-with-chain.html",
       "source": "Kalyan Jewellers",
@@ -426,7 +202,7 @@
     },
     {
       "name": "Kislap Diamond Earrings",
-      "price": 142042,
+      "price": 141432,
       "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=",
       "url": "https://www.candere.com/kislap-diamond-earrings.html",
       "source": "Kalyan Jewellers",
@@ -434,7 +210,7 @@
     },
     {
       "name": "Etain Diamond Earrings",
-      "price": 165429,
+      "price": 165082,
       "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=",
       "url": "https://www.candere.com/etain-diamond-earrings.html",
       "source": "Kalyan Jewellers",
@@ -442,7 +218,7 @@
     },
     {
       "name": "Etain Diamond Necklace",
-      "price": 305802,
+      "price": 304903,
       "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=",
       "url": "https://www.candere.com/etain-diamond-necklace.html",
       "source": "Kalyan Jewellers",
@@ -450,7 +226,7 @@
     },
     {
       "name": "Golden Innings Diamond Bracelet",
-      "price": 73378,
+      "price": 72967,
       "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=",
       "url": "https://www.candere.com/golden-innings-diamond-bracelet.html",
       "source": "Kalyan Jewellers",
@@ -458,7 +234,7 @@
     },
     {
       "name": "Vyuha Diamond Bracelet",
-      "price": 99851,
+      "price": 99257,
       "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=",
       "url": "https://www.candere.com/vyuha-diamond-bracelet.html",
       "source": "Kalyan Jewellers",
@@ -466,7 +242,7 @@
     },
     {
       "name": "Vyuha Diamond Earrings",
-      "price": 100901,
+      "price": 100421,
       "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=",
       "url": "https://www.candere.com/vyuha-diamond-earrings.html",
       "source": "Kalyan Jewellers",
@@ -474,7 +250,7 @@
     },
     {
       "name": "Vyuha Diamond Necklace",
-      "price": 219959,
+      "price": 218740,
       "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=",
       "url": "https://www.candere.com/vyuha-diamond-necklace.html",
       "source": "Kalyan Jewellers",
@@ -482,7 +258,7 @@
     },
     {
       "name": "Auric loop Gold Bracelet",
-      "price": 54385,
+      "price": 54012,
       "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=",
       "url": "https://www.candere.com/auric-loop-gold-bracelet.html",
       "source": "Kalyan Jewellers",
@@ -490,7 +266,7 @@
     },
     {
       "name": "SparkBug Diamond Charms",
-      "price": 22361,
+      "price": 22237,
       "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=",
       "url": "https://www.candere.com/sparkbug-diamond-charms.html",
       "source": "Kalyan Jewellers",
@@ -498,7 +274,7 @@
     },
     {
       "name": "Polaris Diamond Charms",
-      "price": 24132,
+      "price": 24019,
       "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=",
       "url": "https://www.candere.com/polaris-diamond-charms.html",
       "source": "Kalyan Jewellers",
@@ -506,7 +282,7 @@
     },
     {
       "name": "Rose Beetle Diamond Charms",
-      "price": 55190,
+      "price": 54928,
       "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=",
       "url": "https://www.candere.com/rose-beetle-diamond-charms.html",
       "source": "Kalyan Jewellers",
@@ -514,7 +290,7 @@
     },
     {
       "name": "Eternal Tree Diamond Charms",
-      "price": 32271,
+      "price": 32097,
       "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=",
       "url": "https://www.candere.com/eternal-tree-diamond-charms.html",
       "source": "Kalyan Jewellers",
@@ -522,7 +298,7 @@
     },
     {
       "name": "Mystic Vision Diamond Charms",
-      "price": 25374,
+      "price": 25239,
       "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=",
       "url": "https://www.candere.com/mystic-vision-diamond-charms.html",
       "source": "Kalyan Jewellers",
@@ -530,7 +306,7 @@
     },
     {
       "name": "Celestowl Diamond Charms",
-      "price": 77131,
+      "price": 76643,
       "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=",
       "url": "https://www.candere.com/celestowl-diamond-charms.html",
       "source": "Kalyan Jewellers",
@@ -538,7 +314,7 @@
     },
     {
       "name": "Sylara Gold Pendant With Chain",
-      "price": 71147,
+      "price": 70627,
       "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=",
       "url": "https://www.candere.com/sylara-gold-pendant-with-chain.html",
       "source": "Kalyan Jewellers",
@@ -546,7 +322,7 @@
     },
     {
       "name": ".wishlist-hero-custom-button.wishlisthero-quick-view.wlh-right-btn > div > button {\n        padding: 8px !important;\n        border-radius:50%;\n        height: 33px !important;\n        width: 33px;\n    }\n    .wishlist-hero-custom-button.wishlisthero-floating button {\n        width: 35px !important;\n        height: 35px !important;\n        font-size:16px !important\n    }\n    @media (max-width: 480px) {\n        .wishlist-hero-custom-button.wishlisthero-quick-view.wlh-right-btn > div > button {\n            height: 32px !important;\n            width: 32px !important;\n        }\n        .wishlist-hero-custom-button.wishlisthero-floating button {\n            width: 30px !important;\n            height: 30px !important;\n            font-size:16px !important\n        }\n    }\n\n\n                \n              \n              \n            \n                  \n                  \n                  \n\n                    \n\n\n\n\n\n\n\n \n\n    .wishlist-hero-custom-button.wishlisthero-quick-view.wlh-right-btn > div > button {\n        padding: 8px !important;\n        border-radius:50%;\n        height: 33px !important;\n        width: 33px;\n    }\n    .wishlist-hero-custom-button.wishlisthero-floating button {\n        width: 35px !important;\n        height: 35px !important;\n        font-size:16px !important\n    }\n    @media (max-width: 480px) {\n        .wishlist-hero-custom-button.wishlisthero-quick-view.wlh-right-btn > div > button {\n            height: 32px !important;\n            width: 32px !important;\n        }\n        .wishlist-hero-custom-button.wishlisthero-floating button {\n            width: 30px !important;\n            height: 30px !important;\n            font-size:16px !important\n        }\n    }\n\n\n                    \n                    \n                  \n                  \n                \n              \n  \n\n  \n  \n\n  .discount-font {\n  font-size:12px;letter-spacing: 0px;\n  }\n   @media (max-width: 749px) {\n    .discount-font {\n  font-size:10px;letter-spacing: 0px;\n  }\n   }\n\n   .making-offer-box {\n  background: #e9e1ea; /* light purple */\n  border-radius: 14px;\n  padding: 16px 18px;\n  margin: 20px 0;\n  max-width:340px;\n}\n\n.making-offer-inner {\n  display: flex;\n  align-items: center;\n  gap: 12px;\n}\n\n.making-offer-icon {\n  width: 32px;\n  height: 32px;\n  border-radius: 50%;\n  background: linear-gradient(180deg, #FBE284 0%, #C19750 52.4%, #955D27 75%, #DBA926 100%);\n  display: flex;\n  align-items: center;\n  justify-content: center;\n}\n\n.making-offer-icon svg {\n  background: #e9e1ea; /* same as parent bg */\n  border-radius: 50%;\n  padding: 6px;\n  width:28px;\n  height:28px\n\n}\n\n.making-offer-divider {\n  width: 1px;\n  height: 40px;\n  background: #bfaec2;\n}\n\n.making-offer-content {\n  display: flex;\n  flex-direction: column;\n}\n\n.making-offer-title {\n background: linear-gradient(180deg, #4D2753 0%, #1C0E2B 142.55%);\n  -webkit-background-clip: text;\n  -webkit-text-fill-color: transparent;\n  margin: 0;\n\n  font-family: Helvetica;\n  font-weight: 400;\n  font-size: 14.49px;\n  line-height: 100%;\n  letter-spacing: 0%;\n\n}\n\n.making-offer-save {\n  background: linear-gradient(180deg, #4D2753 0%, #1C0E2B 142.55%);\n  -webkit-background-clip: text;\n  -webkit-text-fill-color: transparent;\n  margin: 8px 0 0;\n\n  font-family: Helvetica;\n  font-weight: 800;\n  font-size: 14.49px;\n  line-height: 100%;\n  letter-spacing: 0%;\n}\n\n            \n      \n    \n        Sale",
-      "price": 9915001171700.992,
+      "price": 9868001167100.986,
       "image": "https://www.pngjewellers.com/cdn/shop/files/DIDN0012-FXY48-main.webp?v=1747916515&width=1500",
       "url": "https://www.pngjewellers.com/products/jane-diamond-nose-pin?variant=48635626848475",
       "source": "PNG Jewellers",
@@ -554,7 +330,7 @@
     },
     {
       "name": ".wishlist-hero-custom-button.wishlisthero-quick-view.wlh-right-btn > div > button {\n        padding: 8px !important;\n        border-radius:50%;\n        height: 33px !important;\n        width: 33px;\n    }\n    .wishlist-hero-custom-button.wishlisthero-floating button {\n        width: 35px !important;\n        height: 35px !important;\n        font-size:16px !important\n    }\n    @media (max-width: 480px) {\n        .wishlist-hero-custom-button.wishlisthero-quick-view.wlh-right-btn > div > button {\n            height: 32px !important;\n            width: 32px !important;\n        }\n        .wishlist-hero-custom-button.wishlisthero-floating button {\n            width: 30px !important;\n            height: 30px !important;\n            font-size:16px !important\n        }\n    }\n\n\n                \n              \n              \n            \n                  \n                  \n                  \n\n                    \n\n\n\n\n\n\n\n \n\n    .wishlist-hero-custom-button.wishlisthero-quick-view.wlh-right-btn > div > button {\n        padding: 8px !important;\n        border-radius:50%;\n        height: 33px !important;\n        width: 33px;\n    }\n    .wishlist-hero-custom-button.wishlisthero-floating button {\n        width: 35px !important;\n        height: 35px !important;\n        font-size:16px !important\n    }\n    @media (max-width: 480px) {\n        .wishlist-hero-custom-button.wishlisthero-quick-view.wlh-right-btn > div > button {\n            height: 32px !important;\n            width: 32px !important;\n        }\n        .wishlist-hero-custom-button.wishlisthero-floating button {\n            width: 30px !important;\n            height: 30px !important;\n            font-size:16px !important\n        }\n    }\n\n\n                    \n                    \n                  \n                  \n                \n              \n  \n\n  \n  \n\n          \n          \n              \n            \n        \n        \n          \n            Flat 50% off on making charge \n          \n        \n      \n  .discount-font {\n  font-size:12px;letter-spacing: 0px;\n  }\n   @media (max-width: 749px) {\n    .discount-font {\n  font-size:10px;letter-spacing: 0px;\n  }\n   }\n\n   .making-offer-box {\n  background: #e9e1ea; /* light purple */\n  border-radius: 14px;\n  padding: 16px 18px;\n  margin: 20px 0;\n  max-width:340px;\n}\n\n.making-offer-inner {\n  display: flex;\n  align-items: center;\n  gap: 12px;\n}\n\n.making-offer-icon {\n  width: 32px;\n  height: 32px;\n  border-radius: 50%;\n  background: linear-gradient(180deg, #FBE284 0%, #C19750 52.4%, #955D27 75%, #DBA926 100%);\n  display: flex;\n  align-items: center;\n  justify-content: center;\n}\n\n.making-offer-icon svg {\n  background: #e9e1ea; /* same as parent bg */\n  border-radius: 50%;\n  padding: 6px;\n  width:28px;\n  height:28px\n\n}\n\n.making-offer-divider {\n  width: 1px;\n  height: 40px;\n  background: #bfaec2;\n}\n\n.making-offer-content {\n  display: flex;\n  flex-direction: column;\n}\n\n.making-offer-title {\n background: linear-gradient(180deg, #4D2753 0%, #1C0E2B 142.55%);\n  -webkit-background-clip: text;\n  -webkit-text-fill-color: transparent;\n  margin: 0;\n\n  font-family: Helvetica;\n  font-weight: 400;\n  font-size: 14.49px;\n  line-height: 100%;\n  letter-spacing: 0%;\n\n}\n\n.making-offer-save {\n  background: linear-gradient(180deg, #4D2753 0%, #1C0E2B 142.55%);\n  -webkit-background-clip: text;\n  -webkit-text-fill-color: transparent;\n  margin: 8px 0 0;\n\n  font-family: Helvetica;\n  font-weight: 800;\n  font-size: 14.49px;\n  line-height: 100%;\n  letter-spacing: 0%;\n}\n\n            \n      \n    \n        Sale",
-      "price": 16449001902400.164,
+      "price": 16369001894400.164,
       "image": "https://www.pngjewellers.com/cdn/shop/files/DIDP0021-C.jpg?v=1772816278&width=1500",
       "url": "https://www.pngjewellers.com/products/florenza-heart-gold-diamond-pendant?variant=48635636351195",
       "source": "PNG Jewellers",
@@ -562,7 +338,7 @@
     },
     {
       "name": ".wishlist-hero-custom-button.wishlisthero-quick-view.wlh-right-btn > div > button {\n        padding: 8px !important;\n        border-radius:50%;\n        height: 33px !important;\n        width: 33px;\n    }\n    .wishlist-hero-custom-button.wishlisthero-floating button {\n        width: 35px !important;\n        height: 35px !important;\n        font-size:16px !important\n    }\n    @media (max-width: 480px) {\n        .wishlist-hero-custom-button.wishlisthero-quick-view.wlh-right-btn > div > button {\n            height: 32px !important;\n            width: 32px !important;\n        }\n        .wishlist-hero-custom-button.wishlisthero-floating button {\n            width: 30px !important;\n            height: 30px !important;\n            font-size:16px !important\n        }\n    }\n\n\n                \n              \n              \n            \n                  \n                  \n                  \n\n                    \n\n\n\n\n\n\n\n \n\n    .wishlist-hero-custom-button.wishlisthero-quick-view.wlh-right-btn > div > button {\n        padding: 8px !important;\n        border-radius:50%;\n        height: 33px !important;\n        width: 33px;\n    }\n    .wishlist-hero-custom-button.wishlisthero-floating button {\n        width: 35px !important;\n        height: 35px !important;\n        font-size:16px !important\n    }\n    @media (max-width: 480px) {\n        .wishlist-hero-custom-button.wishlisthero-quick-view.wlh-right-btn > div > button {\n            height: 32px !important;\n            width: 32px !important;\n        }\n        .wishlist-hero-custom-button.wishlisthero-floating button {\n            width: 30px !important;\n            height: 30px !important;\n            font-size:16px !important\n        }\n    }\n\n\n                    \n                    \n                  \n                  \n                \n              \n  \n\n  \n  \n\n  .discount-font {\n  font-size:12px;letter-spacing: 0px;\n  }\n   @media (max-width: 749px) {\n    .discount-font {\n  font-size:10px;letter-spacing: 0px;\n  }\n   }\n\n   .making-offer-box {\n  background: #e9e1ea; /* light purple */\n  border-radius: 14px;\n  padding: 16px 18px;\n  margin: 20px 0;\n  max-width:340px;\n}\n\n.making-offer-inner {\n  display: flex;\n  align-items: center;\n  gap: 12px;\n}\n\n.making-offer-icon {\n  width: 32px;\n  height: 32px;\n  border-radius: 50%;\n  background: linear-gradient(180deg, #FBE284 0%, #C19750 52.4%, #955D27 75%, #DBA926 100%);\n  display: flex;\n  align-items: center;\n  justify-content: center;\n}\n\n.making-offer-icon svg {\n  background: #e9e1ea; /* same as parent bg */\n  border-radius: 50%;\n  padding: 6px;\n  width:28px;\n  height:28px\n\n}\n\n.making-offer-divider {\n  width: 1px;\n  height: 40px;\n  background: #bfaec2;\n}\n\n.making-offer-content {\n  display: flex;\n  flex-direction: column;\n}\n\n.making-offer-title {\n background: linear-gradient(180deg, #4D2753 0%, #1C0E2B 142.55%);\n  -webkit-background-clip: text;\n  -webkit-text-fill-color: transparent;\n  margin: 0;\n\n  font-family: Helvetica;\n  font-weight: 400;\n  font-size: 14.49px;\n  line-height: 100%;\n  letter-spacing: 0%;\n\n}\n\n.making-offer-save {\n  background: linear-gradient(180deg, #4D2753 0%, #1C0E2B 142.55%);\n  -webkit-background-clip: text;\n  -webkit-text-fill-color: transparent;\n  margin: 8px 0 0;\n\n  font-family: Helvetica;\n  font-weight: 800;\n  font-size: 14.49px;\n  line-height: 100%;\n  letter-spacing: 0%;\n}",
-      "price": 22926002292600.23,
+      "price": 22771002277100.227,
       "image": "https://www.pngjewellers.com/cdn/shop/files/DIDR0144-C.jpg?v=1772813635&width=1500",
       "url": "https://www.pngjewellers.com/products/boundless-love-yellow-gold-diamond-ring-for-women?variant=48643387982043",
       "source": "PNG Jewellers",
@@ -570,10 +346,42 @@
     },
     {
       "name": ".wishlist-hero-custom-button.wishlisthero-quick-view.wlh-right-btn > div > button {\n        padding: 8px !important;\n        border-radius:50%;\n        height: 33px !important;\n        width: 33px;\n    }\n    .wishlist-hero-custom-button.wishlisthero-floating button {\n        width: 35px !important;\n        height: 35px !important;\n        font-size:16px !important\n    }\n    @media (max-width: 480px) {\n        .wishlist-hero-custom-button.wishlisthero-quick-view.wlh-right-btn > div > button {\n            height: 32px !important;\n            width: 32px !important;\n        }\n        .wishlist-hero-custom-button.wishlisthero-floating button {\n            width: 30px !important;\n            height: 30px !important;\n            font-size:16px !important\n        }\n    }\n\n\n                \n              \n              \n            \n                  \n                  \n                  \n\n                    \n\n\n\n\n\n\n\n \n\n    .wishlist-hero-custom-button.wishlisthero-quick-view.wlh-right-btn > div > button {\n        padding: 8px !important;\n        border-radius:50%;\n        height: 33px !important;\n        width: 33px;\n    }\n    .wishlist-hero-custom-button.wishlisthero-floating button {\n        width: 35px !important;\n        height: 35px !important;\n        font-size:16px !important\n    }\n    @media (max-width: 480px) {\n        .wishlist-hero-custom-button.wishlisthero-quick-view.wlh-right-btn > div > button {\n            height: 32px !important;\n            width: 32px !important;\n        }\n        .wishlist-hero-custom-button.wishlisthero-floating button {\n            width: 30px !important;\n            height: 30px !important;\n            font-size:16px !important\n        }\n    }\n\n\n                    \n                    \n                  \n                  \n                \n              \n  \n\n  \n  \n\n          \n          \n              \n            \n        \n        \n          \n            Flat 50% off on making charge \n          \n        \n      \n  .discount-font {\n  font-size:12px;letter-spacing: 0px;\n  }\n   @media (max-width: 749px) {\n    .discount-font {\n  font-size:10px;letter-spacing: 0px;\n  }\n   }\n\n   .making-offer-box {\n  background: #e9e1ea; /* light purple */\n  border-radius: 14px;\n  padding: 16px 18px;\n  margin: 20px 0;\n  max-width:340px;\n}\n\n.making-offer-inner {\n  display: flex;\n  align-items: center;\n  gap: 12px;\n}\n\n.making-offer-icon {\n  width: 32px;\n  height: 32px;\n  border-radius: 50%;\n  background: linear-gradient(180deg, #FBE284 0%, #C19750 52.4%, #955D27 75%, #DBA926 100%);\n  display: flex;\n  align-items: center;\n  justify-content: center;\n}\n\n.making-offer-icon svg {\n  background: #e9e1ea; /* same as parent bg */\n  border-radius: 50%;\n  padding: 6px;\n  width:28px;\n  height:28px\n\n}\n\n.making-offer-divider {\n  width: 1px;\n  height: 40px;\n  background: #bfaec2;\n}\n\n.making-offer-content {\n  display: flex;\n  flex-direction: column;\n}\n\n.making-offer-title {\n background: linear-gradient(180deg, #4D2753 0%, #1C0E2B 142.55%);\n  -webkit-background-clip: text;\n  -webkit-text-fill-color: transparent;\n  margin: 0;\n\n  font-family: Helvetica;\n  font-weight: 400;\n  font-size: 14.49px;\n  line-height: 100%;\n  letter-spacing: 0%;\n\n}\n\n.making-offer-save {\n  background: linear-gradient(180deg, #4D2753 0%, #1C0E2B 142.55%);\n  -webkit-background-clip: text;\n  -webkit-text-fill-color: transparent;\n  margin: 8px 0 0;\n\n  font-family: Helvetica;\n  font-weight: 800;\n  font-size: 14.49px;\n  line-height: 100%;\n  letter-spacing: 0%;\n}",
-      "price": 81110008988300.81,
-      "image": "https://www.pngjewellers.com/cdn/shop/files/IJTNC01952XX_C.jpg?v=1772807797&width=1500",
-      "url": "https://www.pngjewellers.com/products/dainty-bond-gold-diamond-modern-mangalsutra-for-women?variant=48635690254555",
+      "price": 60735006661600.61,
+      "image": "https://www.pngjewellers.com/cdn/shop/files/SET3_C.jpg?v=1772823995&width=1500",
+      "url": "https://www.pngjewellers.com/products/moonlit-drop-gold-diamond-pendant-set-for-women?variant=48635920416987",
       "source": "PNG Jewellers",
+      "category": "Diamond Jewelry"
+    },
+    {
+      "name": "Floral Diamond Pendant",
+      "price": 28470,
+      "image": "https://images.unsplash.com/photo-1599643478518-a784e5dc4c8f?w=400&h=400&fit=crop",
+      "url": "https://www.tanishq.co.in/collections/diamond-jewellery",
+      "source": "Tanishq",
+      "category": "Diamond Jewelry"
+    },
+    {
+      "name": "Solitaire Diamond Ring",
+      "price": 52300,
+      "image": "https://images.unsplash.com/photo-1605100804763-247f67b3557e?w=400&h=400&fit=crop",
+      "url": "https://www.tanishq.co.in/collections/diamond-jewellery",
+      "source": "Tanishq",
+      "category": "Diamond Jewelry"
+    },
+    {
+      "name": "Diamond Cluster Earrings",
+      "price": 34500,
+      "image": "https://images.unsplash.com/photo-1535632066927-ab7c9ab60908?w=400&h=400&fit=crop",
+      "url": "https://www.tanishq.co.in/collections/diamond-jewellery",
+      "source": "Tanishq",
+      "category": "Diamond Jewelry"
+    },
+    {
+      "name": "Elegant Diamond Necklace",
+      "price": 145000,
+      "image": "https://images.unsplash.com/photo-1611591437281-460bfbe1220a?w=400&h=400&fit=crop",
+      "url": "https://www.tanishq.co.in/collections/diamond-jewellery",
+      "source": "Tanishq",
       "category": "Diamond Jewelry"
     },
     {
@@ -633,6 +441,6 @@
       "category": "Diamond Jewelry"
     }
   ],
-  "lastFetched": "2026-07-13T02:29:29.517Z",
-  "count": 79
+  "lastFetched": "2026-07-13T09:19:57.682Z",
+  "count": 55
 }
