@@ -33,30 +33,6 @@
       "category": "Diamond Jewelry"
     },
     {
-      "name": "Kindred Threads",
-      "price": 319764,
-      "image": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw62103565/images/hi-res/55O6SLDBCABA26_1.jpg",
-      "url": "https://www.tanishq.co.in/product/kindred-threads-55o6sldbcaba26.html?lang=en_IN",
-      "source": "Tanishq",
-      "category": "Diamond Jewelry"
-    },
-    {
-      "name": "Kindred Cascade",
-      "price": 226821,
-      "image": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw82881bbe/images/hi-res/55O6SLDBDABA27_1.jpg",
-      "url": "https://www.tanishq.co.in/product/kindred-cascade-55o6sldbdaba27.html?lang=en_IN",
-      "source": "Tanishq",
-      "category": "Diamond Jewelry"
-    },
-    {
-      "name": "Shared Horizon",
-      "price": 471744,
-      "image": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwa8610cb8/images/hi-res/55O6SNVCG1A32_1.jpg",
-      "url": "https://www.tanishq.co.in/product/shared-horizon-55o6snvcg1a32.html?lang=en_IN",
-      "source": "Tanishq",
-      "category": "Diamond Jewelry"
-    },
-    {
       "name": "Dual Signature Diamond Drop Earrings",
       "price": 8480091291,
       "image": "https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw66e81be6/images/hi-res/50D6JDDAMAGA26_1.jpg?sw=480&sh=480",
@@ -681,6 +657,6 @@
       "category": "Diamond Jewelry"
     }
   ],
-  "lastFetched": "2026-07-19T08:11:15.894Z",
-  "count": 85
+  "lastFetched": "2026-07-19T13:11:08.729Z",
+  "count": 82
 }
