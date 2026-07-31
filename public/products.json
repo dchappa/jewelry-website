@@ -9,22 +9,6 @@
       "category": "Diamond Jewelry"
     },
     {
-      "name": "Radiant Ember Diamond Ring",
-      "price": 8081183304,
-      "image": "https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwa2c3ab1e/images/hi-res/50D6SMFAAAA26_1.jpg?sw=480&sh=480",
-      "url": "https://www.tanishq.co.in/product/radiant-ember-diamond-ring-50d6smfaaaa26.html?lang=en_IN",
-      "source": "Tanishq",
-      "category": "Diamond Jewelry"
-    },
-    {
-      "name": "Spectrum Petals Diamond Pendant with Chain",
-      "price": 111366114212,
-      "image": "https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw796a5666/images/hi-res/50DXSMGCLAA26_1.jpg?sw=480&sh=480",
-      "url": "https://www.tanishq.co.in/product/spectrum-petals-diamond-pendant-with-chain-50dxsmgclaa26.html?lang=en_IN",
-      "source": "Tanishq",
-      "category": "Diamond Jewelry"
-    },
-    {
       "name": "Prismatic Circle Diamond Stud Earrings",
       "price": 5203756176,
       "image": "https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwdf151246/images/hi-res/50DASMSEUAGA26_1.jpg?sw=480&sh=480",
@@ -189,6 +173,14 @@
       "price": 7211777562,
       "image": "https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwe0aa3291/images/hi-res/50D6SMFCMAA26_1.jpg?sw=480&sh=480",
       "url": "https://www.tanishq.co.in/product/hidden-bloom-diamond-ring-50d6smfcmaa26.html?lang=en_IN",
+      "source": "Tanishq",
+      "category": "Diamond Jewelry"
+    },
+    {
+      "name": "Golden Mirage Diamond Ring",
+      "price": 5650160035,
+      "image": "https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw54d87a01/images/hi-res/50D6SMFAHAA26_1.jpg?sw=480&sh=480",
+      "url": "https://www.tanishq.co.in/product/golden-mirage-diamond-ring-50d6smfahaa26.html?lang=en_IN",
       "source": "Tanishq",
       "category": "Diamond Jewelry"
     },
@@ -641,6 +633,6 @@
       "category": "Diamond Jewelry"
     }
   ],
-  "lastFetched": "2026-07-31T13:57:00.618Z",
-  "count": 80
+  "lastFetched": "2026-07-31T19:19:53.630Z",
+  "count": 79
 }
