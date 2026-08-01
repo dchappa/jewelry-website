@@ -9,10 +9,122 @@
       "category": "Diamond Jewelry"
     },
     {
+      "name": "Radiant Ember Diamond Ring",
+      "price": 8081183304,
+      "image": "https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwa2c3ab1e/images/hi-res/50D6SMFAAAA26_1.jpg?sw=480&sh=480",
+      "url": "https://www.tanishq.co.in/product/radiant-ember-diamond-ring-50d6smfaaaa26.html?lang=en_IN",
+      "source": "Tanishq",
+      "category": "Diamond Jewelry"
+    },
+    {
+      "name": "Spectrum Petals Diamond Pendant with Chain",
+      "price": 111366114212,
+      "image": "https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw796a5666/images/hi-res/50DXSMGCLAA26_1.jpg?sw=480&sh=480",
+      "url": "https://www.tanishq.co.in/product/spectrum-petals-diamond-pendant-with-chain-50dxsmgclaa26.html?lang=en_IN",
+      "source": "Tanishq",
+      "category": "Diamond Jewelry"
+    },
+    {
       "name": "Prismatic Circle Diamond Stud Earrings",
       "price": 5203756176,
       "image": "https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwdf151246/images/hi-res/50DASMSEUAGA26_1.jpg?sw=480&sh=480",
       "url": "https://www.tanishq.co.in/product/prismatic-circle-diamond-stud-earrings-50dasmseuaga26.html?lang=en_IN",
+      "source": "Tanishq",
+      "category": "Diamond Jewelry"
+    },
+    {
+      "name": "Heirloom Glow",
+      "price": 1161597,
+      "image": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwd8e8fb27/images/hi-res/50O6BM2RTDBA27_1.jpg",
+      "url": "https://www.tanishq.co.in/product/heirloom-glow-50o6bm2rtdba27.html?lang=en_IN",
+      "source": "Tanishq",
+      "category": "Diamond Jewelry"
+    },
+    {
+      "name": "Enduring Affinity",
+      "price": 1469952,
+      "image": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw97fba012/images/hi-res/50O6BM2QVDBA27_1.jpg",
+      "url": "https://www.tanishq.co.in/product/enduring-affinity-50o6bm2qvdba27.html?lang=en_IN",
+      "source": "Tanishq",
+      "category": "Diamond Jewelry"
+    },
+    {
+      "name": "Silent Brilliance",
+      "price": 379211,
+      "image": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwec0a44b6/images/hi-res/55O6SLVAZ1A27_1.jpg",
+      "url": "https://www.tanishq.co.in/product/silent-brilliance-55o6slvaz1a27.html?lang=en_IN",
+      "source": "Tanishq",
+      "category": "Diamond Jewelry"
+    },
+    {
+      "name": "United Flow",
+      "price": 1465051,
+      "image": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw86b4aba0/images/hi-res/55O6BM2SQDBA27_1.jpg",
+      "url": "https://www.tanishq.co.in/product/united-flow-55o6bm2sqdba27.html?lang=en_IN",
+      "source": "Tanishq",
+      "category": "Diamond Jewelry"
+    },
+    {
+      "name": "Kindred Forever",
+      "price": 1418924,
+      "image": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw7f9823ec/images/hi-res/50O6BM2SFDBA26_1.jpg",
+      "url": "https://www.tanishq.co.in/product/kindred-forever-50o6bm2sfdba26.html?lang=en_IN",
+      "source": "Tanishq",
+      "category": "Diamond Jewelry"
+    },
+    {
+      "name": "Forever Circle",
+      "price": 379962,
+      "image": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw621e686b/images/hi-res/55D6SLVAB1A27_1.jpg",
+      "url": "https://www.tanishq.co.in/product/forever-circle-55d6slvab1a27.html?lang=en_IN",
+      "source": "Tanishq",
+      "category": "Diamond Jewelry"
+    },
+    {
+      "name": "The Quiet Echo",
+      "price": 893004,
+      "image": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw30e39892/images/hi-res/55OXSNDBJABA32_1.jpg",
+      "url": "https://www.tanishq.co.in/product/the-quiet-echo-55oxsndbjaba32.html?lang=en_IN",
+      "source": "Tanishq",
+      "category": "Diamond Jewelry"
+    },
+    {
+      "name": "Infinite Harmony",
+      "price": 2566566,
+      "image": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw283773bf/images/hi-res/50O6SP2APDBA32_1.jpg",
+      "url": "https://www.tanishq.co.in/product/infinite-harmony-50o6sp2apdba32.html?lang=en_IN",
+      "source": "Tanishq",
+      "category": "Diamond Jewelry"
+    },
+    {
+      "name": "Endless Accord",
+      "price": 1306135,
+      "image": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw2e936e9c/images/hi-res/50O6BM2RADAA27_1.jpg",
+      "url": "https://www.tanishq.co.in/product/endless-accord-50o6bm2radaa27.html?lang=en_IN",
+      "source": "Tanishq",
+      "category": "Diamond Jewelry"
+    },
+    {
+      "name": "Together Beyond",
+      "price": 1411332,
+      "image": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw2e9125c9/images/hi-res/55O6BM2SYDBA27_1.jpg",
+      "url": "https://www.tanishq.co.in/product/together-beyond-55o6bm2sydba27.html?lang=en_IN",
+      "source": "Tanishq",
+      "category": "Diamond Jewelry"
+    },
+    {
+      "name": "Beyond Bonds",
+      "price": 825146,
+      "image": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw8e804615/images/hi-res/50O6BMHRHAAA27_1.jpg",
+      "url": "https://www.tanishq.co.in/product/beyond-bonds-50o6bmhrhaaa27.html?lang=en_IN",
+      "source": "Tanishq",
+      "category": "Diamond Jewelry"
+    },
+    {
+      "name": "Shared Rhythm",
+      "price": 439494,
+      "image": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwefc80bd7/images/hi-res/50O6BMDQRABA26_1.jpg",
+      "url": "https://www.tanishq.co.in/product/shared-rhythm-50o6bmdqraba26.html?lang=en_IN",
       "source": "Tanishq",
       "category": "Diamond Jewelry"
     },
@@ -173,14 +285,6 @@
       "price": 7211777562,
       "image": "https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwe0aa3291/images/hi-res/50D6SMFCMAA26_1.jpg?sw=480&sh=480",
       "url": "https://www.tanishq.co.in/product/hidden-bloom-diamond-ring-50d6smfcmaa26.html?lang=en_IN",
-      "source": "Tanishq",
-      "category": "Diamond Jewelry"
-    },
-    {
-      "name": "Golden Mirage Diamond Ring",
-      "price": 5650160035,
-      "image": "https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw54d87a01/images/hi-res/50D6SMFAHAA26_1.jpg?sw=480&sh=480",
-      "url": "https://www.tanishq.co.in/product/golden-mirage-diamond-ring-50d6smfahaa26.html?lang=en_IN",
       "source": "Tanishq",
       "category": "Diamond Jewelry"
     },
@@ -633,6 +737,6 @@
       "category": "Diamond Jewelry"
     }
   ],
-  "lastFetched": "2026-07-31T19:19:53.630Z",
-  "count": 79
+  "lastFetched": "2026-08-01T02:30:33.954Z",
+  "count": 92
 }
