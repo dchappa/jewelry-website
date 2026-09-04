@@ -1,14 +1,6 @@
 {
   "products": [
     {
-      "name": "Radiant Ember Diamond Ring",
-      "price": 8487687369,
-      "image": "https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwa2c3ab1e/images/hi-res/50D6SMFAAAA26_1.jpg?sw=480&sh=480",
-      "url": "https://www.tanishq.co.in/product/radiant-ember-diamond-ring-50d6smfaaaa26.html?lang=en_IN",
-      "source": "Tanishq",
-      "category": "Diamond Jewelry"
-    },
-    {
       "name": "Spectrum Petals Diamond Pendant with Chain",
       "price": 117101119946,
       "image": "https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw796a5666/images/hi-res/50DXSMGCLAA26_1.jpg?sw=480&sh=480",
@@ -41,14 +33,6 @@
       "category": "Diamond Jewelry"
     },
     {
-      "name": "Rainbow Crest Diamond Stud Earrings",
-      "price": 9081699075,
-      "image": "https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw2ee76e0c/images/hi-res/50DASMSENAGA26_1.jpg?sw=480&sh=480",
-      "url": "https://www.tanishq.co.in/product/rainbow-crest-diamond-stud-earrings-50dasmsenaga26.html?lang=en_IN",
-      "source": "Tanishq",
-      "category": "Diamond Jewelry"
-    },
-    {
       "name": "Rainbow Prism Diamond Stud Earrings",
       "price": 4643448420,
       "image": "https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwfecceec2/images/hi-res/50D5S2SLJADA09_1.jpg?sw=480&sh=480",
@@ -77,14 +61,6 @@
       "price": 9626798672,
       "image": "https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw9e09a522/images/hi-res/50D6SMGAKAA26_1.jpg?sw=480&sh=480",
       "url": "https://www.tanishq.co.in/product/prism-ray-diamond-pendant-with-chain-50d6smgakaa26.html?lang=en_IN",
-      "source": "Tanishq",
-      "category": "Diamond Jewelry"
-    },
-    {
-      "name": "Luminous Flora Diamond Pendant with Chain",
-      "price": 197929210498,
-      "image": "https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw9560548b/images/hi-res/50DXSMGATAA26_1.jpg?sw=480&sh=480",
-      "url": "https://www.tanishq.co.in/product/luminous-flora-diamond-pendant-with-chain-50dxsmgataa26.html?lang=en_IN",
       "source": "Tanishq",
       "category": "Diamond Jewelry"
     },
@@ -189,6 +165,30 @@
       "price": 8744693151,
       "image": "https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw1c0cd3c5/images/hi-res/50D6SMPATAAA26_1.jpg?sw=480&sh=480",
       "url": "https://www.tanishq.co.in/product/aurora-bloom-diamond-pendant-50d6smpataaa26.html?lang=en_IN",
+      "source": "Tanishq",
+      "category": "Diamond Jewelry"
+    },
+    {
+      "name": "Prism Tides Diamond Bangle",
+      "price": 243545255829,
+      "image": "https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwa0978263/images/hi-res/55D6SMVAZ1A26_1.jpg?sw=480&sh=480",
+      "url": "https://www.tanishq.co.in/product/prism-tides-diamond-bangle-55d6smvaz1a26.html?lang=en_IN",
+      "source": "Tanishq",
+      "category": "Diamond Jewelry"
+    },
+    {
+      "name": "Spectrum Blossom Diamond Pendant with Chain",
+      "price": 9517598787,
+      "image": "https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwf4704aba/images/hi-res/50D6SMGCAAA26_1.jpg?sw=480&sh=480",
+      "url": "https://www.tanishq.co.in/product/spectrum-blossom-diamond-pendant-with-chain-50d6smgcaaa26.html?lang=en_IN",
+      "source": "Tanishq",
+      "category": "Diamond Jewelry"
+    },
+    {
+      "name": "Hidden Bloom Diamond Ring",
+      "price": 7473880183,
+      "image": "https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwe0aa3291/images/hi-res/50D6SMFCMAA26_1.jpg?sw=480&sh=480",
+      "url": "https://www.tanishq.co.in/product/hidden-bloom-diamond-ring-50d6smfcmaa26.html?lang=en_IN",
       "source": "Tanishq",
       "category": "Diamond Jewelry"
     },
@@ -378,9 +378,9 @@
     },
     {
       "name": ".wishlist-hero-custom-button.wishlisthero-quick-view.wlh-right-btn > div > button {\n        padding: 8px !important;\n        border-radius:50%;\n        height: 33px !important;\n        width: 33px;\n    }\n    .wishlist-hero-custom-button.wishlisthero-floating button {\n        width: 35px !important;\n        height: 35px !important;\n        font-size:16px !important\n    }\n    @media (max-width: 480px) {\n        .wishlist-hero-custom-button.wishlisthero-quick-view.wlh-right-btn > div > button {\n            height: 32px !important;\n            width: 32px !important;\n        }\n        .wishlist-hero-custom-button.wishlisthero-floating button {\n            width: 30px !important;\n            height: 30px !important;\n            font-size:16px !important\n        }\n    }\n\n\n                \n              \n              \n            \n                  \n                  \n                  \n\n                    \n\n\n\n\n\n\n\n \n\n    .wishlist-hero-custom-button.wishlisthero-quick-view.wlh-right-btn > div > button {\n        padding: 8px !important;\n        border-radius:50%;\n        height: 33px !important;\n        width: 33px;\n    }\n    .wishlist-hero-custom-button.wishlisthero-floating button {\n        width: 35px !important;\n        height: 35px !important;\n        font-size:16px !important\n    }\n    @media (max-width: 480px) {\n        .wishlist-hero-custom-button.wishlisthero-quick-view.wlh-right-btn > div > button {\n            height: 32px !important;\n            width: 32px !important;\n        }\n        .wishlist-hero-custom-button.wishlisthero-floating button {\n            width: 30px !important;\n            height: 30px !important;\n            font-size:16px !important\n        }\n    }\n\n\n                    \n                    \n                  \n                  \n                \n              \n  \n\n  \n  \n\n          \n          \n              \n            \n        \n        \n          \n            Flat 50% off on making charge \n          \n        \n      \n  .discount-font {\n  font-size:12px;letter-spacing: 0px;\n  }\n   @media (max-width: 749px) {\n    .discount-font {\n  font-size:10px;letter-spacing: 0px;\n  }\n   }\n\n   .making-offer-box {\n  background: #e9e1ea; /* light purple */\n  border-radius: 14px;\n  padding: 16px 18px;\n  margin: 20px 0;\n  max-width:340px;\n}\n\n.making-offer-inner {\n  display: flex;\n  align-items: center;\n  gap: 12px;\n}\n\n.making-offer-icon {\n  width: 32px;\n  height: 32px;\n  border-radius: 50%;\n  background: linear-gradient(180deg, #FBE284 0%, #C19750 52.4%, #955D27 75%, #DBA926 100%);\n  display: flex;\n  align-items: center;\n  justify-content: center;\n}\n\n.making-offer-icon svg {\n  background: #e9e1ea; /* same as parent bg */\n  border-radius: 50%;\n  padding: 6px;\n  width:28px;\n  height:28px\n\n}\n\n.making-offer-divider {\n  width: 1px;\n  height: 40px;\n  background: #bfaec2;\n}\n\n.making-offer-content {\n  display: flex;\n  flex-direction: column;\n}\n\n.making-offer-title {\n background: linear-gradient(180deg, #4D2753 0%, #1C0E2B 142.55%);\n  -webkit-background-clip: text;\n  -webkit-text-fill-color: transparent;\n  margin: 0;\n\n  font-family: Helvetica;\n  font-weight: 400;\n  font-size: 12.49px;\n  line-height: 100%;\n  letter-spacing: 0%;\n\n}\n\n.making-offer-save {\n  background: linear-gradient(180deg, #4D2753 0%, #1C0E2B 142.55%);\n  -webkit-background-clip: text;\n  -webkit-text-fill-color: transparent;\n  margin: 8px 0 0;\n\n  font-family: Helvetica;\n  font-weight: 800;\n  font-size: 14.49px;\n  line-height: 100%;\n  letter-spacing: 0%;\n}",
-      "price": 28584003152500.285,
-      "image": "https://www.pngjewellers.com/cdn/shop/files/AEN3923PDMCRC.jpg?v=1772808804&width=1500",
-      "url": "https://www.pngjewellers.com/products/mystical-yellow-gold-diamond-modern-necklace?variant=48635588313307",
+      "price": 22956002553100.23,
+      "image": "https://www.pngjewellers.com/cdn/shop/files/IJERC10206XX_C_20.jpg?v=1772804404&width=1500",
+      "url": "https://www.pngjewellers.com/products/lush-leaflets-gold-diamond-earring-for-women?variant=48635673018587",
       "source": "PNG Jewellers",
       "category": "Diamond Jewelry"
     },
@@ -473,6 +473,6 @@
       "category": "Diamond Jewelry"
     }
   ],
-  "lastFetched": "2026-09-03T20:27:41.189Z",
+  "lastFetched": "2026-09-04T02:49:56.675Z",
   "count": 59
 }
