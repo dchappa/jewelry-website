@@ -2,7 +2,7 @@
   "products": [
     {
       "name": "Spectrum Petals Diamond Pendant with Chain",
-      "price": null,
+      "price": 117799120644,
       "image": "https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw796a5666/images/hi-res/50DXSMGCLAA26_1.jpg?sw=480&sh=480",
       "url": "https://www.tanishq.co.in/product/spectrum-petals-diamond-pendant-with-chain-50dxsmgclaa26.html?lang=en_IN",
       "source": "Tanishq",
@@ -29,6 +29,14 @@
       "price": 132989144890,
       "image": "https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw6cd1418a/images/hi-res/50DASMDEWADA26_1.jpg?sw=480&sh=480",
       "url": "https://www.tanishq.co.in/product/aurora-cascade-diamond-drop-earrings-50dasmdewada26.html?lang=en_IN",
+      "source": "Tanishq",
+      "category": "Diamond Jewelry"
+    },
+    {
+      "name": "Rainbow Prism Diamond Stud Earrings",
+      "price": 4667448660,
+      "image": "https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwfecceec2/images/hi-res/50D5S2SLJADA09_1.jpg?sw=480&sh=480",
+      "url": "https://www.tanishq.co.in/product/rainbow-prism-diamond-stud-earrings-50d5s2sljada09.html?lang=en_IN",
       "source": "Tanishq",
       "category": "Diamond Jewelry"
     },
@@ -181,14 +189,6 @@
       "price": 7505780502,
       "image": "https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwe0aa3291/images/hi-res/50D6SMFCMAA26_1.jpg?sw=480&sh=480",
       "url": "https://www.tanishq.co.in/product/hidden-bloom-diamond-ring-50d6smfcmaa26.html?lang=en_IN",
-      "source": "Tanishq",
-      "category": "Diamond Jewelry"
-    },
-    {
-      "name": "Solar Prism Diamond Stud Earrings",
-      "price": 8669993204,
-      "image": "https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw117b42ea/images/hi-res/50DASMSEPAGA26_1.jpg?sw=480&sh=480",
-      "url": "https://www.tanishq.co.in/product/solar-prism-diamond-stud-earrings-50dasmsepaga26.html?lang=en_IN",
       "source": "Tanishq",
       "category": "Diamond Jewelry"
     },
@@ -378,9 +378,9 @@
     },
     {
       "name": ".wishlist-hero-custom-button.wishlisthero-quick-view.wlh-right-btn > div > button {\n        padding: 8px !important;\n        border-radius:50%;\n        height: 33px !important;\n        width: 33px;\n    }\n    .wishlist-hero-custom-button.wishlisthero-floating button {\n        width: 35px !important;\n        height: 35px !important;\n        font-size:16px !important\n    }\n    @media (max-width: 480px) {\n        .wishlist-hero-custom-button.wishlisthero-quick-view.wlh-right-btn > div > button {\n            height: 32px !important;\n            width: 32px !important;\n        }\n        .wishlist-hero-custom-button.wishlisthero-floating button {\n            width: 30px !important;\n            height: 30px !important;\n            font-size:16px !important\n        }\n    }\n\n\n                \n              \n              \n            \n                  \n                  \n                  \n\n                    \n\n\n\n\n\n\n\n \n\n    .wishlist-hero-custom-button.wishlisthero-quick-view.wlh-right-btn > div > button {\n        padding: 8px !important;\n        border-radius:50%;\n        height: 33px !important;\n        width: 33px;\n    }\n    .wishlist-hero-custom-button.wishlisthero-floating button {\n        width: 35px !important;\n        height: 35px !important;\n        font-size:16px !important\n    }\n    @media (max-width: 480px) {\n        .wishlist-hero-custom-button.wishlisthero-quick-view.wlh-right-btn > div > button {\n            height: 32px !important;\n            width: 32px !important;\n        }\n        .wishlist-hero-custom-button.wishlisthero-floating button {\n            width: 30px !important;\n            height: 30px !important;\n            font-size:16px !important\n        }\n    }\n\n\n                    \n                    \n                  \n                  \n                \n              \n  \n\n  \n  \n\n          \n          \n              \n            \n        \n        \n          \n            Flat 50% off on making charge \n          \n        \n      \n  .discount-font {\n  font-size:12px;letter-spacing: 0px;\n  }\n   @media (max-width: 749px) {\n    .discount-font {\n  font-size:10px;letter-spacing: 0px;\n  }\n   }\n\n   .making-offer-box {\n  background: #e9e1ea; /* light purple */\n  border-radius: 14px;\n  padding: 16px 18px;\n  margin: 20px 0;\n  max-width:340px;\n}\n\n.making-offer-inner {\n  display: flex;\n  align-items: center;\n  gap: 12px;\n}\n\n.making-offer-icon {\n  width: 32px;\n  height: 32px;\n  border-radius: 50%;\n  background: linear-gradient(180deg, #FBE284 0%, #C19750 52.4%, #955D27 75%, #DBA926 100%);\n  display: flex;\n  align-items: center;\n  justify-content: center;\n}\n\n.making-offer-icon svg {\n  background: #e9e1ea; /* same as parent bg */\n  border-radius: 50%;\n  padding: 6px;\n  width:28px;\n  height:28px\n\n}\n\n.making-offer-divider {\n  width: 1px;\n  height: 40px;\n  background: #bfaec2;\n}\n\n.making-offer-content {\n  display: flex;\n  flex-direction: column;\n}\n\n.making-offer-title {\n background: linear-gradient(180deg, #4D2753 0%, #1C0E2B 142.55%);\n  -webkit-background-clip: text;\n  -webkit-text-fill-color: transparent;\n  margin: 0;\n\n  font-family: Helvetica;\n  font-weight: 400;\n  font-size: 12.49px;\n  line-height: 100%;\n  letter-spacing: 0%;\n\n}\n\n.making-offer-save {\n  background: linear-gradient(180deg, #4D2753 0%, #1C0E2B 142.55%);\n  -webkit-background-clip: text;\n  -webkit-text-fill-color: transparent;\n  margin: 8px 0 0;\n\n  font-family: Helvetica;\n  font-weight: 800;\n  font-size: 14.49px;\n  line-height: 100%;\n  letter-spacing: 0%;\n}",
-      "price": 10113001191500.102,
-      "image": "https://www.pngjewellers.com/cdn/shop/files/DIDN0017-FXY48-main.webp?v=1747916507&width=1500",
-      "url": "https://www.pngjewellers.com/products/bedazzling-bloom-nose-pin?variant=48635628224731",
+      "price": 63163006904400.63,
+      "image": "https://www.pngjewellers.com/cdn/shop/files/SET3_C.jpg?v=1772823995&width=1500",
+      "url": "https://www.pngjewellers.com/products/moonlit-drop-gold-diamond-pendant-set-for-women?variant=48635920416987",
       "source": "PNG Jewellers",
       "category": "Diamond Jewelry"
     },
@@ -473,6 +473,6 @@
       "category": "Diamond Jewelry"
     }
   ],
-  "lastFetched": "2026-09-04T20:14:10.831Z",
+  "lastFetched": "2026-09-05T02:49:29.400Z",
   "count": 59
 }
