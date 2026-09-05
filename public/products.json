@@ -1,230 +1,6 @@
 {
   "products": [
     {
-      "name": "Spectrum Petals Diamond Pendant with Chain",
-      "price": 116810119655,
-      "image": "https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw796a5666/images/hi-res/50DXSMGCLAA26_1.jpg?sw=480&sh=480",
-      "url": "https://www.tanishq.co.in/product/spectrum-petals-diamond-pendant-with-chain-50dxsmgclaa26.html?lang=en_IN",
-      "source": "Tanishq",
-      "category": "Diamond Jewelry"
-    },
-    {
-      "name": "Radiant Echo Diamond Stud Earrings",
-      "price": 4961952570,
-      "image": "https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw0ea42b68/images/hi-res/50DVSMSBUAGA26_1.jpg?sw=480&sh=480",
-      "url": "https://www.tanishq.co.in/product/radiant-echo-diamond-stud-earrings-50dvsmsbuaga26.html?lang=en_IN",
-      "source": "Tanishq",
-      "category": "Diamond Jewelry"
-    },
-    {
-      "name": "Soft Spectrum Diamond Pendant with Chain",
-      "price": 6289166173,
-      "image": "https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw969eb839/images/hi-res/50D5S2GLIAA09_1.jpg?sw=480&sh=480",
-      "url": "https://www.tanishq.co.in/product/soft-spectrum-diamond-pendant-with-chain-50d5s2gliaa09.html?lang=en_IN",
-      "source": "Tanishq",
-      "category": "Diamond Jewelry"
-    },
-    {
-      "name": "Aurora Cascade Diamond Drop Earrings",
-      "price": 132313144214,
-      "image": "https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw6cd1418a/images/hi-res/50DASMDEWADA26_1.jpg?sw=480&sh=480",
-      "url": "https://www.tanishq.co.in/product/aurora-cascade-diamond-drop-earrings-50dasmdewada26.html?lang=en_IN",
-      "source": "Tanishq",
-      "category": "Diamond Jewelry"
-    },
-    {
-      "name": "Rainbow Prism Diamond Stud Earrings",
-      "price": 4633448320,
-      "image": "https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwfecceec2/images/hi-res/50D5S2SLJADA09_1.jpg?sw=480&sh=480",
-      "url": "https://www.tanishq.co.in/product/rainbow-prism-diamond-stud-earrings-50d5s2sljada09.html?lang=en_IN",
-      "source": "Tanishq",
-      "category": "Diamond Jewelry"
-    },
-    {
-      "name": "Celestial Loop Diamond Bangle",
-      "price": 126025131595,
-      "image": "https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwd31c1540/images/hi-res/55D6SMVAX1A26_1.jpg?sw=480&sh=480",
-      "url": "https://www.tanishq.co.in/product/celestial-loop-diamond-bangle-55d6smvax1a26.html?lang=en_IN",
-      "source": "Tanishq",
-      "category": "Diamond Jewelry"
-    },
-    {
-      "name": "Aurora Circle Diamond Stud Earrings",
-      "price": 5382756679,
-      "image": "https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw2b4a1e58/images/hi-res/50D5S2SLWADA09_1.jpg?sw=480&sh=480",
-      "url": "https://www.tanishq.co.in/product/aurora-circle-diamond-stud-earrings-50d5s2slwada09.html?lang=en_IN",
-      "source": "Tanishq",
-      "category": "Diamond Jewelry"
-    },
-    {
-      "name": "Prism Ray Diamond Pendant with Chain",
-      "price": 9602598429,
-      "image": "https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw9e09a522/images/hi-res/50D6SMGAKAA26_1.jpg?sw=480&sh=480",
-      "url": "https://www.tanishq.co.in/product/prism-ray-diamond-pendant-with-chain-50d6smgakaa26.html?lang=en_IN",
-      "source": "Tanishq",
-      "category": "Diamond Jewelry"
-    },
-    {
-      "name": "Halo of Light Diamond Pendant with Chain",
-      "price": 7017874317,
-      "image": "https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw60a2aa45/images/hi-res/50DASMGEKAA26_1.jpg?sw=480&sh=480",
-      "url": "https://www.tanishq.co.in/product/halo-of-light-diamond-pendant-with-chain-50dasmgekaa26.html?lang=en_IN",
-      "source": "Tanishq",
-      "category": "Diamond Jewelry"
-    },
-    {
-      "name": "Whispered Reflection Diamond Hoop Earrings",
-      "price": 7466182427,
-      "image": "https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw8db89c1d/images/hi-res/50D6SMHBWADA26_1.jpg?sw=480&sh=480",
-      "url": "https://www.tanishq.co.in/product/whispered-reflection-diamond-hoop-earrings-55d6smhbwada26.html?lang=en_IN",
-      "source": "Tanishq",
-      "category": "Diamond Jewelry"
-    },
-    {
-      "name": "Reflections of Dawn Diamond Bracelet",
-      "price": 233974254281,
-      "image": "https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw90881c87/images/hi-res/55D6SMBBXAA26_1.jpg?sw=480&sh=480",
-      "url": "https://www.tanishq.co.in/product/reflections-of-dawn-diamond-bracelet-55d6smbbxaa26.html?lang=en_IN",
-      "source": "Tanishq",
-      "category": "Diamond Jewelry"
-    },
-    {
-      "name": "Radiant Veil Diamond Drop Earrings",
-      "price": 111100118602,
-      "image": "https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw1e2023d3/images/hi-res/50D6SMDBAADA27_1.jpg?sw=480&sh=480",
-      "url": "https://www.tanishq.co.in/product/radiant-veil-diamond-drop-earrings-55d6smdbaada27.html?lang=en_IN",
-      "source": "Tanishq",
-      "category": "Diamond Jewelry"
-    },
-    {
-      "name": "Mint Meadow Diamond Stud Earrings",
-      "price": 5150856058,
-      "image": "https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwf8fc86bd/images/hi-res/50D6JSSADAGA26_1.jpg?sw=480&sh=480",
-      "url": "https://www.tanishq.co.in/product/mint-meadow-diamond-stud-earrings-50d6jssadaga26.html?lang=en_IN",
-      "source": "Tanishq",
-      "category": "Diamond Jewelry"
-    },
-    {
-      "name": "Blush Garland Diamond Stud Earrings",
-      "price": 3882441664,
-      "image": "https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw54a71f3b/images/hi-res/50D6JSSABAGA26_1.jpg?sw=480&sh=480",
-      "url": "https://www.tanishq.co.in/product/blush-garland-diamond-stud-earrings-50d6jssabaga26.html?lang=en_IN",
-      "source": "Tanishq",
-      "category": "Diamond Jewelry"
-    },
-    {
-      "name": "Mint Crescent Diamond Stud Earrings",
-      "price": 6099065022,
-      "image": "https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw0a13efcd/images/hi-res/50D6JSSAFAGA26_1.jpg?sw=480&sh=480",
-      "url": "https://www.tanishq.co.in/product/mint-crescent-diamond-stud-earrings-50d6jssafaga26.html?lang=en_IN",
-      "source": "Tanishq",
-      "category": "Diamond Jewelry"
-    },
-    {
-      "name": "Violet Aura Diamond Stud Earrings",
-      "price": 5646861123,
-      "image": "https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwb794d29b/images/hi-res/50D6JSSAGAGA26_1.jpg?sw=480&sh=480",
-      "url": "https://www.tanishq.co.in/product/violet-aura-diamond-stud-earrings-50d6jssagaga26.html?lang=en_IN",
-      "source": "Tanishq",
-      "category": "Diamond Jewelry"
-    },
-    {
-      "name": "Blushing Petal Diamond Drop Earrings",
-      "price": 6745072096,
-      "image": "https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwd841f90d/images/hi-res/50D6JSDAIAGA26_1.jpg?sw=480&sh=480",
-      "url": "https://www.tanishq.co.in/product/blushing-petal-diamond-drop-earrings-50d6jsdaiaga26.html?lang=en_IN",
-      "source": "Tanishq",
-      "category": "Diamond Jewelry"
-    },
-    {
-      "name": "Ever Radiant Diamond Pendant with Chain",
-      "price": 9298099634,
-      "image": "https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw6682b99a/images/hi-res/50DVSMGAJAA26_1.jpg?sw=480&sh=480",
-      "url": "https://www.tanishq.co.in/product/ever-radiant-diamond-pendant-with-chain-50dvsmgajaa26.html?lang=en_IN",
-      "source": "Tanishq",
-      "category": "Diamond Jewelry"
-    },
-    {
-      "name": "Petal Echo Diamond Ring",
-      "price": 6818471432,
-      "image": "https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw9efc46fd/images/hi-res/50D6SMFAGAA26_1.jpg?sw=480&sh=480",
-      "url": "https://www.tanishq.co.in/product/petal-echo-diamond-ring-50d6smfagaa26.html?lang=en_IN",
-      "source": "Tanishq",
-      "category": "Diamond Jewelry"
-    },
-    {
-      "name": "Radiant Horizon Diamond Drop Earrings",
-      "price": 116805127054,
-      "image": "https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw9df68d3a/images/hi-res/50D6SMDBFABA26_1.jpg?sw=480&sh=480",
-      "url": "https://www.tanishq.co.in/product/radiant-horizon-diamond-drop-earrings-50d6smdbfaba26.html?lang=en_IN",
-      "source": "Tanishq",
-      "category": "Diamond Jewelry"
-    },
-    {
-      "name": "Aurora Bloom Diamond Pendant",
-      "price": 8728192986,
-      "image": "https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw1c0cd3c5/images/hi-res/50D6SMPATAAA26_1.jpg?sw=480&sh=480",
-      "url": "https://www.tanishq.co.in/product/aurora-bloom-diamond-pendant-50d6smpataaa26.html?lang=en_IN",
-      "source": "Tanishq",
-      "category": "Diamond Jewelry"
-    },
-    {
-      "name": "Prism Tides Diamond Bangle",
-      "price": 242991255276,
-      "image": "https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwa0978263/images/hi-res/55D6SMVAZ1A26_1.jpg?sw=480&sh=480",
-      "url": "https://www.tanishq.co.in/product/prism-tides-diamond-bangle-55d6smvaz1a26.html?lang=en_IN",
-      "source": "Tanishq",
-      "category": "Diamond Jewelry"
-    },
-    {
-      "name": "Spectrum Blossom Diamond Pendant with Chain",
-      "price": 9495598567,
-      "image": "https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwf4704aba/images/hi-res/50D6SMGCAAA26_1.jpg?sw=480&sh=480",
-      "url": "https://www.tanishq.co.in/product/spectrum-blossom-diamond-pendant-with-chain-50d6smgcaaa26.html?lang=en_IN",
-      "source": "Tanishq",
-      "category": "Diamond Jewelry"
-    },
-    {
-      "name": "Hidden Bloom Diamond Ring",
-      "price": 7460580050,
-      "image": "https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwe0aa3291/images/hi-res/50D6SMFCMAA26_1.jpg?sw=480&sh=480",
-      "url": "https://www.tanishq.co.in/product/hidden-bloom-diamond-ring-50d6smfcmaa26.html?lang=en_IN",
-      "source": "Tanishq",
-      "category": "Diamond Jewelry"
-    },
-    {
-      "name": "Aerial Bloom Diamond Drop Earrings",
-      "price": null,
-      "image": "https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwd0cafa16/images/hi-res/50D5WMDACABA02_1.jpg?sw=480&sh=480",
-      "url": "https://www.tanishq.co.in/product/aerial-bloom-diamond-drop-earrings-50d5wmdacaba02.html?lang=en_IN",
-      "source": "Tanishq",
-      "category": "Diamond Jewelry"
-    },
-    {
-      "name": "Prism Wing Diamond Stud Earrings",
-      "price": null,
-      "image": "https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwb406b4f2/images/hi-res/50D5WMSAMABA02_1.jpg?sw=480&sh=480",
-      "url": "https://www.tanishq.co.in/product/prism-wing-diamond-stud-earrings-50d5wmsamaba02.html?lang=en_IN",
-      "source": "Tanishq",
-      "category": "Diamond Jewelry"
-    },
-    {
-      "name": "Wings in Motion Diamond Drop Earrings",
-      "price": 106596117163,
-      "image": "https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw3b8bce61/images/hi-res/55D5WMDAMABA32_1.jpg?sw=480&sh=480",
-      "url": "https://www.tanishq.co.in/product/wings-in-motion-diamond-drop-earrings-55d5wmdamaba32.html?lang=en_IN",
-      "source": "Tanishq",
-      "category": "Diamond Jewelry"
-    },
-    {
-      "name": "Colourlift Wing Diamond Stud Earrings",
-      "price": null,
-      "image": "https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwe4cf55ff/images/hi-res/50D5WMSAKAGA02_1.jpg?sw=480&sh=480",
-      "url": "https://www.tanishq.co.in/product/colourlift-wing-diamond-stud-earrings-50d5wmsakaga02.html?lang=en_IN",
-      "source": "Tanishq",
-      "category": "Diamond Jewelry"
-    },
-    {
       "name": "Twynox Platinum Chain",
       "price": 337584,
       "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=",
@@ -385,6 +161,38 @@
       "category": "Diamond Jewelry"
     },
     {
+      "name": "Floral Diamond Pendant",
+      "price": 28470,
+      "image": "https://images.unsplash.com/photo-1599643478518-a784e5dc4c8f?w=400&h=400&fit=crop",
+      "url": "https://www.tanishq.co.in/collections/diamond-jewellery",
+      "source": "Tanishq",
+      "category": "Diamond Jewelry"
+    },
+    {
+      "name": "Solitaire Diamond Ring",
+      "price": 52300,
+      "image": "https://images.unsplash.com/photo-1605100804763-247f67b3557e?w=400&h=400&fit=crop",
+      "url": "https://www.tanishq.co.in/collections/diamond-jewellery",
+      "source": "Tanishq",
+      "category": "Diamond Jewelry"
+    },
+    {
+      "name": "Diamond Cluster Earrings",
+      "price": 34500,
+      "image": "https://images.unsplash.com/photo-1535632066927-ab7c9ab60908?w=400&h=400&fit=crop",
+      "url": "https://www.tanishq.co.in/collections/diamond-jewellery",
+      "source": "Tanishq",
+      "category": "Diamond Jewelry"
+    },
+    {
+      "name": "Elegant Diamond Necklace",
+      "price": 145000,
+      "image": "https://images.unsplash.com/photo-1611591437281-460bfbe1220a?w=400&h=400&fit=crop",
+      "url": "https://www.tanishq.co.in/collections/diamond-jewellery",
+      "source": "Tanishq",
+      "category": "Diamond Jewelry"
+    },
+    {
       "name": "Delicate Diamond Bracelet",
       "price": 41200,
       "image": "https://images.unsplash.com/photo-1573408301185-9146fe634ad0?w=400&h=400&fit=crop",
@@ -473,6 +281,6 @@
       "category": "Diamond Jewelry"
     }
   ],
-  "lastFetched": "2026-09-05T14:31:43.297Z",
-  "count": 59
+  "lastFetched": "2026-09-05T19:53:52.495Z",
+  "count": 35
 }
