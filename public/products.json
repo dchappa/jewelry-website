@@ -49,14 +49,6 @@
       "category": "Diamond Jewelry"
     },
     {
-      "name": "Luminous Vision Diamond Bracelet",
-      "price": 43567,
-      "image": "https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw0da70813/images/hi-res/50D6S2BBHAA2A_1.jpg?sw=480&sh=480",
-      "url": "https://www.tanishq.co.in/product/luminous-vision-diamond-bracelet-50d6s2bbhaa2a.html?lang=en_IN",
-      "source": "Tanishq",
-      "category": "Diamond Jewelry"
-    },
-    {
       "name": "Sunlit Clover Diamond Pendant with Chain",
       "price": 48015,
       "image": "https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwd22005a5/images/hi-res/50D6S2GBOAA2A_1.jpg?sw=480&sh=480",
@@ -193,6 +185,14 @@
       "category": "Diamond Jewelry"
     },
     {
+      "name": "Spectrum Echo Diamond Drop Earrings",
+      "price": 99335,
+      "image": "https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw998dc096/images/hi-res/50DASMDEOAGA2A_1.jpg?sw=480&sh=480",
+      "url": "https://www.tanishq.co.in/product/spectrum-echo-diamond-drop-earrings-50dasmdeoaga2a.html?lang=en_IN",
+      "source": "Tanishq",
+      "category": "Diamond Jewelry"
+    },
+    {
       "name": "Aerial Bloom Diamond Drop Earrings",
       "price": null,
       "image": "https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwd0cafa16/images/hi-res/50D5WMDACABA02_1.jpg?sw=480&sh=480",
@@ -225,130 +225,130 @@
       "category": "Diamond Jewelry"
     },
     {
-      "name": "Twynox Platinum Chain",
-      "price": 318868,
+      "name": "Terjalin Diamond Ring",
+      "price": 48277,
       "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=",
-      "url": "https://www.candere.com/twynox-platinum-chain.html",
+      "url": "https://www.candere.com/terjalin-diamond-ring.html",
       "source": "Kalyan Jewellers",
       "category": "Diamond Jewelry"
     },
     {
-      "name": "Stryde Platinum And Diamond Pendant",
-      "price": 58672,
+      "name": "Kizuna Diamond Ring",
+      "price": 17004,
       "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=",
-      "url": "https://www.candere.com/stryde-platinum-and-diamond-pendant.html",
+      "url": "https://www.candere.com/kizuna-diamond-ring.html",
       "source": "Kalyan Jewellers",
       "category": "Diamond Jewelry"
     },
     {
-      "name": "Granite Platinum Kada",
-      "price": 239747,
+      "name": "Lerato Diamond Ring",
+      "price": 49010,
       "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=",
-      "url": "https://www.candere.com/granite-platinum-kada.html",
+      "url": "https://www.candere.com/lerato-diamond-ring.html",
       "source": "Kalyan Jewellers",
       "category": "Diamond Jewelry"
     },
     {
-      "name": "Braythar Platinum Ring",
-      "price": 84128,
+      "name": "Florere Diamond Ring",
+      "price": 35073,
       "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=",
-      "url": "https://www.candere.com/braythar-platinum-ring.html",
+      "url": "https://www.candere.com/florere-diamond-ring.html",
       "source": "Kalyan Jewellers",
       "category": "Diamond Jewelry"
     },
     {
-      "name": "Solkron Platinum Ring",
-      "price": 57502,
+      "name": "Memento Diamond Ring",
+      "price": 45397,
       "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=",
-      "url": "https://www.candere.com/solkron-platinum-ring.html",
+      "url": "https://www.candere.com/memento-diamond-ring.html",
       "source": "Kalyan Jewellers",
       "category": "Diamond Jewelry"
     },
     {
-      "name": "Korlin Platinum Kada",
-      "price": 249047,
+      "name": "Helvine Diamond Ring",
+      "price": 32180,
       "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=",
-      "url": "https://www.candere.com/korlin-platinum-kada.html",
+      "url": "https://www.candere.com/helvine-diamond-ring.html",
       "source": "Kalyan Jewellers",
       "category": "Diamond Jewelry"
     },
     {
-      "name": "Caldrin Platinum Ring",
-      "price": 74266,
+      "name": "Olivienne Diamond Ring",
+      "price": 49471,
       "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=",
-      "url": "https://www.candere.com/caldrin-platinum-ring.html",
+      "url": "https://www.candere.com/olivienne-diamond-ring.html",
       "source": "Kalyan Jewellers",
       "category": "Diamond Jewelry"
     },
     {
-      "name": "Arkis Platinum And Diamond Ring",
-      "price": 50946,
+      "name": "Melusine Diamond Ring",
+      "price": 46712,
       "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=",
-      "url": "https://www.candere.com/arkis-platinum-and-diamond-ring.html",
+      "url": "https://www.candere.com/melusine-diamond-ring.html",
       "source": "Kalyan Jewellers",
       "category": "Diamond Jewelry"
     },
     {
-      "name": "Krovion Platinum Ring",
-      "price": 56710,
+      "name": "Melisande Diamond Ring",
+      "price": 37934,
       "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=",
-      "url": "https://www.candere.com/krovion-platinum-ring.html",
+      "url": "https://www.candere.com/melisande-diamond-ring.html",
       "source": "Kalyan Jewellers",
       "category": "Diamond Jewelry"
     },
     {
-      "name": "Skarnox Platinum Ring",
-      "price": 59412,
+      "name": "Sunfire Bloom Diamond Ring",
+      "price": 39422,
       "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=",
-      "url": "https://www.candere.com/skarnox-platinum-ring.html",
+      "url": "https://www.candere.com/sunfire-bloom-diamond-ring.html",
       "source": "Kalyan Jewellers",
       "category": "Diamond Jewelry"
     },
     {
-      "name": "Volkryn Platinum Chain",
-      "price": 261638,
+      "name": "Cirze Diamond Ring",
+      "price": 20196,
       "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=",
-      "url": "https://www.candere.com/volkryn-platinum-chain.html",
+      "url": "https://www.candere.com/cirze-diamond-ring.html",
       "source": "Kalyan Jewellers",
       "category": "Diamond Jewelry"
     },
     {
-      "name": "Regnathor Platinum Chain",
-      "price": 302613,
+      "name": "Asterelle Diamond Ring",
+      "price": 50548,
       "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=",
-      "url": "https://www.candere.com/regnathor-platinum-chain.html",
+      "url": "https://www.candere.com/asterelle-diamond-ring.html",
       "source": "Kalyan Jewellers",
       "category": "Diamond Jewelry"
     },
     {
-      "name": "Nordisyn Platinum Chain",
-      "price": 312120,
+      "name": "Arcturus Diamond Ring",
+      "price": 46657,
       "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=",
-      "url": "https://www.candere.com/nordisyn-platinum-chain.html",
+      "url": "https://www.candere.com/arcturus-diamond-ring.html",
       "source": "Kalyan Jewellers",
       "category": "Diamond Jewelry"
     },
     {
-      "name": "Overion Platinum Bracelet",
-      "price": 99458,
+      "name": "Endless Embrace Diamond Ring",
+      "price": 41491,
       "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=",
-      "url": "https://www.candere.com/overion-platinum-bracelet.html",
+      "url": "https://www.candere.com/endless-embrace-diamond-ring.html",
       "source": "Kalyan Jewellers",
       "category": "Diamond Jewelry"
     },
     {
-      "name": "Morvandar Platinum Chain",
-      "price": 258723,
+      "name": "Red Bery Diamond Ring",
+      "price": 24259,
       "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=",
-      "url": "https://www.candere.com/morvandar-platinum-chain.html",
+      "url": "https://www.candere.com/red-bery-diamond-ring.html",
       "source": "Kalyan Jewellers",
       "category": "Diamond Jewelry"
     },
     {
-      "name": "Vortek Platinum Chain",
-      "price": 243640,
+      "name": "Adelinde Diamond Ring",
+      "price": 21109,
       "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=",
-      "url": "https://www.candere.com/vortek-platinum-chain.html",
+      "url": "https://www.candere.com/adelinde-diamond-ring.html",
       "source": "Kalyan Jewellers",
       "category": "Diamond Jewelry"
     },
@@ -473,6 +473,6 @@
       "category": "Diamond Jewelry"
     }
   ],
-  "lastFetched": "2026-09-10T15:47:17.172Z",
+  "lastFetched": "2026-09-10T20:23:42.534Z",
   "count": 59
 }
