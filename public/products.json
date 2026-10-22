@@ -19,7 +19,7 @@
     {
       "name": "Laccaria Diamond Earrings",
       "price": 41931,
-      "image": "https://www.candere.com/media/catalog/product/K/C/KC08478YG_1_2.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=360&width=360&canvas=360:360",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=",
       "url": "https://www.candere.com/laccaria-diamond-earrings.html",
       "source": "Kalyan Jewellers",
       "category": "Diamond Jewelry"
@@ -305,6 +305,6 @@
       "category": "Diamond Jewelry"
     }
   ],
-  "lastFetched": "2026-10-21T21:13:22.126Z",
+  "lastFetched": "2026-10-22T03:17:25.811Z",
   "count": 38
 }
