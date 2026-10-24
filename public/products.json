@@ -9,14 +9,6 @@
       "category": "Diamond Jewelry"
     },
     {
-      "name": "Starry Diamond Drop Earrings",
-      "price": 347,
-      "image": "https://cdn.caratlane.us/media/catalog/product/j/e/jer05625-yb1a-000000000-00-14kt-yellow-gold-earrings-main-image.jpg?quality=90&bg-color=255,255,255&fit=bounds&height=350&width=350&canvas=350:350",
-      "url": "https://www.caratlane.us/starry-diamond-drop-earrings.html",
-      "source": "CaratLane",
-      "category": "Diamond Jewelry"
-    },
-    {
       "name": "Adore Diamond Adjustable Bracelet",
       "price": 550,
       "image": "https://cdn.caratlane.us/media/catalog/product/j/b/jbr01013-rb1a-000000000-00-14kt-rose-gold-bracelets-main-image.jpg?quality=90&bg-color=255,255,255&fit=bounds&height=350&width=350&canvas=350:350",
@@ -849,6 +841,6 @@
       "category": "Diamond Jewelry"
     }
   ],
-  "lastFetched": "2026-10-24T10:14:32.312Z",
-  "count": 106
+  "lastFetched": "2026-10-24T15:21:03.102Z",
+  "count": 105
 }
