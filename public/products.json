@@ -131,7 +131,7 @@
     {
       "name": "Finest Flora Gold Drop Earrings",
       "price": 161,
-      "image": "https://cdn.caratlane.us/media/catalog/product/u/e/uer06268-yb00-000000000-00-14kt-yellow-gold-earrings-small-image_1.jpg?quality=90&bg-color=255,255,255&fit=bounds&height=350&width=350&canvas=350:350",
+      "image": "https://cdn.caratlane.us/media/catalog/product/u/e/uer06268-yb00-000000000-00-14kt-yellow-gold-earrings-main-image.jpg?quality=90&bg-color=255,255,255&fit=bounds&height=350&width=350&canvas=350:350",
       "url": "https://www.caratlane.us/finest-flora-gold-drop-earrings.html",
       "source": "CaratLane",
       "category": "Diamond Jewelry"
@@ -147,7 +147,7 @@
     {
       "name": "Flutter Butterfly Kids' Gold Earrings",
       "price": 130,
-      "image": "https://cdn.caratlane.us/media/catalog/product/u/e/ue05550-1y0000_11_listfront.jpg?quality=90&bg-color=255,255,255&fit=bounds&height=350&width=350&canvas=350:350",
+      "image": "https://cdn.caratlane.us/media/catalog/product/u/e/uer05550-yb00-000000000-00-14kt-yellow-gold-earrings-main-image_1.jpg?quality=90&bg-color=255,255,255&fit=bounds&height=350&width=350&canvas=350:350",
       "url": "https://www.caratlane.us/flutter-butterfly-kids-gold-earrings.html",
       "source": "CaratLane",
       "category": "Diamond Jewelry"
@@ -155,7 +155,7 @@
     {
       "name": "Ashvi Classic Kids' Gold Earrings",
       "price": 161,
-      "image": "https://cdn.caratlane.us/media/catalog/product/u/e/uer05496-yb00-000000000-00-14kt-yellow-gold-earrings-small-image_1.jpg?quality=90&bg-color=255,255,255&fit=bounds&height=350&width=350&canvas=350:350",
+      "image": "https://cdn.caratlane.us/media/catalog/product/u/e/uer05496-yb00-000000000-00-14kt-yellow-gold-earrings-main-image.jpg?quality=90&bg-color=255,255,255&fit=bounds&height=350&width=350&canvas=350:350",
       "url": "https://www.caratlane.us/ashvi-classic-kids-gold-earrings.html",
       "source": "CaratLane",
       "category": "Diamond Jewelry"
@@ -219,7 +219,7 @@
     {
       "name": "Fresh Peppy Diamond Stud Earrings",
       "price": 319,
-      "image": "https://cdn.caratlane.us/media/catalog/product/j/e/jer07857-yb1a-000000000-00-14kt-yellow-gold-earrings-small-image_2.jpg?quality=90&bg-color=255,255,255&fit=bounds&height=350&width=350&canvas=350:350",
+      "image": "https://cdn.caratlane.us/media/catalog/product/j/e/jer07857-yb1a-000000000-00-14kt-yellow-gold-earrings-main-image_2.jpg?quality=90&bg-color=255,255,255&fit=bounds&height=350&width=350&canvas=350:350",
       "url": "https://www.caratlane.us/jer07857-yb1a-000000000-00-0000.html",
       "source": "CaratLane",
       "category": "Diamond Jewelry"
@@ -393,34 +393,26 @@
       "category": "Diamond Jewelry"
     },
     {
-      "name": "Define your Victory Gemstone Earrings",
-      "price": 685,
-      "image": "https://cdn.caratlane.us/media/catalog/product/j/e/jer09260-yb1a-sa0000000-00-14kt-yellow-gold-earrings-main-image.jpg",
-      "url": "https://www.caratlane.us/define-your-victory-gemstone-earrings.html",
+      "name": "Dangling Star Diamond Drop Earrings",
+      "price": 495,
+      "image": "https://cdn.caratlane.us/media/catalog/product/j/e/je13360-1rs300_3_lar.jpg",
+      "url": "https://www.caratlane.us/studded-jewellery-607.html",
       "source": "CaratLane",
       "category": "Diamond Jewelry"
     },
     {
-      "name": "Ritasha Diamond Drop Earrings",
-      "price": 873,
-      "image": "https://cdn.caratlane.us/media/catalog/product/j/e/je07147-1yp900_1_lar.jpg",
-      "url": "https://www.caratlane.us/ritasha-diamond-drop-earrings.html",
+      "name": "Ruffle Radiant Diamond Hoop Earrings",
+      "price": 684,
+      "image": "https://cdn.caratlane.us/media/catalog/product/j/e/jer13960-yb9a-000000000-00-14kt-yellow-gold-earrings-small-image.jpg",
+      "url": "https://www.caratlane.us/studded-jewellery-410.html",
       "source": "CaratLane",
       "category": "Diamond Jewelry"
     },
     {
-      "name": "Dior Fleur Diamond Necklace",
-      "price": 1406,
-      "image": "https://cdn.caratlane.us/media/catalog/product/j/n/jne05722-yb9a-000000000-00-14kt-yellow-gold-necklaces-main-image.jpg",
-      "url": "https://www.caratlane.us/dior-fleur-diamond-necklace.html",
-      "source": "CaratLane",
-      "category": "Diamond Jewelry"
-    },
-    {
-      "name": "Velvet 22KTÂ GoldÂ Chain",
-      "price": 1018,
-      "image": "https://cdn.caratlane.us/media/catalog/product/k/c/kch01879-ye00-000000000-00-22kt-yellow-gold-chains-main-image_1.jpg",
-      "url": "https://www.caratlane.us/velvet-22kt-gold-chain.html",
+      "name": "Pink Luxe Gemstone Stud Earrings",
+      "price": 243,
+      "image": "https://cdn.caratlane.us/media/catalog/product/j/e/jer13486-ya9a-sp0000000-00-10kt-rose-gold-earrings-small-image.jpg",
+      "url": "https://www.caratlane.us/studded-jewellery-579.html",
       "source": "CaratLane",
       "category": "Diamond Jewelry"
     },
@@ -441,14 +433,6 @@
       "category": "Diamond Jewelry"
     },
     {
-      "name": "Jisha Diamond Pendant Set",
-      "price": 1092,
-      "image": "https://cdn.caratlane.us/media/catalog/product/j/x/jx00003-1rp900_1_lar.jpg",
-      "url": "https://www.caratlane.us/jisha-diamond-pendant-set.html",
-      "source": "CaratLane",
-      "category": "Diamond Jewelry"
-    },
-    {
       "name": "Aliyna Diamond Earrings",
       "price": 1671,
       "image": "https://cdn.caratlane.us/media/catalog/product/j/b/jbr01005-yc3a-000000000-00-18kt-yellow-gold-bracelets-main-image.jpg",
@@ -457,34 +441,50 @@
       "category": "Diamond Jewelry"
     },
     {
-      "name": "Om Baby Nazaria Gold Bracelet Set of 2",
-      "price": 470,
-      "image": "https://cdn.caratlane.us/media/catalog/product/u/b/ubr00816-yc00-000000000-00-18kt-yellow-gold-bracelets-main-image_2.jpg",
-      "url": "https://www.caratlane.us/om-baby-nazaria-gold-bracelet-set-of-2.html",
-      "source": "CaratLane",
-      "category": "Diamond Jewelry"
-    },
-    {
-      "name": "Pink Luxe Gemstone Stud Earrings",
-      "price": 243,
-      "image": "https://cdn.caratlane.us/media/catalog/product/j/e/jer13486-ya9a-sp0000000-00-10kt-rose-gold-earrings-small-image.jpg",
-      "url": "https://www.caratlane.us/studded-jewellery-579.html",
-      "source": "CaratLane",
-      "category": "Diamond Jewelry"
-    },
-    {
-      "name": "Quintet Diamond Stud Earrings",
-      "price": 80,
-      "image": "https://cdn.caratlane.us/media/catalog/product/j/e/jer14010-ra9a-000000000-00-10kt-rose-gold-earrings-small-image.jpg",
-      "url": "https://www.caratlane.us/quintet-10kt-diamond-stud-earrings.html",
-      "source": "CaratLane",
-      "category": "Diamond Jewelry"
-    },
-    {
       "name": "Livena Diamond Hoop Earrings",
       "price": 711,
       "image": "https://cdn.caratlane.us/media/catalog/product/j/e/jer07877-rb1a-000000000-00-14kt-rose-gold-earrings-main-image.jpg",
       "url": "https://www.caratlane.us/livena-diamond-hoop-earrings.html",
+      "source": "CaratLane",
+      "category": "Diamond Jewelry"
+    },
+    {
+      "name": "Dior Fleur Diamond Necklace",
+      "price": 1406,
+      "image": "https://cdn.caratlane.us/media/catalog/product/j/n/jne05722-yb9a-000000000-00-14kt-yellow-gold-necklaces-main-image.jpg",
+      "url": "https://www.caratlane.us/dior-fleur-diamond-necklace.html",
+      "source": "CaratLane",
+      "category": "Diamond Jewelry"
+    },
+    {
+      "name": "Zia Gemstone Mangalsutra",
+      "price": 1268,
+      "image": "https://cdn.caratlane.us/media/catalog/product/j/m/jma02526-yb9a-se0000000-00-14kt-yellow-gold-mangalsutra-main-image.jpg",
+      "url": "https://www.caratlane.us/zia-gemstone-mangalsutra.html",
+      "source": "CaratLane",
+      "category": "Diamond Jewelry"
+    },
+    {
+      "name": "Ribbon Twist Diamond Bracelet",
+      "price": 786,
+      "image": "https://cdn.caratlane.us/media/catalog/product/j/b/jbr02293-rb1a-000000000-00-14kt-rose-gold-bracelets-main-image.jpg",
+      "url": "https://www.caratlane.us/ribbon-twist-diamond-bracelet.html",
+      "source": "CaratLane",
+      "category": "Diamond Jewelry"
+    },
+    {
+      "name": "Luxe Orbit Diamond Hoop Earrings",
+      "price": 698,
+      "image": "https://cdn.caratlane.us/media/catalog/product/j/e/jer13957-yb9a-000000000-00-14kt-yellow-gold-earrings-small-image.jpg",
+      "url": "https://www.caratlane.us/luxe-orbit-diamond-hoop-earrings.html",
+      "source": "CaratLane",
+      "category": "Diamond Jewelry"
+    },
+    {
+      "name": "Eternal Sunshine Diamond Ring",
+      "price": 427,
+      "image": "https://cdn.caratlane.us/media/catalog/product/j/r/jri00526-yc3a-000000000-00-18kt-yellow-gold-rings-main-image.jpg",
+      "url": "https://www.caratlane.us/eternal-sunshine-diamond-ring.html",
       "source": "CaratLane",
       "category": "Diamond Jewelry"
     },
@@ -529,90 +529,90 @@
       "category": "Diamond Jewelry"
     },
     {
-      "name": "Stareva Diamond Ring",
-      "price": 72132,
+      "name": "Talulot Diamond Ring",
+      "price": 55646,
       "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=",
-      "url": "https://www.candere.com/stareva-diamond-ring.html",
+      "url": "https://www.candere.com/talulot-diamond-ring.html",
       "source": "Kalyan Jewellers",
       "category": "Diamond Jewelry"
     },
     {
-      "name": "Kynora Diamond Ring",
-      "price": 45441,
+      "name": "Laccaria Diamond Necklace",
+      "price": 50692,
       "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=",
-      "url": "https://www.candere.com/kynora-diamond-ring.html",
+      "url": "https://www.candere.com/laccaria-diamond-necklace.html",
       "source": "Kalyan Jewellers",
       "category": "Diamond Jewelry"
     },
     {
-      "name": "Borboleta Diamond Ring",
-      "price": 59177,
+      "name": "Laccaria Diamond Earrings",
+      "price": 38694,
       "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=",
-      "url": "https://www.candere.com/borboleta-diamond-ring.html",
+      "url": "https://www.candere.com/laccaria-diamond-earrings.html",
       "source": "Kalyan Jewellers",
       "category": "Diamond Jewelry"
     },
     {
-      "name": "Kynora Diamond Necklace",
-      "price": 77773,
+      "name": "Morchella Diamond Pendant With Chain",
+      "price": 48004,
       "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=",
-      "url": "https://www.candere.com/kynora-diamond-necklace.html",
+      "url": "https://www.candere.com/morchella-diamond-pendant-with-chain.html",
       "source": "Kalyan Jewellers",
       "category": "Diamond Jewelry"
     },
     {
-      "name": "Borboleta Diamond Pendant With Chain",
-      "price": 80822,
+      "name": "Zaelia Diamond Earrings",
+      "price": 55263,
       "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=",
-      "url": "https://www.candere.com/borboleta-diamond-pendant-with-chain.html",
+      "url": "https://www.candere.com/zaelia-diamond-earrings.html",
       "source": "Kalyan Jewellers",
       "category": "Diamond Jewelry"
     },
     {
-      "name": "Zivelle Diamond Pendant With Chain",
-      "price": 54812,
+      "name": "Xera Diamond Bracelet",
+      "price": 97549,
       "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=",
-      "url": "https://www.candere.com/zivelle-diamond-pendant-with-chain.html",
+      "url": "https://www.candere.com/xera-diamond-bracelet.html",
       "source": "Kalyan Jewellers",
       "category": "Diamond Jewelry"
     },
     {
-      "name": "Borboleta Diamond Bracelet",
-      "price": 110631,
+      "name": "Luxe Duchess Diamond Bracelet",
+      "price": 87293,
       "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=",
-      "url": "https://www.candere.com/borboleta-diamond-bracelet.html",
+      "url": "https://www.candere.com/luxe-duchess-diamond-bracelet.html",
       "source": "Kalyan Jewellers",
       "category": "Diamond Jewelry"
     },
     {
-      "name": "Kynora Diamond Earrings",
-      "price": 72909,
+      "name": "Rhythma Diamond Earrings",
+      "price": 42958,
       "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=",
-      "url": "https://www.candere.com/kynora-diamond-earrings.html",
+      "url": "https://www.candere.com/rhythma-diamond-earrings.html",
       "source": "Kalyan Jewellers",
       "category": "Diamond Jewelry"
     },
     {
-      "name": "Borboleta Diamond Earrings",
-      "price": 53764,
+      "name": "Heartelle Diamond Earrings",
+      "price": 43855,
       "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=",
-      "url": "https://www.candere.com/borboleta-diamond-earrings.html",
+      "url": "https://www.candere.com/heartelle-diamond-earrings.html",
       "source": "Kalyan Jewellers",
       "category": "Diamond Jewelry"
     },
     {
-      "name": "Zivelle Diamond Earrings",
-      "price": 45714,
+      "name": "Royal Sapphire Diamond Earrings",
+      "price": 44970,
       "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=",
-      "url": "https://www.candere.com/zivelle-diamond-earrings.html",
+      "url": "https://www.candere.com/royal-sapphire-diamond-earrings.html",
       "source": "Kalyan Jewellers",
       "category": "Diamond Jewelry"
     },
     {
-      "name": "Spinbloom Gold Earrings",
-      "price": null,
+      "name": "Rhythma Diamond Pendant",
+      "price": 37779,
       "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=",
-      "url": "https://www.candere.com/spinbloom-gold-earrings.html",
+      "url": "https://www.candere.com/rhythma-diamond-pendant.html",
       "source": "Kalyan Jewellers",
       "category": "Diamond Jewelry"
     },
@@ -633,18 +633,26 @@
       "category": "Diamond Jewelry"
     },
     {
-      "name": ".wishlist-hero-custom-button.wishlisthero-quick-view.wlh-right-btn > div > button {\n        padding: 8px !important;\n        border-radius:50%;\n        height: 33px !important;\n        width: 33px;\n    }\n    .wishlist-hero-custom-button.wishlisthero-floating button {\n        width: 35px !important;\n        height: 35px !important;\n        font-size:16px !important\n    }\n    @media (max-width: 480px) {\n        .wishlist-hero-custom-button.wishlisthero-quick-view.wlh-right-btn > div > button {\n            height: 32px !important;\n            width: 32px !important;\n        }\n        .wishlist-hero-custom-button.wishlisthero-floating button {\n            width: 30px !important;\n            height: 30px !important;\n            font-size:16px !important\n        }\n    }\n\n\n                \n              \n              \n            \n                  \n                  \n                  \n\n                    \n\n\n\n\n\n\n\n \n\n    .wishlist-hero-custom-button.wishlisthero-quick-view.wlh-right-btn > div > button {\n        padding: 8px !important;\n        border-radius:50%;\n        height: 33px !important;\n        width: 33px;\n    }\n    .wishlist-hero-custom-button.wishlisthero-floating button {\n        width: 35px !important;\n        height: 35px !important;\n        font-size:16px !important\n    }\n    @media (max-width: 480px) {\n        .wishlist-hero-custom-button.wishlisthero-quick-view.wlh-right-btn > div > button {\n            height: 32px !important;\n            width: 32px !important;\n        }\n        .wishlist-hero-custom-button.wishlisthero-floating button {\n            width: 30px !important;\n            height: 30px !important;\n            font-size:16px !important\n        }\n    }\n\n\n                    \n                    \n                  \n                  \n                \n              \n  \n\n  \n  \n\n  .discount-font {\n  font-size:12px;letter-spacing: 0px;\n  }\n   @media (max-width: 749px) {\n    .discount-font {\n  font-size:10px;letter-spacing: 0px;\n  }\n  \n   }\n   .offer-icon-svg {\n  color: #5c2d91; \n}\n\n   .making-offer-box {\n  background: #e9e1ea; /* light purple */\n  border-radius: 14px;\n  padding: 16px 18px;\n  margin: 20px 0;\n  max-width:340px;\n}\n\n.making-offer-inner {\n  display: flex;\n  align-items: center;\n  gap: 12px;\n}\n\n.making-offer-icon {\n  width: 32px;\n  height: 32px;\n  border-radius: 50%;\n  background: linear-gradient(180deg, #FBE284 0%, #C19750 52.4%, #955D27 75%, #DBA926 100%);\n  display: flex;\n  align-items: center;\n  justify-content: center;\n}\n\n.making-offer-icon svg {\n  background: #e9e1ea; /* same as parent bg */\n  border-radius: 50%;\n  padding: 6px;\n  width:28px;\n  height:28px\n\n}\n\n.making-offer-divider {\n  width: 1px;\n  height: 40px;\n  background: #bfaec2;\n}\n\n.making-offer-content {\n  display: flex;\n  flex-direction: column;\n}\n\n.making-offer-title {\n background: linear-gradient(180deg, #4D2753 0%, #1C0E2B 142.55%);\n  -webkit-background-clip: text;\n  -webkit-text-fill-color: transparent;\n  margin: 0;\n\n  font-family: Helvetica;\n  font-weight: 400;\n  font-size: 14.49px;\n  line-height: 100%;\n  letter-spacing: 0%;\n\n}\n\n.making-offer-save {\n  background: linear-gradient(180deg, #4D2753 0%, #1C0E2B 142.55%);\n  -webkit-background-clip: text;\n  -webkit-text-fill-color: transparent;\n  margin: 8px 0 0;\n\n  font-family: Helvetica;\n  font-weight: 800;\n  font-size: 14.49px;\n  line-height: 100%;\n  letter-spacing: 0%;\n}",
-      "price": 21765002176500.22,
+      "name": ".wishlist-hero-custom-button.wishlisthero-quick-view.wlh-right-btn > div > button {\n        padding: 8px !important;\n        border-radius:50%;\n        height: 33px !important;\n        width: 33px;\n    }\n    .wishlist-hero-custom-button.wishlisthero-floating button {\n        width: 35px !important;\n        height: 35px !important;\n        font-size:16px !important\n    }\n    @media (max-width: 480px) {\n        .wishlist-hero-custom-button.wishlisthero-quick-view.wlh-right-btn > div > button {\n            height: 32px !important;\n            width: 32px !important;\n        }\n        .wishlist-hero-custom-button.wishlisthero-floating button {\n            width: 30px !important;\n            height: 30px !important;\n            font-size:16px !important\n        }\n    }\n\n\n                \n              \n              \n            \n                  \n                  \n                  \n\n                    \n\n\n\n\n\n\n\n \n\n    .wishlist-hero-custom-button.wishlisthero-quick-view.wlh-right-btn > div > button {\n        padding: 8px !important;\n        border-radius:50%;\n        height: 33px !important;\n        width: 33px;\n    }\n    .wishlist-hero-custom-button.wishlisthero-floating button {\n        width: 35px !important;\n        height: 35px !important;\n        font-size:16px !important\n    }\n    @media (max-width: 480px) {\n        .wishlist-hero-custom-button.wishlisthero-quick-view.wlh-right-btn > div > button {\n            height: 32px !important;\n            width: 32px !important;\n        }\n        .wishlist-hero-custom-button.wishlisthero-floating button {\n            width: 30px !important;\n            height: 30px !important;\n            font-size:16px !important\n        }\n    }\n\n\n                    \n                    \n                  \n                  \n                \n              \n  \n\n  \n  \n\n          \n          \n              \n            \n        \n        \n          \n            Flat 10% off on making charge \n          \n        \n      \n  .discount-font {\n  font-size:12px;letter-spacing: 0px;\n  }\n   @media (max-width: 749px) {\n    .discount-font {\n  font-size:10px;letter-spacing: 0px;\n  }\n  \n   }\n   .offer-icon-svg {\n  color: #5c2d91; \n}\n\n   .making-offer-box {\n  background: #e9e1ea; /* light purple */\n  border-radius: 14px;\n  padding: 16px 18px;\n  margin: 20px 0;\n  max-width:340px;\n}\n\n.making-offer-inner {\n  display: flex;\n  align-items: center;\n  gap: 12px;\n}\n\n.making-offer-icon {\n  width: 32px;\n  height: 32px;\n  border-radius: 50%;\n  background: linear-gradient(180deg, #FBE284 0%, #C19750 52.4%, #955D27 75%, #DBA926 100%);\n  display: flex;\n  align-items: center;\n  justify-content: center;\n}\n\n.making-offer-icon svg {\n  background: #e9e1ea; /* same as parent bg */\n  border-radius: 50%;\n  padding: 6px;\n  width:28px;\n  height:28px\n\n}\n\n.making-offer-divider {\n  width: 1px;\n  height: 40px;\n  background: #bfaec2;\n}\n\n.making-offer-content {\n  display: flex;\n  flex-direction: column;\n}\n\n.making-offer-title {\n background: linear-gradient(180deg, #4D2753 0%, #1C0E2B 142.55%);\n  -webkit-background-clip: text;\n  -webkit-text-fill-color: transparent;\n  margin: 0;\n\n  font-family: Helvetica;\n  font-weight: 400;\n  font-size: 14.49px;\n  line-height: 100%;\n  letter-spacing: 0%;\n\n}\n\n.making-offer-save {\n  background: linear-gradient(180deg, #4D2753 0%, #1C0E2B 142.55%);\n  -webkit-background-clip: text;\n  -webkit-text-fill-color: transparent;\n  margin: 8px 0 0;\n\n  font-family: Helvetica;\n  font-weight: 800;\n  font-size: 14.49px;\n  line-height: 100%;\n  letter-spacing: 0%;\n}\n\n            \n      \n    \n        Sale",
+      "price": 21276002176500.21,
       "image": "https://www.pngjewellers.com/cdn/shop/files/DLR72329_C_1ee4b211-f7d7-47ae-89f6-67d2ceae3dfe.jpg?v=1772822252&width=1500",
       "url": "https://www.pngjewellers.com/products/vera-studded-fashion-diamond-ring?variant=48645389877467",
       "source": "PNG Jewellers",
       "category": "Diamond Jewelry"
     },
     {
-      "name": ".wishlist-hero-custom-button.wishlisthero-quick-view.wlh-right-btn > div > button {\n        padding: 8px !important;\n        border-radius:50%;\n        height: 33px !important;\n        width: 33px;\n    }\n    .wishlist-hero-custom-button.wishlisthero-floating button {\n        width: 35px !important;\n        height: 35px !important;\n        font-size:16px !important\n    }\n    @media (max-width: 480px) {\n        .wishlist-hero-custom-button.wishlisthero-quick-view.wlh-right-btn > div > button {\n            height: 32px !important;\n            width: 32px !important;\n        }\n        .wishlist-hero-custom-button.wishlisthero-floating button {\n            width: 30px !important;\n            height: 30px !important;\n            font-size:16px !important\n        }\n    }\n\n\n                \n              \n              \n            \n                  \n                  \n                  \n\n                    \n\n\n\n\n\n\n\n \n\n    .wishlist-hero-custom-button.wishlisthero-quick-view.wlh-right-btn > div > button {\n        padding: 8px !important;\n        border-radius:50%;\n        height: 33px !important;\n        width: 33px;\n    }\n    .wishlist-hero-custom-button.wishlisthero-floating button {\n        width: 35px !important;\n        height: 35px !important;\n        font-size:16px !important\n    }\n    @media (max-width: 480px) {\n        .wishlist-hero-custom-button.wishlisthero-quick-view.wlh-right-btn > div > button {\n            height: 32px !important;\n            width: 32px !important;\n        }\n        .wishlist-hero-custom-button.wishlisthero-floating button {\n            width: 30px !important;\n            height: 30px !important;\n            font-size:16px !important\n        }\n    }\n\n\n                    \n                    \n                  \n                  \n                \n              \n  \n\n  \n  \n\n  .discount-font {\n  font-size:12px;letter-spacing: 0px;\n  }\n   @media (max-width: 749px) {\n    .discount-font {\n  font-size:10px;letter-spacing: 0px;\n  }\n  \n   }\n   .offer-icon-svg {\n  color: #5c2d91; \n}\n\n   .making-offer-box {\n  background: #e9e1ea; /* light purple */\n  border-radius: 14px;\n  padding: 16px 18px;\n  margin: 20px 0;\n  max-width:340px;\n}\n\n.making-offer-inner {\n  display: flex;\n  align-items: center;\n  gap: 12px;\n}\n\n.making-offer-icon {\n  width: 32px;\n  height: 32px;\n  border-radius: 50%;\n  background: linear-gradient(180deg, #FBE284 0%, #C19750 52.4%, #955D27 75%, #DBA926 100%);\n  display: flex;\n  align-items: center;\n  justify-content: center;\n}\n\n.making-offer-icon svg {\n  background: #e9e1ea; /* same as parent bg */\n  border-radius: 50%;\n  padding: 6px;\n  width:28px;\n  height:28px\n\n}\n\n.making-offer-divider {\n  width: 1px;\n  height: 40px;\n  background: #bfaec2;\n}\n\n.making-offer-content {\n  display: flex;\n  flex-direction: column;\n}\n\n.making-offer-title {\n background: linear-gradient(180deg, #4D2753 0%, #1C0E2B 142.55%);\n  -webkit-background-clip: text;\n  -webkit-text-fill-color: transparent;\n  margin: 0;\n\n  font-family: Helvetica;\n  font-weight: 400;\n  font-size: 14.49px;\n  line-height: 100%;\n  letter-spacing: 0%;\n\n}\n\n.making-offer-save {\n  background: linear-gradient(180deg, #4D2753 0%, #1C0E2B 142.55%);\n  -webkit-background-clip: text;\n  -webkit-text-fill-color: transparent;\n  margin: 8px 0 0;\n\n  font-family: Helvetica;\n  font-weight: 800;\n  font-size: 14.49px;\n  line-height: 100%;\n  letter-spacing: 0%;\n}\n\n            \n      \n    \n        Sale",
-      "price": 8277001008000.828,
-      "image": "https://www.pngjewellers.com/cdn/shop/files/DNP23993_C_a8d16b64-c099-4988-bde7-fa618a0786d9.jpg?v=1772823465&width=1500",
-      "url": "https://www.pngjewellers.com/products/frosty-petunia-nosepin-diamond-jewellery?variant=48635960787163",
+      "name": ".wishlist-hero-custom-button.wishlisthero-quick-view.wlh-right-btn > div > button {\n        padding: 8px !important;\n        border-radius:50%;\n        height: 33px !important;\n        width: 33px;\n    }\n    .wishlist-hero-custom-button.wishlisthero-floating button {\n        width: 35px !important;\n        height: 35px !important;\n        font-size:16px !important\n    }\n    @media (max-width: 480px) {\n        .wishlist-hero-custom-button.wishlisthero-quick-view.wlh-right-btn > div > button {\n            height: 32px !important;\n            width: 32px !important;\n        }\n        .wishlist-hero-custom-button.wishlisthero-floating button {\n            width: 30px !important;\n            height: 30px !important;\n            font-size:16px !important\n        }\n    }\n\n\n                \n              \n              \n            \n                  \n                  \n                  \n\n                    \n\n\n\n\n\n\n\n \n\n    .wishlist-hero-custom-button.wishlisthero-quick-view.wlh-right-btn > div > button {\n        padding: 8px !important;\n        border-radius:50%;\n        height: 33px !important;\n        width: 33px;\n    }\n    .wishlist-hero-custom-button.wishlisthero-floating button {\n        width: 35px !important;\n        height: 35px !important;\n        font-size:16px !important\n    }\n    @media (max-width: 480px) {\n        .wishlist-hero-custom-button.wishlisthero-quick-view.wlh-right-btn > div > button {\n            height: 32px !important;\n            width: 32px !important;\n        }\n        .wishlist-hero-custom-button.wishlisthero-floating button {\n            width: 30px !important;\n            height: 30px !important;\n            font-size:16px !important\n        }\n    }\n\n\n                    \n                    \n                  \n                  \n                \n              \n  \n\n  \n  \n\n  .discount-font {\n  font-size:12px;letter-spacing: 0px;\n  }\n   @media (max-width: 749px) {\n    .discount-font {\n  font-size:10px;letter-spacing: 0px;\n  }\n  \n   }\n   .offer-icon-svg {\n  color: #5c2d91; \n}\n\n   .making-offer-box {\n  background: #e9e1ea; /* light purple */\n  border-radius: 14px;\n  padding: 16px 18px;\n  margin: 20px 0;\n  max-width:340px;\n}\n\n.making-offer-inner {\n  display: flex;\n  align-items: center;\n  gap: 12px;\n}\n\n.making-offer-icon {\n  width: 32px;\n  height: 32px;\n  border-radius: 50%;\n  background: linear-gradient(180deg, #FBE284 0%, #C19750 52.4%, #955D27 75%, #DBA926 100%);\n  display: flex;\n  align-items: center;\n  justify-content: center;\n}\n\n.making-offer-icon svg {\n  background: #e9e1ea; /* same as parent bg */\n  border-radius: 50%;\n  padding: 6px;\n  width:28px;\n  height:28px\n\n}\n\n.making-offer-divider {\n  width: 1px;\n  height: 40px;\n  background: #bfaec2;\n}\n\n.making-offer-content {\n  display: flex;\n  flex-direction: column;\n}\n\n.making-offer-title {\n background: linear-gradient(180deg, #4D2753 0%, #1C0E2B 142.55%);\n  -webkit-background-clip: text;\n  -webkit-text-fill-color: transparent;\n  margin: 0;\n\n  font-family: Helvetica;\n  font-weight: 400;\n  font-size: 14.49px;\n  line-height: 100%;\n  letter-spacing: 0%;\n\n}\n\n.making-offer-save {\n  background: linear-gradient(180deg, #4D2753 0%, #1C0E2B 142.55%);\n  -webkit-background-clip: text;\n  -webkit-text-fill-color: transparent;\n  margin: 8px 0 0;\n\n  font-family: Helvetica;\n  font-weight: 800;\n  font-size: 14.49px;\n  line-height: 100%;\n  letter-spacing: 0%;\n}",
+      "price": 73673007367300.73,
+      "image": "https://www.pngjewellers.com/cdn/shop/files/KLR7663A_C_f51806ae-6030-4803-915c-7dd6a6ed5be9.jpg?v=1775469525&width=1500",
+      "url": "https://www.pngjewellers.com/products/arinya-pulse-rose-gold-diamond-ring?variant=48548581408987",
+      "source": "PNG Jewellers",
+      "category": "Diamond Jewelry"
+    },
+    {
+      "name": ".wishlist-hero-custom-button.wishlisthero-quick-view.wlh-right-btn > div > button {\n        padding: 8px !important;\n        border-radius:50%;\n        height: 33px !important;\n        width: 33px;\n    }\n    .wishlist-hero-custom-button.wishlisthero-floating button {\n        width: 35px !important;\n        height: 35px !important;\n        font-size:16px !important\n    }\n    @media (max-width: 480px) {\n        .wishlist-hero-custom-button.wishlisthero-quick-view.wlh-right-btn > div > button {\n            height: 32px !important;\n            width: 32px !important;\n        }\n        .wishlist-hero-custom-button.wishlisthero-floating button {\n            width: 30px !important;\n            height: 30px !important;\n            font-size:16px !important\n        }\n    }\n\n\n                \n              \n              \n            \n                  \n                  \n                  \n\n                    \n\n\n\n\n\n\n\n \n\n    .wishlist-hero-custom-button.wishlisthero-quick-view.wlh-right-btn > div > button {\n        padding: 8px !important;\n        border-radius:50%;\n        height: 33px !important;\n        width: 33px;\n    }\n    .wishlist-hero-custom-button.wishlisthero-floating button {\n        width: 35px !important;\n        height: 35px !important;\n        font-size:16px !important\n    }\n    @media (max-width: 480px) {\n        .wishlist-hero-custom-button.wishlisthero-quick-view.wlh-right-btn > div > button {\n            height: 32px !important;\n            width: 32px !important;\n        }\n        .wishlist-hero-custom-button.wishlisthero-floating button {\n            width: 30px !important;\n            height: 30px !important;\n            font-size:16px !important\n        }\n    }\n\n\n                    \n                    \n                  \n                  \n                \n              \n  \n\n  \n  \n\n          \n          \n              \n            \n        \n        \n          \n            Flat 10% off on making charge \n          \n        \n      \n  .discount-font {\n  font-size:12px;letter-spacing: 0px;\n  }\n   @media (max-width: 749px) {\n    .discount-font {\n  font-size:10px;letter-spacing: 0px;\n  }\n  \n   }\n   .offer-icon-svg {\n  color: #5c2d91; \n}\n\n   .making-offer-box {\n  background: #e9e1ea; /* light purple */\n  border-radius: 14px;\n  padding: 16px 18px;\n  margin: 20px 0;\n  max-width:340px;\n}\n\n.making-offer-inner {\n  display: flex;\n  align-items: center;\n  gap: 12px;\n}\n\n.making-offer-icon {\n  width: 32px;\n  height: 32px;\n  border-radius: 50%;\n  background: linear-gradient(180deg, #FBE284 0%, #C19750 52.4%, #955D27 75%, #DBA926 100%);\n  display: flex;\n  align-items: center;\n  justify-content: center;\n}\n\n.making-offer-icon svg {\n  background: #e9e1ea; /* same as parent bg */\n  border-radius: 50%;\n  padding: 6px;\n  width:28px;\n  height:28px\n\n}\n\n.making-offer-divider {\n  width: 1px;\n  height: 40px;\n  background: #bfaec2;\n}\n\n.making-offer-content {\n  display: flex;\n  flex-direction: column;\n}\n\n.making-offer-title {\n background: linear-gradient(180deg, #4D2753 0%, #1C0E2B 142.55%);\n  -webkit-background-clip: text;\n  -webkit-text-fill-color: transparent;\n  margin: 0;\n\n  font-family: Helvetica;\n  font-weight: 400;\n  font-size: 14.49px;\n  line-height: 100%;\n  letter-spacing: 0%;\n\n}\n\n.making-offer-save {\n  background: linear-gradient(180deg, #4D2753 0%, #1C0E2B 142.55%);\n  -webkit-background-clip: text;\n  -webkit-text-fill-color: transparent;\n  margin: 8px 0 0;\n\n  font-family: Helvetica;\n  font-weight: 800;\n  font-size: 14.49px;\n  line-height: 100%;\n  letter-spacing: 0%;\n}",
+      "price": 22273002278800.223,
+      "image": "https://www.pngjewellers.com/cdn/shop/files/DPD15290_C_923972ce-072d-4df2-92c4-b8cdb57b0037.jpg?v=1772822514&width=1500",
+      "url": "https://www.pngjewellers.com/products/spiral-tornado-modern-pendant-diamond-jewellery?variant=48635820540123",
       "source": "PNG Jewellers",
       "category": "Diamond Jewelry"
     },
@@ -753,6 +761,6 @@
       "category": "Diamond Jewelry"
     }
   ],
-  "lastFetched": "2026-10-31T11:39:08.962Z",
-  "count": 94
+  "lastFetched": "2026-10-31T16:46:46.340Z",
+  "count": 95
 }
