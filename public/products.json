@@ -57,6 +57,14 @@
       "category": "Diamond Jewelry"
     },
     {
+      "name": "Shrusrati MC-SCHN 22KT Gold Chain",
+      "price": 340,
+      "image": "https://cdn.caratlane.us/media/catalog/product/k/c/kch01700-ye00-000000000-00-22kt-yellow-gold-chains-image-1.jpg?quality=90&bg-color=255,255,255&fit=bounds&height=350&width=350&canvas=350:350",
+      "url": "https://www.caratlane.us/shrusrati-mc-schn-22kt-gold-chain.html",
+      "source": "CaratLane",
+      "category": "Diamond Jewelry"
+    },
+    {
       "name": "Two tone Heart Earring",
       "price": 196,
       "image": "https://cdn.caratlane.us/media/catalog/product/u/e/ue06467-1y0000_1_lar.jpg?quality=90&bg-color=255,255,255&fit=bounds&height=350&width=350&canvas=350:350",
@@ -131,7 +139,7 @@
     {
       "name": "Latticed Pearl Hoop Earrings",
       "price": 212,
-      "image": "https://cdn.caratlane.us/media/catalog/product/u/e/ue06243-1y00p0_11_listfront_1.jpg?quality=90&bg-color=255,255,255&fit=bounds&height=350&width=350&canvas=350:350",
+      "image": "https://cdn.caratlane.us/media/catalog/product/u/e/uer06243-yb00-p00000000-00-14kt-yellow-gold-earrings-main-image.jpg?quality=90&bg-color=255,255,255&fit=bounds&height=350&width=350&canvas=350:350",
       "url": "https://www.caratlane.us/latticed-pearl-hoop-earrings.html",
       "source": "CaratLane",
       "category": "Diamond Jewelry"
@@ -177,6 +185,14 @@
       "category": "Diamond Jewelry"
     },
     {
+      "name": "Lil Clover Kids' Gold Earrings",
+      "price": 109,
+      "image": "https://cdn.caratlane.us/media/catalog/product/u/e/uer05028-yb00-000000000-00-14kt-yellow-gold-earrings-main-image_1.jpg?quality=90&bg-color=255,255,255&fit=bounds&height=350&width=350&canvas=350:350",
+      "url": "https://www.caratlane.us/lil-clover-kids-gold-earrings.html",
+      "source": "CaratLane",
+      "category": "Diamond Jewelry"
+    },
+    {
       "name": "Alphabet M Kids Nazaria Gold Bracelet",
       "price": 158,
       "image": "https://cdn.caratlane.us/media/catalog/product/u/b/ubr01360-yb00-000000000-00-14kt-yellow-gold-bracelets-main-image.jpg?quality=90&bg-color=255,255,255&fit=bounds&height=350&width=350&canvas=350:350",
@@ -187,7 +203,7 @@
     {
       "name": "Beyond Infinity Personalised Gemstone Bracelet",
       "price": 281,
-      "image": "https://cdn.caratlane.us/media/catalog/product/u/b/ubr00867-yb00-p00000000-00-14kt-yellow-gold-bracelets-small-image_1.jpg?quality=90&bg-color=255,255,255&fit=bounds&height=350&width=350&canvas=350:350",
+      "image": "https://cdn.caratlane.us/media/catalog/product/u/b/ubr00867-yb00-p00000000-00-14kt-yellow-gold-bracelets-main-image.jpg?quality=90&bg-color=255,255,255&fit=bounds&height=350&width=350&canvas=350:350",
       "url": "https://www.caratlane.us/beyond-infinity-personalised-gemstone-bracelet.html",
       "source": "CaratLane",
       "category": "Diamond Jewelry"
@@ -227,7 +243,7 @@
     {
       "name": "Aria Gemstone Hoop Earrings",
       "price": 373,
-      "image": "https://cdn.caratlane.us/media/catalog/product/j/e/je05760-1yp9r0_11_listfront.jpg?quality=90&bg-color=255,255,255&fit=bounds&height=350&width=350&canvas=350:350",
+      "image": "https://cdn.caratlane.us/media/catalog/product/j/e/jer05760-yb1a-ru0000000-00-14kt-yellow-gold-earrings-main-image.jpg?quality=90&bg-color=255,255,255&fit=bounds&height=350&width=350&canvas=350:350",
       "url": "https://www.caratlane.us/aria-gemstone-hoop-earrings.html",
       "source": "CaratLane",
       "category": "Diamond Jewelry"
@@ -585,18 +601,18 @@
       "category": "Diamond Jewelry"
     },
     {
-      "name": "Rhythma Diamond Pendant",
-      "price": 37905,
-      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=",
-      "url": "https://www.candere.com/rhythma-diamond-pendant.html",
-      "source": "Kalyan Jewellers",
-      "category": "Diamond Jewelry"
-    },
-    {
       "name": "Royal Sapphire Diamond Pendant",
       "price": 46750,
       "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=",
       "url": "https://www.candere.com/royal-sapphire-diamond-pendant.html",
+      "source": "Kalyan Jewellers",
+      "category": "Diamond Jewelry"
+    },
+    {
+      "name": "Nyelle Glow Diamond Pendant",
+      "price": 40067,
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=",
+      "url": "https://www.candere.com/nyelle-glow-diamond-pendant.html",
       "source": "Kalyan Jewellers",
       "category": "Diamond Jewelry"
     },
@@ -625,10 +641,10 @@
       "category": "Diamond Jewelry"
     },
     {
-      "name": ".wishlist-hero-custom-button.wishlisthero-quick-view.wlh-right-btn > div > button {\n        padding: 8px !important;\n        border-radius:50%;\n        height: 33px !important;\n        width: 33px;\n    }\n    .wishlist-hero-custom-button.wishlisthero-floating button {\n        width: 35px !important;\n        height: 35px !important;\n        font-size:16px !important\n    }\n    @media (max-width: 480px) {\n        .wishlist-hero-custom-button.wishlisthero-quick-view.wlh-right-btn > div > button {\n            height: 32px !important;\n            width: 32px !important;\n        }\n        .wishlist-hero-custom-button.wishlisthero-floating button {\n            width: 30px !important;\n            height: 30px !important;\n            font-size:16px !important\n        }\n    }\n\n\n                \n              \n              \n            \n                  \n                  \n                  \n\n                    \n\n\n\n\n\n\n\n \n\n    .wishlist-hero-custom-button.wishlisthero-quick-view.wlh-right-btn > div > button {\n        padding: 8px !important;\n        border-radius:50%;\n        height: 33px !important;\n        width: 33px;\n    }\n    .wishlist-hero-custom-button.wishlisthero-floating button {\n        width: 35px !important;\n        height: 35px !important;\n        font-size:16px !important\n    }\n    @media (max-width: 480px) {\n        .wishlist-hero-custom-button.wishlisthero-quick-view.wlh-right-btn > div > button {\n            height: 32px !important;\n            width: 32px !important;\n        }\n        .wishlist-hero-custom-button.wishlisthero-floating button {\n            width: 30px !important;\n            height: 30px !important;\n            font-size:16px !important\n        }\n    }\n\n\n                    \n                    \n                  \n                  \n                \n              \n  \n\n  \n  \n\n          \n          \n              \n            \n        \n        \n          \n            Flat 50% off on making charge \n          \n        \n      \n  .discount-font {\n  font-size:12px;letter-spacing: 0px;\n  }\n   @media (max-width: 749px) {\n    .discount-font {\n  font-size:10px;letter-spacing: 0px;\n  }\n  \n   }\n   .offer-icon-svg {\n  color: #5c2d91; \n}\n\n   .making-offer-box {\n  background: #e9e1ea; /* light purple */\n  border-radius: 14px;\n  padding: 16px 18px;\n  margin: 20px 0;\n  max-width:340px;\n}\n\n.making-offer-inner {\n  display: flex;\n  align-items: center;\n  gap: 12px;\n}\n\n.making-offer-icon {\n  width: 32px;\n  height: 32px;\n  border-radius: 50%;\n  background: linear-gradient(180deg, #FBE284 0%, #C19750 52.4%, #955D27 75%, #DBA926 100%);\n  display: flex;\n  align-items: center;\n  justify-content: center;\n}\n\n.making-offer-icon svg {\n  background: #e9e1ea; /* same as parent bg */\n  border-radius: 50%;\n  padding: 6px;\n  width:28px;\n  height:28px\n\n}\n\n.making-offer-divider {\n  width: 1px;\n  height: 40px;\n  background: #bfaec2;\n}\n\n.making-offer-content {\n  display: flex;\n  flex-direction: column;\n}\n\n.making-offer-title {\n background: linear-gradient(180deg, #4D2753 0%, #1C0E2B 142.55%);\n  -webkit-background-clip: text;\n  -webkit-text-fill-color: transparent;\n  margin: 0;\n\n  font-family: Helvetica;\n  font-weight: 400;\n  font-size: 14.49px;\n  line-height: 100%;\n  letter-spacing: 0%;\n\n}\n\n.making-offer-save {\n  background: linear-gradient(180deg, #4D2753 0%, #1C0E2B 142.55%);\n  -webkit-background-clip: text;\n  -webkit-text-fill-color: transparent;\n  margin: 8px 0 0;\n\n  font-family: Helvetica;\n  font-weight: 800;\n  font-size: 14.49px;\n  line-height: 100%;\n  letter-spacing: 0%;\n}",
-      "price": 22988002685000.23,
-      "image": "https://www.pngjewellers.com/cdn/shop/files/SG07453EC.jpg?v=1772805378&width=1500",
-      "url": "https://www.pngjewellers.com/products/symphony-yellow-gold-diamond-stud-earring?variant=48635927396571",
+      "name": ".wishlist-hero-custom-button.wishlisthero-quick-view.wlh-right-btn > div > button {\n        padding: 8px !important;\n        border-radius:50%;\n        height: 33px !important;\n        width: 33px;\n    }\n    .wishlist-hero-custom-button.wishlisthero-floating button {\n        width: 35px !important;\n        height: 35px !important;\n        font-size:16px !important\n    }\n    @media (max-width: 480px) {\n        .wishlist-hero-custom-button.wishlisthero-quick-view.wlh-right-btn > div > button {\n            height: 32px !important;\n            width: 32px !important;\n        }\n        .wishlist-hero-custom-button.wishlisthero-floating button {\n            width: 30px !important;\n            height: 30px !important;\n            font-size:16px !important\n        }\n    }\n\n\n                \n              \n              \n            \n                  \n                  \n                  \n\n                    \n\n\n\n\n\n\n\n \n\n    .wishlist-hero-custom-button.wishlisthero-quick-view.wlh-right-btn > div > button {\n        padding: 8px !important;\n        border-radius:50%;\n        height: 33px !important;\n        width: 33px;\n    }\n    .wishlist-hero-custom-button.wishlisthero-floating button {\n        width: 35px !important;\n        height: 35px !important;\n        font-size:16px !important\n    }\n    @media (max-width: 480px) {\n        .wishlist-hero-custom-button.wishlisthero-quick-view.wlh-right-btn > div > button {\n            height: 32px !important;\n            width: 32px !important;\n        }\n        .wishlist-hero-custom-button.wishlisthero-floating button {\n            width: 30px !important;\n            height: 30px !important;\n            font-size:16px !important\n        }\n    }\n\n\n                    \n                    \n                  \n                  \n                \n              \n  \n\n  \n  \n\n          \n          \n              \n            \n        \n        \n          \n            Flat 75% off on making charge \n          \n        \n      \n  .discount-font {\n  font-size:12px;letter-spacing: 0px;\n  }\n   @media (max-width: 749px) {\n    .discount-font {\n  font-size:10px;letter-spacing: 0px;\n  }\n  \n   }\n   .offer-icon-svg {\n  color: #5c2d91; \n}\n\n   .making-offer-box {\n  background: #e9e1ea; /* light purple */\n  border-radius: 14px;\n  padding: 16px 18px;\n  margin: 20px 0;\n  max-width:340px;\n}\n\n.making-offer-inner {\n  display: flex;\n  align-items: center;\n  gap: 12px;\n}\n\n.making-offer-icon {\n  width: 32px;\n  height: 32px;\n  border-radius: 50%;\n  background: linear-gradient(180deg, #FBE284 0%, #C19750 52.4%, #955D27 75%, #DBA926 100%);\n  display: flex;\n  align-items: center;\n  justify-content: center;\n}\n\n.making-offer-icon svg {\n  background: #e9e1ea; /* same as parent bg */\n  border-radius: 50%;\n  padding: 6px;\n  width:28px;\n  height:28px\n\n}\n\n.making-offer-divider {\n  width: 1px;\n  height: 40px;\n  background: #bfaec2;\n}\n\n.making-offer-content {\n  display: flex;\n  flex-direction: column;\n}\n\n.making-offer-title {\n background: linear-gradient(180deg, #4D2753 0%, #1C0E2B 142.55%);\n  -webkit-background-clip: text;\n  -webkit-text-fill-color: transparent;\n  margin: 0;\n\n  font-family: Helvetica;\n  font-weight: 400;\n  font-size: 14.49px;\n  line-height: 100%;\n  letter-spacing: 0%;\n\n}\n\n.making-offer-save {\n  background: linear-gradient(180deg, #4D2753 0%, #1C0E2B 142.55%);\n  -webkit-background-clip: text;\n  -webkit-text-fill-color: transparent;\n  margin: 8px 0 0;\n\n  font-family: Helvetica;\n  font-weight: 800;\n  font-size: 14.49px;\n  line-height: 100%;\n  letter-spacing: 0%;\n}",
+      "price": 20087002395000.2,
+      "image": "https://www.pngjewellers.com/cdn/shop/files/SG30185CH_C_20.jpg?v=1772811289&width=1500",
+      "url": "https://www.pngjewellers.com/products/mystic-mushroom-classic-gold-and-dia-pendant-for-woman?variant=48635969929435",
       "source": "PNG Jewellers",
       "category": "Diamond Jewelry"
     },
@@ -649,10 +665,10 @@
       "category": "Diamond Jewelry"
     },
     {
-      "name": ".wishlist-hero-custom-button.wishlisthero-quick-view.wlh-right-btn > div > button {\n        padding: 8px !important;\n        border-radius:50%;\n        height: 33px !important;\n        width: 33px;\n    }\n    .wishlist-hero-custom-button.wishlisthero-floating button {\n        width: 35px !important;\n        height: 35px !important;\n        font-size:16px !important\n    }\n    @media (max-width: 480px) {\n        .wishlist-hero-custom-button.wishlisthero-quick-view.wlh-right-btn > div > button {\n            height: 32px !important;\n            width: 32px !important;\n        }\n        .wishlist-hero-custom-button.wishlisthero-floating button {\n            width: 30px !important;\n            height: 30px !important;\n            font-size:16px !important\n        }\n    }\n\n\n                \n              \n              \n            \n                  \n                  \n                  \n\n                    \n\n\n\n\n\n\n\n \n\n    .wishlist-hero-custom-button.wishlisthero-quick-view.wlh-right-btn > div > button {\n        padding: 8px !important;\n        border-radius:50%;\n        height: 33px !important;\n        width: 33px;\n    }\n    .wishlist-hero-custom-button.wishlisthero-floating button {\n        width: 35px !important;\n        height: 35px !important;\n        font-size:16px !important\n    }\n    @media (max-width: 480px) {\n        .wishlist-hero-custom-button.wishlisthero-quick-view.wlh-right-btn > div > button {\n            height: 32px !important;\n            width: 32px !important;\n        }\n        .wishlist-hero-custom-button.wishlisthero-floating button {\n            width: 30px !important;\n            height: 30px !important;\n            font-size:16px !important\n        }\n    }\n\n\n                    \n                    \n                  \n                  \n                \n              \n  \n\n  \n  \n\n          \n          \n              \n            \n        \n        \n          \n            Flat 75% off on making charge \n          \n        \n      \n  .discount-font {\n  font-size:12px;letter-spacing: 0px;\n  }\n   @media (max-width: 749px) {\n    .discount-font {\n  font-size:10px;letter-spacing: 0px;\n  }\n  \n   }\n   .offer-icon-svg {\n  color: #5c2d91; \n}\n\n   .making-offer-box {\n  background: #e9e1ea; /* light purple */\n  border-radius: 14px;\n  padding: 16px 18px;\n  margin: 20px 0;\n  max-width:340px;\n}\n\n.making-offer-inner {\n  display: flex;\n  align-items: center;\n  gap: 12px;\n}\n\n.making-offer-icon {\n  width: 32px;\n  height: 32px;\n  border-radius: 50%;\n  background: linear-gradient(180deg, #FBE284 0%, #C19750 52.4%, #955D27 75%, #DBA926 100%);\n  display: flex;\n  align-items: center;\n  justify-content: center;\n}\n\n.making-offer-icon svg {\n  background: #e9e1ea; /* same as parent bg */\n  border-radius: 50%;\n  padding: 6px;\n  width:28px;\n  height:28px\n\n}\n\n.making-offer-divider {\n  width: 1px;\n  height: 40px;\n  background: #bfaec2;\n}\n\n.making-offer-content {\n  display: flex;\n  flex-direction: column;\n}\n\n.making-offer-title {\n background: linear-gradient(180deg, #4D2753 0%, #1C0E2B 142.55%);\n  -webkit-background-clip: text;\n  -webkit-text-fill-color: transparent;\n  margin: 0;\n\n  font-family: Helvetica;\n  font-weight: 400;\n  font-size: 14.49px;\n  line-height: 100%;\n  letter-spacing: 0%;\n\n}\n\n.making-offer-save {\n  background: linear-gradient(180deg, #4D2753 0%, #1C0E2B 142.55%);\n  -webkit-background-clip: text;\n  -webkit-text-fill-color: transparent;\n  margin: 8px 0 0;\n\n  font-family: Helvetica;\n  font-weight: 800;\n  font-size: 14.49px;\n  line-height: 100%;\n  letter-spacing: 0%;\n}",
-      "price": 19492002335400.195,
-      "image": "https://www.pngjewellers.com/cdn/shop/files/SG16096CH_C_20.jpg?v=1772811248&width=1500",
-      "url": "https://www.pngjewellers.com/products/evil-eye-shine-classic-gold-and-dia-pendant-for-woman?variant=48635936997595",
+      "name": ".wishlist-hero-custom-button.wishlisthero-quick-view.wlh-right-btn > div > button {\n        padding: 8px !important;\n        border-radius:50%;\n        height: 33px !important;\n        width: 33px;\n    }\n    .wishlist-hero-custom-button.wishlisthero-floating button {\n        width: 35px !important;\n        height: 35px !important;\n        font-size:16px !important\n    }\n    @media (max-width: 480px) {\n        .wishlist-hero-custom-button.wishlisthero-quick-view.wlh-right-btn > div > button {\n            height: 32px !important;\n            width: 32px !important;\n        }\n        .wishlist-hero-custom-button.wishlisthero-floating button {\n            width: 30px !important;\n            height: 30px !important;\n            font-size:16px !important\n        }\n    }\n\n\n                \n              \n              \n            \n                  \n                  \n                  \n\n                    \n\n\n\n\n\n\n\n \n\n    .wishlist-hero-custom-button.wishlisthero-quick-view.wlh-right-btn > div > button {\n        padding: 8px !important;\n        border-radius:50%;\n        height: 33px !important;\n        width: 33px;\n    }\n    .wishlist-hero-custom-button.wishlisthero-floating button {\n        width: 35px !important;\n        height: 35px !important;\n        font-size:16px !important\n    }\n    @media (max-width: 480px) {\n        .wishlist-hero-custom-button.wishlisthero-quick-view.wlh-right-btn > div > button {\n            height: 32px !important;\n            width: 32px !important;\n        }\n        .wishlist-hero-custom-button.wishlisthero-floating button {\n            width: 30px !important;\n            height: 30px !important;\n            font-size:16px !important\n        }\n    }\n\n\n                    \n                    \n                  \n                  \n                \n              \n  \n\n  \n  \n\n          \n          \n              \n            \n        \n        \n          \n            Flat 50% off on making charge \n          \n        \n      \n  .discount-font {\n  font-size:12px;letter-spacing: 0px;\n  }\n   @media (max-width: 749px) {\n    .discount-font {\n  font-size:10px;letter-spacing: 0px;\n  }\n  \n   }\n   .offer-icon-svg {\n  color: #5c2d91; \n}\n\n   .making-offer-box {\n  background: #e9e1ea; /* light purple */\n  border-radius: 14px;\n  padding: 16px 18px;\n  margin: 20px 0;\n  max-width:340px;\n}\n\n.making-offer-inner {\n  display: flex;\n  align-items: center;\n  gap: 12px;\n}\n\n.making-offer-icon {\n  width: 32px;\n  height: 32px;\n  border-radius: 50%;\n  background: linear-gradient(180deg, #FBE284 0%, #C19750 52.4%, #955D27 75%, #DBA926 100%);\n  display: flex;\n  align-items: center;\n  justify-content: center;\n}\n\n.making-offer-icon svg {\n  background: #e9e1ea; /* same as parent bg */\n  border-radius: 50%;\n  padding: 6px;\n  width:28px;\n  height:28px\n\n}\n\n.making-offer-divider {\n  width: 1px;\n  height: 40px;\n  background: #bfaec2;\n}\n\n.making-offer-content {\n  display: flex;\n  flex-direction: column;\n}\n\n.making-offer-title {\n background: linear-gradient(180deg, #4D2753 0%, #1C0E2B 142.55%);\n  -webkit-background-clip: text;\n  -webkit-text-fill-color: transparent;\n  margin: 0;\n\n  font-family: Helvetica;\n  font-weight: 400;\n  font-size: 14.49px;\n  line-height: 100%;\n  letter-spacing: 0%;\n\n}\n\n.making-offer-save {\n  background: linear-gradient(180deg, #4D2753 0%, #1C0E2B 142.55%);\n  -webkit-background-clip: text;\n  -webkit-text-fill-color: transparent;\n  margin: 8px 0 0;\n\n  font-family: Helvetica;\n  font-weight: 800;\n  font-size: 14.49px;\n  line-height: 100%;\n  letter-spacing: 0%;\n}",
+      "price": 12484001428600.125,
+      "image": "https://www.pngjewellers.com/cdn/shop/files/DNP24006_C_3a2fe866-ae71-4744-b95d-b25352493347.jpg?v=1772819967&width=1500",
+      "url": "https://www.pngjewellers.com/products/glint-petalia-diamond-nosepin?variant=48635853504731",
       "source": "PNG Jewellers",
       "category": "Diamond Jewelry"
     },
@@ -745,6 +761,6 @@
       "category": "Diamond Jewelry"
     }
   ],
-  "lastFetched": "2026-11-03T13:34:29.258Z",
-  "count": 93
+  "lastFetched": "2026-11-03T22:52:01.926Z",
+  "count": 95
 }
