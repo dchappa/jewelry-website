@@ -1,6 +1,14 @@
 {
   "products": [
     {
+      "name": "Dew Cluster Diamond Drop Earrings",
+      "price": 235,
+      "image": "https://cdn.caratlane.us/media/catalog/product/j/e/jer06630-yb3a-000000000-00-14kt-yellow-gold-earrings-main-image_1.jpg?quality=90&bg-color=255,255,255&fit=bounds&height=350&width=350&canvas=350:350",
+      "url": "https://www.caratlane.us/dew-cluster-diamond-drop-earrings.html",
+      "source": "CaratLane",
+      "category": "Diamond Jewelry"
+    },
+    {
       "name": "Adore Diamond Adjustable Bracelet",
       "price": 539,
       "image": "https://cdn.caratlane.us/media/catalog/product/j/b/jbr01013-rb1a-000000000-00-14kt-rose-gold-bracelets-main-image.jpg?quality=90&bg-color=255,255,255&fit=bounds&height=350&width=350&canvas=350:350",
@@ -27,15 +35,15 @@
     {
       "name": "Admirable 22Kt Gold Chain",
       "price": 527,
-      "image": "https://cdn.caratlane.us/media/catalog/product/k/c/kch01744-ye00-000000000-00-22kt-yellow-gold-chains-image-1.jpg?quality=90&bg-color=255,255,255&fit=bounds&height=350&width=350&canvas=350:350",
+      "image": "https://cdn.caratlane.us/media/catalog/product/k/u/ku01744-2y0000_2_lar.jpg?quality=90&bg-color=255,255,255&fit=bounds&height=350&width=350&canvas=350:350",
       "url": "https://www.caratlane.us/admirable-22kt-mc-sdk-gold-chain.html",
       "source": "CaratLane",
       "category": "Diamond Jewelry"
     },
     {
       "name": "Cosmic 22KT Gold Chain",
-      "price": 361,
-      "image": "https://cdn.caratlane.us/media/catalog/product/k/c/kch01702-ye00-000000000-00-22kt-yellow-gold-chains-image-1.jpg?quality=90&bg-color=255,255,255&fit=bounds&height=350&width=350&canvas=350:350",
+      "price": 406,
+      "image": "https://cdn.caratlane.us/media/catalog/product/k/u/ku01702-2y0000_11_listfront.jpg?quality=90&bg-color=255,255,255&fit=bounds&height=350&width=350&canvas=350:350",
       "url": "https://www.caratlane.us/ruchika-mc-strlkd-22kt-gold-chain.html",
       "source": "CaratLane",
       "category": "Diamond Jewelry"
@@ -51,7 +59,7 @@
     {
       "name": "Breezy Diamond Drop Earrings",
       "price": 249,
-      "image": "https://cdn.caratlane.us/media/catalog/product/j/e/jer08945-yb3a-000000000-00-14kt-yellow-gold-earrings-main-image.jpg?quality=90&bg-color=255,255,255&fit=bounds&height=350&width=350&canvas=350:350",
+      "image": "https://cdn.caratlane.us/media/catalog/product/j/e/jer08945-yb3a-000000000-00-14kt-yellow-gold-earrings-small-image.jpg?quality=90&bg-color=255,255,255&fit=bounds&height=350&width=350&canvas=350:350",
       "url": "https://www.caratlane.us/breezy-diamond-drop-earrings.html",
       "source": "CaratLane",
       "category": "Diamond Jewelry"
@@ -59,7 +67,7 @@
     {
       "name": "Dewy Delight Gemstone Drop Earrings",
       "price": 352,
-      "image": "https://cdn.caratlane.us/media/catalog/product/u/e/uer06609-yb00-setm00000-00-14kt-yellow-gold-earrings-main-image.jpg?quality=90&bg-color=255,255,255&fit=bounds&height=350&width=350&canvas=350:350",
+      "image": "https://cdn.caratlane.us/media/catalog/product/u/e/uer06609-yb00-setm00000-00-14kt-yellow-gold-earrings-small-image.jpg?quality=90&bg-color=255,255,255&fit=bounds&height=350&width=350&canvas=350:350",
       "url": "https://www.caratlane.us/dewy-delight-gemstone-drop-earrings.html",
       "source": "CaratLane",
       "category": "Diamond Jewelry"
@@ -67,7 +75,7 @@
     {
       "name": "Shrusrati MC-SCHN 22KT Gold Chain",
       "price": 340,
-      "image": "https://cdn.caratlane.us/media/catalog/product/k/c/kch01700-ye00-000000000-00-22kt-yellow-gold-chains-image-1.jpg?quality=90&bg-color=255,255,255&fit=bounds&height=350&width=350&canvas=350:350",
+      "image": "https://cdn.caratlane.us/media/catalog/product/k/u/ku01700-2y0000_11_listfront.jpg?quality=90&bg-color=255,255,255&fit=bounds&height=350&width=350&canvas=350:350",
       "url": "https://www.caratlane.us/shrusrati-mc-schn-22kt-gold-chain.html",
       "source": "CaratLane",
       "category": "Diamond Jewelry"
@@ -107,7 +115,7 @@
     {
       "name": "Dressy Multiwear Gold Bracelet",
       "price": 189,
-      "image": "https://cdn.caratlane.us/media/catalog/product/u/b/ubr01167-yb00-000000000-00-14kt-yellow-gold-bracelets-main-image.jpg?quality=90&bg-color=255,255,255&fit=bounds&height=350&width=350&canvas=350:350",
+      "image": "https://cdn.caratlane.us/media/catalog/product/u/t/ut01167-1y0000_11_listfront.jpg?quality=90&bg-color=255,255,255&fit=bounds&height=350&width=350&canvas=350:350",
       "url": "https://www.caratlane.us/dressy-multiwear-gold-bracelet.html",
       "source": "CaratLane",
       "category": "Diamond Jewelry"
@@ -131,7 +139,7 @@
     {
       "name": "Loren Cutout Pearl Bracelet",
       "price": 575,
-      "image": "https://cdn.caratlane.us/media/catalog/product/u/b/ubr00052-yc00-p00000000-00-18kt-yellow-gold-bracelets-main-image.jpg?quality=90&bg-color=255,255,255&fit=bounds&height=350&width=350&canvas=350:350",
+      "image": "https://cdn.caratlane.us/media/catalog/product/u/t/ut00052-yg00pw_11_listfront.jpg?quality=90&bg-color=255,255,255&fit=bounds&height=350&width=350&canvas=350:350",
       "url": "https://www.caratlane.us/loren-cutout-pearl-bracelet.html",
       "source": "CaratLane",
       "category": "Diamond Jewelry"
@@ -139,7 +147,7 @@
     {
       "name": "Finest Flora Gold Drop Earrings",
       "price": 159,
-      "image": "https://cdn.caratlane.us/media/catalog/product/u/e/uer06268-yb00-000000000-00-14kt-yellow-gold-earrings-main-image.jpg?quality=90&bg-color=255,255,255&fit=bounds&height=350&width=350&canvas=350:350",
+      "image": "https://cdn.caratlane.us/media/catalog/product/u/e/uer06268-yb00-000000000-00-14kt-yellow-gold-earrings-small-image_1.jpg?quality=90&bg-color=255,255,255&fit=bounds&height=350&width=350&canvas=350:350",
       "url": "https://www.caratlane.us/finest-flora-gold-drop-earrings.html",
       "source": "CaratLane",
       "category": "Diamond Jewelry"
@@ -147,7 +155,7 @@
     {
       "name": "Latticed Pearl Hoop Earrings",
       "price": 212,
-      "image": "https://cdn.caratlane.us/media/catalog/product/u/e/uer06243-yb00-p00000000-00-14kt-yellow-gold-earrings-main-image.jpg?quality=90&bg-color=255,255,255&fit=bounds&height=350&width=350&canvas=350:350",
+      "image": "https://cdn.caratlane.us/media/catalog/product/u/e/ue06243-1y00p0_11_listfront_1.jpg?quality=90&bg-color=255,255,255&fit=bounds&height=350&width=350&canvas=350:350",
       "url": "https://www.caratlane.us/latticed-pearl-hoop-earrings.html",
       "source": "CaratLane",
       "category": "Diamond Jewelry"
@@ -155,7 +163,7 @@
     {
       "name": "Flutter Butterfly Kids' Gold Earrings",
       "price": 129,
-      "image": "https://cdn.caratlane.us/media/catalog/product/u/e/uer05550-yb00-000000000-00-14kt-yellow-gold-earrings-main-image_1.jpg?quality=90&bg-color=255,255,255&fit=bounds&height=350&width=350&canvas=350:350",
+      "image": "https://cdn.caratlane.us/media/catalog/product/u/e/ue05550-1y0000_11_listfront.jpg?quality=90&bg-color=255,255,255&fit=bounds&height=350&width=350&canvas=350:350",
       "url": "https://www.caratlane.us/flutter-butterfly-kids-gold-earrings.html",
       "source": "CaratLane",
       "category": "Diamond Jewelry"
@@ -187,7 +195,7 @@
     {
       "name": "Austere Gold Hoop Earrings",
       "price": 249,
-      "image": "https://cdn.caratlane.us/media/catalog/product/u/e/uer05045-yb00-000000000-00-14kt-yellow-gold-earrings-main-image.jpg?quality=90&bg-color=255,255,255&fit=bounds&height=350&width=350&canvas=350:350",
+      "image": "https://cdn.caratlane.us/media/catalog/product/u/e/ue05045-1y0000_11_listfront.jpg?quality=90&bg-color=255,255,255&fit=bounds&height=350&width=350&canvas=350:350",
       "url": "https://www.caratlane.us/austere-gold-hoop-earrings.html",
       "source": "CaratLane",
       "category": "Diamond Jewelry"
@@ -195,7 +203,7 @@
     {
       "name": "Lil Clover Kids' Gold Earrings",
       "price": 109,
-      "image": "https://cdn.caratlane.us/media/catalog/product/u/e/uer05028-yb00-000000000-00-14kt-yellow-gold-earrings-main-image_1.jpg?quality=90&bg-color=255,255,255&fit=bounds&height=350&width=350&canvas=350:350",
+      "image": "https://cdn.caratlane.us/media/catalog/product/u/e/ue05028-1y0000_11_listfront.jpg?quality=90&bg-color=255,255,255&fit=bounds&height=350&width=350&canvas=350:350",
       "url": "https://www.caratlane.us/lil-clover-kids-gold-earrings.html",
       "source": "CaratLane",
       "category": "Diamond Jewelry"
@@ -203,7 +211,7 @@
     {
       "name": "Alphabet M Kids Nazaria Gold Bracelet",
       "price": 158,
-      "image": "https://cdn.caratlane.us/media/catalog/product/u/b/ubr01360-yb00-000000000-00-14kt-yellow-gold-bracelets-main-image.jpg?quality=90&bg-color=255,255,255&fit=bounds&height=350&width=350&canvas=350:350",
+      "image": "https://cdn.caratlane.us/media/catalog/product/u/b/ubr01360-yb00-000000000-00-14kt-yellow-gold-bracelets-small-image_1.jpg?quality=90&bg-color=255,255,255&fit=bounds&height=350&width=350&canvas=350:350",
       "url": "https://www.caratlane.us/alphabet-m-nazaria-gold-bracelet.html",
       "source": "CaratLane",
       "category": "Diamond Jewelry"
@@ -219,7 +227,7 @@
     {
       "name": "Infinity Personalised Gold Bracelet",
       "price": 159,
-      "image": "https://cdn.caratlane.us/media/catalog/product/u/b/ubr00738-rb00-000000000-00-14kt-rose-gold-bracelets-main-image.jpg?quality=90&bg-color=255,255,255&fit=bounds&height=350&width=350&canvas=350:350",
+      "image": "https://cdn.caratlane.us/media/catalog/product/u/b/ubr00738-rb00-000000000-00-14kt-rose-gold-bracelets-small-image_1.jpg?quality=90&bg-color=255,255,255&fit=bounds&height=350&width=350&canvas=350:350",
       "url": "https://www.caratlane.us/infinity-personalised-gold-bracelet.html",
       "source": "CaratLane",
       "category": "Diamond Jewelry"
@@ -227,7 +235,7 @@
     {
       "name": "Butterfly Adjustable Baby Gold Bangle",
       "price": 372,
-      "image": "https://cdn.caratlane.us/media/catalog/product/u/b/uba00011-yb00-000000000-00-14kt-yellow-gold-baby-bangles-main-image.jpg?quality=90&bg-color=255,255,255&fit=bounds&height=350&width=350&canvas=350:350",
+      "image": "https://cdn.caratlane.us/media/catalog/product/u/b/uba00011-yb00-000000000-00-14kt-yellow-gold-baby_bangles-small-image.jpg?quality=90&bg-color=255,255,255&fit=bounds&height=350&width=350&canvas=350:350",
       "url": "https://www.caratlane.us/butterfly-adjustable-baby-gold-bangle.html",
       "source": "CaratLane",
       "category": "Diamond Jewelry"
@@ -235,7 +243,7 @@
     {
       "name": "Fresh Peppy Diamond Stud Earrings",
       "price": 316,
-      "image": "https://cdn.caratlane.us/media/catalog/product/j/e/jer07857-yb1a-000000000-00-14kt-yellow-gold-earrings-main-image_2.jpg?quality=90&bg-color=255,255,255&fit=bounds&height=350&width=350&canvas=350:350",
+      "image": "https://cdn.caratlane.us/media/catalog/product/j/e/jer07857-yb1a-000000000-00-14kt-yellow-gold-earrings-small-image_2.jpg?quality=90&bg-color=255,255,255&fit=bounds&height=350&width=350&canvas=350:350",
       "url": "https://www.caratlane.us/jer07857-yb1a-000000000-00-0000.html",
       "source": "CaratLane",
       "category": "Diamond Jewelry"
@@ -243,7 +251,7 @@
     {
       "name": "Anaya Mini Kids' Diamond Earrings",
       "price": 212,
-      "image": "https://cdn.caratlane.us/media/catalog/product/j/e/je06989-1yp900_1_lar.jpg?quality=90&bg-color=255,255,255&fit=bounds&height=350&width=350&canvas=350:350",
+      "image": "https://cdn.caratlane.us/media/catalog/product/j/e/jer06989-yb1a-000000000-00-14kt-yellow-gold-earrings-small-image.jpg?quality=90&bg-color=255,255,255&fit=bounds&height=350&width=350&canvas=350:350",
       "url": "https://www.caratlane.us/anaya-mini-kids-diamond-earrings.html",
       "source": "CaratLane",
       "category": "Diamond Jewelry"
@@ -251,7 +259,7 @@
     {
       "name": "Aria Gemstone Hoop Earrings",
       "price": 373,
-      "image": "https://cdn.caratlane.us/media/catalog/product/j/e/jer05760-yb1a-ru0000000-00-14kt-yellow-gold-earrings-main-image.jpg?quality=90&bg-color=255,255,255&fit=bounds&height=350&width=350&canvas=350:350",
+      "image": "https://cdn.caratlane.us/media/catalog/product/j/e/je05760-1yp9r0_11_listfront.jpg?quality=90&bg-color=255,255,255&fit=bounds&height=350&width=350&canvas=350:350",
       "url": "https://www.caratlane.us/aria-gemstone-hoop-earrings.html",
       "source": "CaratLane",
       "category": "Diamond Jewelry"
@@ -261,6 +269,14 @@
       "price": 382,
       "image": "https://cdn.caratlane.us/media/catalog/product/u/t/ut00374-yg0000_11_listfront_1.jpg?quality=90&bg-color=255,255,255&fit=bounds&height=350&width=350&canvas=350:350",
       "url": "https://www.caratlane.us/lani-engrave-baby-gold-bracelet.html",
+      "source": "CaratLane",
+      "category": "Diamond Jewelry"
+    },
+    {
+      "name": "Pretty Butterfly Diamond Sui Dhaga Earrings",
+      "price": 188,
+      "image": "https://cdn.caratlane.us/media/catalog/product/j/e/je08225-1yp900_11_listfront.jpg?quality=90&bg-color=255,255,255&fit=bounds&height=350&width=350&canvas=350:350",
+      "url": "https://www.caratlane.us/pretty-butterfly-diamond-sui-dhaga-earrings.html",
       "source": "CaratLane",
       "category": "Diamond Jewelry"
     },
@@ -275,7 +291,7 @@
     {
       "name": "Pretty Princess Kids' Gold Pendant",
       "price": 59,
-      "image": "https://cdn.caratlane.us/media/catalog/product/u/p/upe00421-14kt-yellow-gold-pendant-main-image_1.jpg?quality=90&bg-color=255,255,255&fit=bounds&height=350&width=350&canvas=350:350",
+      "image": "https://cdn.caratlane.us/media/catalog/product/u/p/up00421-1y0000_11_listfront.jpg?quality=90&bg-color=255,255,255&fit=bounds&height=350&width=350&canvas=350:350",
       "url": "https://www.caratlane.us/pretty-princess-kids-pendant.html",
       "source": "CaratLane",
       "category": "Diamond Jewelry"
@@ -283,7 +299,7 @@
     {
       "name": "Cutesy Flutter Kids' Gold Necklace",
       "price": 293,
-      "image": "https://cdn.caratlane.us/media/catalog/product/u/n/une00603-rb00-000000000-00-14kt-rose-gold-necklaces-main-image.jpg?quality=90&bg-color=255,255,255&fit=bounds&height=350&width=350&canvas=350:350",
+      "image": "https://cdn.caratlane.us/media/catalog/product/u/l/ul00603-1r0000_11_listfront.jpg?quality=90&bg-color=255,255,255&fit=bounds&height=350&width=350&canvas=350:350",
       "url": "https://www.caratlane.us/cutesy-flutter-kids-necklace.html",
       "source": "CaratLane",
       "category": "Diamond Jewelry"
@@ -291,7 +307,7 @@
     {
       "name": "Interwine Moon Earring",
       "price": 169,
-      "image": "https://cdn.caratlane.us/media/catalog/product/u/e/uer06483-yb00-000000000-00-14kt-yellow-gold-earrings-main-image_2.jpg?quality=90&bg-color=255,255,255&fit=bounds&height=350&width=350&canvas=350:350",
+      "image": "https://cdn.caratlane.us/media/catalog/product/u/e/ue06483-1y0000_11_listfront.jpg?quality=90&bg-color=255,255,255&fit=bounds&height=350&width=350&canvas=350:350",
       "url": "https://www.caratlane.us/interwine-earring.html",
       "source": "CaratLane",
       "category": "Diamond Jewelry"
@@ -299,7 +315,7 @@
     {
       "name": "Mystical Unicorn Kids' Gold Earrings",
       "price": 109,
-      "image": "https://cdn.caratlane.us/media/catalog/product/u/e/uer05082-yb00-000000000-00-14kt-yellow-gold-earrings-main-image_1.jpg?quality=90&bg-color=255,255,255&fit=bounds&height=350&width=350&canvas=350:350",
+      "image": "https://cdn.caratlane.us/media/catalog/product/u/e/ue05082-1y0000_11_listfront.jpg?quality=90&bg-color=255,255,255&fit=bounds&height=350&width=350&canvas=350:350",
       "url": "https://www.caratlane.us/mystical-unicorn-kids-earrings.html",
       "source": "CaratLane",
       "category": "Diamond Jewelry"
@@ -307,7 +323,7 @@
     {
       "name": "Pearl Station Bracelet",
       "price": 564,
-      "image": "https://cdn.caratlane.us/media/catalog/product/u/b/ubr00334-yc00-p0p000000-00-18kt-yellow-gold-bracelets-main-image.jpg?quality=90&bg-color=255,255,255&fit=bounds&height=350&width=350&canvas=350:350",
+      "image": "https://cdn.caratlane.us/media/catalog/product/u/t/ut00334-yg00pw_11_listfront.jpg?quality=90&bg-color=255,255,255&fit=bounds&height=350&width=350&canvas=350:350",
       "url": "https://www.caratlane.us/pearl-bracelet.html",
       "source": "CaratLane",
       "category": "Diamond Jewelry"
@@ -315,8 +331,16 @@
     {
       "name": "Evans Cutout Pearl Bracelet",
       "price": 457,
-      "image": "https://cdn.caratlane.us/media/catalog/product/u/b/ubr00042-yc00-p00000000-00-18kt-yellow-gold-bracelets-main-image.jpg?quality=90&bg-color=255,255,255&fit=bounds&height=350&width=350&canvas=350:350",
+      "image": "https://cdn.caratlane.us/media/catalog/product/u/t/ut00042-yg00p0_11_listfront.jpg?quality=90&bg-color=255,255,255&fit=bounds&height=350&width=350&canvas=350:350",
       "url": "https://www.caratlane.us/evans-cutout-pearl-bracelet.html",
+      "source": "CaratLane",
+      "category": "Diamond Jewelry"
+    },
+    {
+      "name": "Pretty Butterfly Diamond Sui Dhaga Earrings",
+      "price": 179,
+      "image": "https://cdn.caratlane.us/media/catalog/product/j/e/jer08225-yb1a-000000000-00-14kt-yellow-gold-earrings-small-image.jpg?quality=90&bg-color=255,255,255&fit=bounds&height=350&width=350&canvas=350:350",
+      "url": "https://www.caratlane.us/jer08225-yb1a-000000000-00-0000.html",
       "source": "CaratLane",
       "category": "Diamond Jewelry"
     },
@@ -393,112 +417,8 @@
       "category": "Diamond Jewelry"
     },
     {
-      "name": "Beautiful Bounty Gold Drop Earrings",
-      "price": 177,
-      "image": "https://cdn.caratlane.us/media/catalog/product/u/e/uer06267-yb00-000000000-00-14kt-yellow-gold-earrings-small-image.jpg?quality=90&bg-color=255,255,255&fit=bounds&height=350&width=350&canvas=350:350",
-      "url": "https://www.caratlane.us/beautiful-bounty-gold-drop-earrings.html",
-      "source": "CaratLane",
-      "category": "Diamond Jewelry"
-    },
-    {
-      "name": "Studded Jewellery 220",
-      "price": 470,
-      "image": "https://cdn.caratlane.us/media/catalog/product/j/r/jri11617-rb9a-000000000-00-14kt-rose-gold-rings-small-image.jpg",
-      "url": "https://www.caratlane.us/studded-jewellery-220.html",
-      "source": "CaratLane",
-      "category": "Diamond Jewelry"
-    },
-    {
-      "name": "Rudra Swarna 22KT Gold Mangalsutra",
-      "price": 1030,
-      "image": "https://cdn.caratlane.us/media/catalog/product/k/s/ks00520-2y0000_1_lar.jpg",
-      "url": "https://www.caratlane.us/rudra-swarna-22kt-gold-mangalsutra.html",
-      "source": "CaratLane",
-      "category": "Diamond Jewelry"
-    },
-    {
-      "name": "Wave Diamond Hoop Earrings",
-      "price": 781,
-      "image": "https://cdn.caratlane.us/media/catalog/product/j/e/jer01895-yc3a-000000000-00-18kt-yellow-gold-earrings-main-image_1.jpg",
-      "url": "https://www.caratlane.us/wave-hoop-diamond-hoop-earrings.html",
-      "source": "CaratLane",
-      "category": "Diamond Jewelry"
-    },
-    {
-      "name": "Hanging Hexagons Diamond Necklace",
-      "price": 699,
-      "image": "https://cdn.caratlane.us/media/catalog/product/j/n/jne05830-yc9a-000000000-00-18kt-yellow-gold-necklaces-main-image.jpg",
-      "url": "https://www.caratlane.us/hanging-hexagons-diamond-necklace.html",
-      "source": "CaratLane",
-      "category": "Diamond Jewelry"
-    },
-    {
-      "name": "Classic Baby Nazaria Gold Bracelet",
-      "price": 109,
-      "image": "https://cdn.caratlane.us/media/catalog/product/u/t/ut01105-1y0000_1_lar.jpg",
-      "url": "https://www.caratlane.us/classic-baby-nazaria-gold-bracelet.html",
-      "source": "CaratLane",
-      "category": "Diamond Jewelry"
-    },
-    {
-      "name": "Kia Diamond Mangalsutra Ring",
-      "price": 386,
-      "image": "https://cdn.caratlane.us/media/catalog/product/j/r/jri08610-yb3a-000000000-00-14kt-yellow-gold-rings-main-image.jpg",
-      "url": "https://www.caratlane.us/kia-diamond-mangalsutra-ring.html",
-      "source": "CaratLane",
-      "category": "Diamond Jewelry"
-    },
-    {
-      "name": "Classic Trace Diamond Stud Earrings",
-      "price": 578,
-      "image": "https://cdn.caratlane.us/media/catalog/product/j/e/jer13536-yb9a-000000000-00-14kt-yellow-gold-earrings-small-image.jpg",
-      "url": "https://www.caratlane.us/classic-trace-diamond-stud-earrings.html",
-      "source": "CaratLane",
-      "category": "Diamond Jewelry"
-    },
-    {
-      "name": "Kalindi Diamond Mangalsutra",
-      "price": 512,
-      "image": "https://cdn.caratlane.us/media/catalog/product/j/s/js00790-1yp900_8_lar_1.jpg",
-      "url": "https://www.caratlane.us/kalindi-diamond-mangalsutra.html",
-      "source": "CaratLane",
-      "category": "Diamond Jewelry"
-    },
-    {
-      "name": "Gleaming Trail Diamond Drop Earrings",
-      "price": 140,
-      "image": "https://cdn.caratlane.us/media/catalog/product/j/e/jer14014-ra9a-000000000-00-10kt-rose-gold-earrings-small-image.jpg",
-      "url": "https://www.caratlane.us/gleaming-trail-10kt-diamond-drop-earrings.html",
-      "source": "CaratLane",
-      "category": "Diamond Jewelry"
-    },
-    {
-      "name": "Dual Pear Diamond Stud Earrings",
-      "price": 121,
-      "image": "https://cdn.caratlane.us/media/catalog/product/j/e/je10645-8yp900_1_lar.jpg",
-      "url": "https://www.caratlane.us/dual-pear-diamond-stud-earrings.html",
-      "source": "CaratLane",
-      "category": "Diamond Jewelry"
-    },
-    {
-      "name": "Svasti Diamond Mangalsutra Bracelet",
-      "price": 676,
-      "image": "https://cdn.caratlane.us/media/catalog/product/j/b/jbr01421-yb1a-000000000-00-14kt-yellow-gold-bracelets-main-image.jpg",
-      "url": "https://www.caratlane.us/svasti-diamond-mangalsutra-bracelet.html",
-      "source": "CaratLane",
-      "category": "Diamond Jewelry"
-    },
-    {
-      "name": "Irya Diamond Gemstone Mangalsutra",
-      "price": 600,
-      "image": "https://cdn.caratlane.us/media/catalog/product/j/m/jma01931-yb1a-sr0000000-00-14kt-yellow-gold-mangalsutra-main-image.jpg",
-      "url": "https://www.caratlane.us/irya-diamond-gemstone-mangalsutra.html",
-      "source": "CaratLane",
-      "category": "Diamond Jewelry"
-    },
-    {
       "name": "Freydis Diamond Necklace",
-      "price": 82441,
+      "price": 84117,
       "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=",
       "url": "https://www.candere.com/freydis-diamond-necklace.html",
       "source": "Kalyan Jewellers",
@@ -506,7 +426,7 @@
     },
     {
       "name": "Freydis Diamond Earrings",
-      "price": 60256,
+      "price": 61316,
       "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=",
       "url": "https://www.candere.com/freydis-diamond-earrings.html",
       "source": "Kalyan Jewellers",
@@ -514,7 +434,7 @@
     },
     {
       "name": "Duelis Diamond Necklace",
-      "price": 64945,
+      "price": 66185,
       "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=",
       "url": "https://www.candere.com/duelis-diamond-necklace.html",
       "source": "Kalyan Jewellers",
@@ -522,7 +442,7 @@
     },
     {
       "name": "Duelis Diamond Earrings",
-      "price": 66899,
+      "price": 67930,
       "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=",
       "url": "https://www.candere.com/duelis-diamond-earrings.html",
       "source": "Kalyan Jewellers",
@@ -530,7 +450,7 @@
     },
     {
       "name": "Duelis Diamond Bracelet",
-      "price": 111612,
+      "price": 113906,
       "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=",
       "url": "https://www.candere.com/duelis-diamond-bracelet.html",
       "source": "Kalyan Jewellers",
@@ -538,7 +458,7 @@
     },
     {
       "name": "Talulot Diamond Ring",
-      "price": 56353,
+      "price": 56933,
       "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=",
       "url": "https://www.candere.com/talulot-diamond-ring.html",
       "source": "Kalyan Jewellers",
@@ -546,7 +466,7 @@
     },
     {
       "name": "Laccaria Diamond Necklace",
-      "price": 51763,
+      "price": 52640,
       "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=",
       "url": "https://www.candere.com/laccaria-diamond-necklace.html",
       "source": "Kalyan Jewellers",
@@ -554,7 +474,7 @@
     },
     {
       "name": "Laccaria Diamond Earrings",
-      "price": 39424,
+      "price": 40023,
       "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=",
       "url": "https://www.candere.com/laccaria-diamond-earrings.html",
       "source": "Kalyan Jewellers",
@@ -562,7 +482,7 @@
     },
     {
       "name": "Morchella Diamond Pendant With Chain",
-      "price": 48999,
+      "price": 49815,
       "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=",
       "url": "https://www.candere.com/morchella-diamond-pendant-with-chain.html",
       "source": "Kalyan Jewellers",
@@ -570,7 +490,7 @@
     },
     {
       "name": "Xera Diamond Bracelet",
-      "price": 99362,
+      "price": 100850,
       "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=",
       "url": "https://www.candere.com/xera-diamond-bracelet.html",
       "source": "Kalyan Jewellers",
@@ -578,7 +498,7 @@
     },
     {
       "name": "Luxe Duchess Diamond Bracelet",
-      "price": 89155,
+      "price": 90682,
       "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=",
       "url": "https://www.candere.com/luxe-duchess-diamond-bracelet.html",
       "source": "Kalyan Jewellers",
@@ -586,7 +506,7 @@
     },
     {
       "name": "Rhythma Diamond Earrings",
-      "price": 43747,
+      "price": 44391,
       "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=",
       "url": "https://www.candere.com/rhythma-diamond-earrings.html",
       "source": "Kalyan Jewellers",
@@ -594,7 +514,7 @@
     },
     {
       "name": "Heartelle Diamond Earrings",
-      "price": 44664,
+      "price": 45323,
       "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=",
       "url": "https://www.candere.com/heartelle-diamond-earrings.html",
       "source": "Kalyan Jewellers",
@@ -602,7 +522,7 @@
     },
     {
       "name": "Royal Sapphire Diamond Earrings",
-      "price": 45597,
+      "price": 46112,
       "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=",
       "url": "https://www.candere.com/royal-sapphire-diamond-earrings.html",
       "source": "Kalyan Jewellers",
@@ -610,7 +530,7 @@
     },
     {
       "name": "Royal Sapphire Diamond Pendant",
-      "price": 47249,
+      "price": 47761,
       "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=",
       "url": "https://www.candere.com/royal-sapphire-diamond-pendant.html",
       "source": "Kalyan Jewellers",
@@ -618,7 +538,7 @@
     },
     {
       "name": "Nyelle Glow Diamond Pendant",
-      "price": 40605,
+      "price": 41154,
       "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=",
       "url": "https://www.candere.com/nyelle-glow-diamond-pendant.html",
       "source": "Kalyan Jewellers",
@@ -626,7 +546,7 @@
     },
     {
       "name": ".wishlist-hero-custom-button.wishlisthero-quick-view.wlh-right-btn > div > button {\n        padding: 8px !important;\n        border-radius:50%;\n        height: 33px !important;\n        width: 33px;\n    }\n    .wishlist-hero-custom-button.wishlisthero-floating button {\n        width: 35px !important;\n        height: 35px !important;\n        font-size:16px !important\n    }\n    @media (max-width: 480px) {\n        .wishlist-hero-custom-button.wishlisthero-quick-view.wlh-right-btn > div > button {\n            height: 32px !important;\n            width: 32px !important;\n        }\n        .wishlist-hero-custom-button.wishlisthero-floating button {\n            width: 30px !important;\n            height: 30px !important;\n            font-size:16px !important\n        }\n    }\n\n\n                \n              \n              \n            \n                  \n                  \n                  \n\n                    \n\n\n\n\n\n\n\n \n\n    .wishlist-hero-custom-button.wishlisthero-quick-view.wlh-right-btn > div > button {\n        padding: 8px !important;\n        border-radius:50%;\n        height: 33px !important;\n        width: 33px;\n    }\n    .wishlist-hero-custom-button.wishlisthero-floating button {\n        width: 35px !important;\n        height: 35px !important;\n        font-size:16px !important\n    }\n    @media (max-width: 480px) {\n        .wishlist-hero-custom-button.wishlisthero-quick-view.wlh-right-btn > div > button {\n            height: 32px !important;\n            width: 32px !important;\n        }\n        .wishlist-hero-custom-button.wishlisthero-floating button {\n            width: 30px !important;\n            height: 30px !important;\n            font-size:16px !important\n        }\n    }\n\n\n                    \n                    \n                  \n                  \n                \n              \n  \n\n  \n  \n\n          \n          \n              \n            \n        \n        \n          \n            Flat 75% off on making charge \n          \n        \n      \n  .discount-font {\n  font-size:12px;letter-spacing: 0px;\n  }\n   @media (max-width: 749px) {\n    .discount-font {\n  font-size:10px;letter-spacing: 0px;\n  }\n  \n   }\n   .offer-icon-svg {\n  color: #5c2d91; \n}\n\n   .making-offer-box {\n  background: #e9e1ea; /* light purple */\n  border-radius: 14px;\n  padding: 16px 18px;\n  margin: 20px 0;\n  max-width:340px;\n}\n\n.making-offer-inner {\n  display: flex;\n  align-items: center;\n  gap: 12px;\n}\n\n.making-offer-icon {\n  width: 32px;\n  height: 32px;\n  border-radius: 50%;\n  background: linear-gradient(180deg, #FBE284 0%, #C19750 52.4%, #955D27 75%, #DBA926 100%);\n  display: flex;\n  align-items: center;\n  justify-content: center;\n}\n\n.making-offer-icon svg {\n  background: #e9e1ea; /* same as parent bg */\n  border-radius: 50%;\n  padding: 6px;\n  width:28px;\n  height:28px\n\n}\n\n.making-offer-divider {\n  width: 1px;\n  height: 40px;\n  background: #bfaec2;\n}\n\n.making-offer-content {\n  display: flex;\n  flex-direction: column;\n}\n\n.making-offer-title {\n background: linear-gradient(180deg, #4D2753 0%, #1C0E2B 142.55%);\n  -webkit-background-clip: text;\n  -webkit-text-fill-color: transparent;\n  margin: 0;\n\n  font-family: Helvetica;\n  font-weight: 400;\n  font-size: 14.49px;\n  line-height: 100%;\n  letter-spacing: 0%;\n\n}\n\n.making-offer-save {\n  background: linear-gradient(180deg, #4D2753 0%, #1C0E2B 142.55%);\n  -webkit-background-clip: text;\n  -webkit-text-fill-color: transparent;\n  margin: 8px 0 0;\n\n  font-family: Helvetica;\n  font-weight: 800;\n  font-size: 14.49px;\n  line-height: 100%;\n  letter-spacing: 0%;\n}\n\n            \n      \n    \n        Sale",
-      "price": 15063001892500.15,
+      "price": 15212001907500.152,
       "image": "https://www.pngjewellers.com/cdn/shop/files/DIDP0021-C.jpg?v=1772816278&width=1500",
       "url": "https://www.pngjewellers.com/products/florenza-heart-gold-diamond-pendant?variant=48635636351195",
       "source": "PNG Jewellers",
@@ -634,7 +554,7 @@
     },
     {
       "name": ".wishlist-hero-custom-button.wishlisthero-quick-view.wlh-right-btn > div > button {\n        padding: 8px !important;\n        border-radius:50%;\n        height: 33px !important;\n        width: 33px;\n    }\n    .wishlist-hero-custom-button.wishlisthero-floating button {\n        width: 35px !important;\n        height: 35px !important;\n        font-size:16px !important\n    }\n    @media (max-width: 480px) {\n        .wishlist-hero-custom-button.wishlisthero-quick-view.wlh-right-btn > div > button {\n            height: 32px !important;\n            width: 32px !important;\n        }\n        .wishlist-hero-custom-button.wishlisthero-floating button {\n            width: 30px !important;\n            height: 30px !important;\n            font-size:16px !important\n        }\n    }\n\n\n                \n              \n              \n            \n                  \n                  \n                  \n\n                    \n\n\n\n\n\n\n\n \n\n    .wishlist-hero-custom-button.wishlisthero-quick-view.wlh-right-btn > div > button {\n        padding: 8px !important;\n        border-radius:50%;\n        height: 33px !important;\n        width: 33px;\n    }\n    .wishlist-hero-custom-button.wishlisthero-floating button {\n        width: 35px !important;\n        height: 35px !important;\n        font-size:16px !important\n    }\n    @media (max-width: 480px) {\n        .wishlist-hero-custom-button.wishlisthero-quick-view.wlh-right-btn > div > button {\n            height: 32px !important;\n            width: 32px !important;\n        }\n        .wishlist-hero-custom-button.wishlisthero-floating button {\n            width: 30px !important;\n            height: 30px !important;\n            font-size:16px !important\n        }\n    }\n\n\n                    \n                    \n                  \n                  \n                \n              \n  \n\n  \n  \n\n          \n          \n              \n            \n        \n        \n          \n            Flat 50% off on making charge \n          \n        \n      \n  .discount-font {\n  font-size:12px;letter-spacing: 0px;\n  }\n   @media (max-width: 749px) {\n    .discount-font {\n  font-size:10px;letter-spacing: 0px;\n  }\n  \n   }\n   .offer-icon-svg {\n  color: #5c2d91; \n}\n\n   .making-offer-box {\n  background: #e9e1ea; /* light purple */\n  border-radius: 14px;\n  padding: 16px 18px;\n  margin: 20px 0;\n  max-width:340px;\n}\n\n.making-offer-inner {\n  display: flex;\n  align-items: center;\n  gap: 12px;\n}\n\n.making-offer-icon {\n  width: 32px;\n  height: 32px;\n  border-radius: 50%;\n  background: linear-gradient(180deg, #FBE284 0%, #C19750 52.4%, #955D27 75%, #DBA926 100%);\n  display: flex;\n  align-items: center;\n  justify-content: center;\n}\n\n.making-offer-icon svg {\n  background: #e9e1ea; /* same as parent bg */\n  border-radius: 50%;\n  padding: 6px;\n  width:28px;\n  height:28px\n\n}\n\n.making-offer-divider {\n  width: 1px;\n  height: 40px;\n  background: #bfaec2;\n}\n\n.making-offer-content {\n  display: flex;\n  flex-direction: column;\n}\n\n.making-offer-title {\n background: linear-gradient(180deg, #4D2753 0%, #1C0E2B 142.55%);\n  -webkit-background-clip: text;\n  -webkit-text-fill-color: transparent;\n  margin: 0;\n\n  font-family: Helvetica;\n  font-weight: 400;\n  font-size: 14.49px;\n  line-height: 100%;\n  letter-spacing: 0%;\n\n}\n\n.making-offer-save {\n  background: linear-gradient(180deg, #4D2753 0%, #1C0E2B 142.55%);\n  -webkit-background-clip: text;\n  -webkit-text-fill-color: transparent;\n  margin: 8px 0 0;\n\n  font-family: Helvetica;\n  font-weight: 800;\n  font-size: 14.49px;\n  line-height: 100%;\n  letter-spacing: 0%;\n}\n\n            \n      \n    \n        Sale",
-      "price": 20005002273600.2,
+      "price": 20288002301900.203,
       "image": "https://www.pngjewellers.com/cdn/shop/files/DIDR0144-C.jpg?v=1772813635&width=1500",
       "url": "https://www.pngjewellers.com/products/boundless-love-yellow-gold-diamond-ring-for-women?variant=48643387982043",
       "source": "PNG Jewellers",
@@ -642,7 +562,7 @@
     },
     {
       "name": ".wishlist-hero-custom-button.wishlisthero-quick-view.wlh-right-btn > div > button {\n        padding: 8px !important;\n        border-radius:50%;\n        height: 33px !important;\n        width: 33px;\n    }\n    .wishlist-hero-custom-button.wishlisthero-floating button {\n        width: 35px !important;\n        height: 35px !important;\n        font-size:16px !important\n    }\n    @media (max-width: 480px) {\n        .wishlist-hero-custom-button.wishlisthero-quick-view.wlh-right-btn > div > button {\n            height: 32px !important;\n            width: 32px !important;\n        }\n        .wishlist-hero-custom-button.wishlisthero-floating button {\n            width: 30px !important;\n            height: 30px !important;\n            font-size:16px !important\n        }\n    }\n\n\n                \n              \n              \n            \n                  \n                  \n                  \n\n                    \n\n\n\n\n\n\n\n \n\n    .wishlist-hero-custom-button.wishlisthero-quick-view.wlh-right-btn > div > button {\n        padding: 8px !important;\n        border-radius:50%;\n        height: 33px !important;\n        width: 33px;\n    }\n    .wishlist-hero-custom-button.wishlisthero-floating button {\n        width: 35px !important;\n        height: 35px !important;\n        font-size:16px !important\n    }\n    @media (max-width: 480px) {\n        .wishlist-hero-custom-button.wishlisthero-quick-view.wlh-right-btn > div > button {\n            height: 32px !important;\n            width: 32px !important;\n        }\n        .wishlist-hero-custom-button.wishlisthero-floating button {\n            width: 30px !important;\n            height: 30px !important;\n            font-size:16px !important\n        }\n    }\n\n\n                    \n                    \n                  \n                  \n                \n              \n  \n\n  \n  \n\n          \n          \n              \n            \n        \n        \n          \n            Flat 10% off on making charge \n          \n        \n      \n  .discount-font {\n  font-size:12px;letter-spacing: 0px;\n  }\n   @media (max-width: 749px) {\n    .discount-font {\n  font-size:10px;letter-spacing: 0px;\n  }\n  \n   }\n   .offer-icon-svg {\n  color: #5c2d91; \n}\n\n   .making-offer-box {\n  background: #e9e1ea; /* light purple */\n  border-radius: 14px;\n  padding: 16px 18px;\n  margin: 20px 0;\n  max-width:340px;\n}\n\n.making-offer-inner {\n  display: flex;\n  align-items: center;\n  gap: 12px;\n}\n\n.making-offer-icon {\n  width: 32px;\n  height: 32px;\n  border-radius: 50%;\n  background: linear-gradient(180deg, #FBE284 0%, #C19750 52.4%, #955D27 75%, #DBA926 100%);\n  display: flex;\n  align-items: center;\n  justify-content: center;\n}\n\n.making-offer-icon svg {\n  background: #e9e1ea; /* same as parent bg */\n  border-radius: 50%;\n  padding: 6px;\n  width:28px;\n  height:28px\n\n}\n\n.making-offer-divider {\n  width: 1px;\n  height: 40px;\n  background: #bfaec2;\n}\n\n.making-offer-content {\n  display: flex;\n  flex-direction: column;\n}\n\n.making-offer-title {\n background: linear-gradient(180deg, #4D2753 0%, #1C0E2B 142.55%);\n  -webkit-background-clip: text;\n  -webkit-text-fill-color: transparent;\n  margin: 0;\n\n  font-family: Helvetica;\n  font-weight: 400;\n  font-size: 14.49px;\n  line-height: 100%;\n  letter-spacing: 0%;\n\n}\n\n.making-offer-save {\n  background: linear-gradient(180deg, #4D2753 0%, #1C0E2B 142.55%);\n  -webkit-background-clip: text;\n  -webkit-text-fill-color: transparent;\n  margin: 8px 0 0;\n\n  font-family: Helvetica;\n  font-weight: 800;\n  font-size: 14.49px;\n  line-height: 100%;\n  letter-spacing: 0%;\n}\n\n            \n      \n    \n        Sale",
-      "price": 21564002205300.215,
+      "price": 21754002224300.22,
       "image": "https://www.pngjewellers.com/cdn/shop/files/DLR72329_C_1ee4b211-f7d7-47ae-89f6-67d2ceae3dfe.jpg?v=1772822252&width=1500",
       "url": "https://www.pngjewellers.com/products/vera-studded-fashion-diamond-ring?variant=48645389877467",
       "source": "PNG Jewellers",
@@ -650,7 +570,7 @@
     },
     {
       "name": ".wishlist-hero-custom-button.wishlisthero-quick-view.wlh-right-btn > div > button {\n        padding: 8px !important;\n        border-radius:50%;\n        height: 33px !important;\n        width: 33px;\n    }\n    .wishlist-hero-custom-button.wishlisthero-floating button {\n        width: 35px !important;\n        height: 35px !important;\n        font-size:16px !important\n    }\n    @media (max-width: 480px) {\n        .wishlist-hero-custom-button.wishlisthero-quick-view.wlh-right-btn > div > button {\n            height: 32px !important;\n            width: 32px !important;\n        }\n        .wishlist-hero-custom-button.wishlisthero-floating button {\n            width: 30px !important;\n            height: 30px !important;\n            font-size:16px !important\n        }\n    }\n\n\n                \n              \n              \n            \n                  \n                  \n                  \n\n                    \n\n\n\n\n\n\n\n \n\n    .wishlist-hero-custom-button.wishlisthero-quick-view.wlh-right-btn > div > button {\n        padding: 8px !important;\n        border-radius:50%;\n        height: 33px !important;\n        width: 33px;\n    }\n    .wishlist-hero-custom-button.wishlisthero-floating button {\n        width: 35px !important;\n        height: 35px !important;\n        font-size:16px !important\n    }\n    @media (max-width: 480px) {\n        .wishlist-hero-custom-button.wishlisthero-quick-view.wlh-right-btn > div > button {\n            height: 32px !important;\n            width: 32px !important;\n        }\n        .wishlist-hero-custom-button.wishlisthero-floating button {\n            width: 30px !important;\n            height: 30px !important;\n            font-size:16px !important\n        }\n    }\n\n\n                    \n                    \n                  \n                  \n                \n              \n  \n\n  \n  \n\n  .discount-font {\n  font-size:12px;letter-spacing: 0px;\n  }\n   @media (max-width: 749px) {\n    .discount-font {\n  font-size:10px;letter-spacing: 0px;\n  }\n  \n   }\n   .offer-icon-svg {\n  color: #5c2d91; \n}\n\n   .making-offer-box {\n  background: #e9e1ea; /* light purple */\n  border-radius: 14px;\n  padding: 16px 18px;\n  margin: 20px 0;\n  max-width:340px;\n}\n\n.making-offer-inner {\n  display: flex;\n  align-items: center;\n  gap: 12px;\n}\n\n.making-offer-icon {\n  width: 32px;\n  height: 32px;\n  border-radius: 50%;\n  background: linear-gradient(180deg, #FBE284 0%, #C19750 52.4%, #955D27 75%, #DBA926 100%);\n  display: flex;\n  align-items: center;\n  justify-content: center;\n}\n\n.making-offer-icon svg {\n  background: #e9e1ea; /* same as parent bg */\n  border-radius: 50%;\n  padding: 6px;\n  width:28px;\n  height:28px\n\n}\n\n.making-offer-divider {\n  width: 1px;\n  height: 40px;\n  background: #bfaec2;\n}\n\n.making-offer-content {\n  display: flex;\n  flex-direction: column;\n}\n\n.making-offer-title {\n background: linear-gradient(180deg, #4D2753 0%, #1C0E2B 142.55%);\n  -webkit-background-clip: text;\n  -webkit-text-fill-color: transparent;\n  margin: 0;\n\n  font-family: Helvetica;\n  font-weight: 400;\n  font-size: 14.49px;\n  line-height: 100%;\n  letter-spacing: 0%;\n\n}\n\n.making-offer-save {\n  background: linear-gradient(180deg, #4D2753 0%, #1C0E2B 142.55%);\n  -webkit-background-clip: text;\n  -webkit-text-fill-color: transparent;\n  margin: 8px 0 0;\n\n  font-family: Helvetica;\n  font-weight: 800;\n  font-size: 14.49px;\n  line-height: 100%;\n  letter-spacing: 0%;\n}",
-      "price": 74563007456300.75,
+      "price": 75152007515200.75,
       "image": "https://www.pngjewellers.com/cdn/shop/files/KLR7663A_C_f51806ae-6030-4803-915c-7dd6a6ed5be9.jpg?v=1775469525&width=1500",
       "url": "https://www.pngjewellers.com/products/arinya-pulse-rose-gold-diamond-ring?variant=48548581408987",
       "source": "PNG Jewellers",
@@ -745,6 +665,6 @@
       "category": "Diamond Jewelry"
     }
   ],
-  "lastFetched": "2026-11-04T23:10:18.889Z",
-  "count": 93
+  "lastFetched": "2026-11-05T04:59:00.046Z",
+  "count": 83
 }
