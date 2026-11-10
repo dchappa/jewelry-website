@@ -19,7 +19,7 @@
     {
       "name": "Solitary Pearl Necklace",
       "price": 271,
-      "image": "https://cdn.caratlane.us/media/catalog/product/u/l/ul00338-yg00p0_1_lar.jpg?quality=90&bg-color=255,255,255&fit=bounds&height=615&width=615&canvas=615:615",
+      "image": "https://cdn.caratlane.us/media/catalog/product/u/n/une00338-yb00-p00000000-00-14kt-yellow-gold-necklaces-main-image.jpg?quality=90&bg-color=255,255,255&fit=bounds&height=350&width=350&canvas=350:350",
       "url": "https://www.caratlane.us/solitary-pearl-necklace.html",
       "source": "CaratLane",
       "category": "Diamond Jewelry"
@@ -75,7 +75,7 @@
     {
       "name": "Carmine Circular Gemstone Stud Earrings",
       "price": 129,
-      "image": "https://cdn.caratlane.us/media/catalog/product/u/e/ue06279-1y00rs_1_lar.jpg?quality=90&bg-color=255,255,255&fit=bounds&height=615&width=615&canvas=615:615",
+      "image": "https://cdn.caratlane.us/media/catalog/product/u/e/ue06279-1y00rs_1_lar.jpg?quality=90&bg-color=255,255,255&fit=bounds&height=350&width=350&canvas=350:350",
       "url": "https://www.caratlane.us/arshi-cirular-gemstone-stud-earrings.html",
       "source": "CaratLane",
       "category": "Diamond Jewelry"
@@ -83,7 +83,7 @@
     {
       "name": "Starry Floral Gemstone Stud Earrings",
       "price": 198,
-      "image": "https://cdn.caratlane.us/media/catalog/product/u/e/ue06258-1r00rs_1_lar.jpg?quality=90&bg-color=255,255,255&fit=bounds&height=615&width=615&canvas=615:615",
+      "image": "https://cdn.caratlane.us/media/catalog/product/u/e/ue06258-1r00rs_1_lar_1.jpg?quality=90&bg-color=255,255,255&fit=bounds&height=350&width=350&canvas=350:350",
       "url": "https://www.caratlane.us/starry-floral-gemstone-stud-earrings.html",
       "source": "CaratLane",
       "category": "Diamond Jewelry"
@@ -115,7 +115,7 @@
     {
       "name": "Finest Flora Gold Drop Earrings",
       "price": 159,
-      "image": "https://cdn.caratlane.us/media/catalog/product/u/e/uer06268-yb00-000000000-00-14kt-yellow-gold-earrings-small-image_1.jpg?quality=90&bg-color=255,255,255&fit=bounds&height=350&width=350&canvas=350:350",
+      "image": "https://cdn.caratlane.us/media/catalog/product/u/e/uer06268-yb00-000000000-00-14kt-yellow-gold-earrings-image-8.jpg?quality=90&bg-color=255,255,255&fit=bounds&height=615&width=615&canvas=615:615",
       "url": "https://www.caratlane.us/finest-flora-gold-drop-earrings.html",
       "source": "CaratLane",
       "category": "Diamond Jewelry"
@@ -147,7 +147,7 @@
     {
       "name": "Violet Flutter Kids' Gold Earrings",
       "price": 119,
-      "image": "https://cdn.caratlane.us/media/catalog/product/u/e/uer05427-yb00-000000000-00-14kt-yellow-gold-earrings-small-image_2.jpg?quality=90&bg-color=255,255,255&fit=bounds&height=350&width=350&canvas=350:350",
+      "image": "https://cdn.caratlane.us/media/catalog/product/u/e/uer05427-yb00-000000000-00-14kt-yellow-gold-earrings-image-8_1.jpg?quality=90&bg-color=255,255,255&fit=bounds&height=615&width=615&canvas=615:615",
       "url": "https://www.caratlane.us/violet-flutter-kids-gold-earrings.html",
       "source": "CaratLane",
       "category": "Diamond Jewelry"
@@ -157,6 +157,14 @@
       "price": 249,
       "image": "https://cdn.caratlane.us/media/catalog/product/u/e/ue05045-1y0000_10_lar.jpg?quality=90&bg-color=255,255,255&fit=bounds&height=615&width=615&canvas=615:615",
       "url": "https://www.caratlane.us/austere-gold-hoop-earrings.html",
+      "source": "CaratLane",
+      "category": "Diamond Jewelry"
+    },
+    {
+      "name": "Lil Clover Kids' Gold Earrings",
+      "price": 109,
+      "image": "https://cdn.caratlane.us/media/catalog/product/u/e/ue05028-1y0000_8_lar.jpg?quality=90&bg-color=255,255,255&fit=bounds&height=615&width=615&canvas=615:615",
+      "url": "https://www.caratlane.us/lil-clover-kids-gold-earrings.html",
       "source": "CaratLane",
       "category": "Diamond Jewelry"
     },
@@ -173,6 +181,14 @@
       "price": 281,
       "image": "https://cdn.caratlane.us/media/catalog/product/u/b/ubr00867-yb00-p00000000-00-14kt-yellow-gold-bracelets-main-image.jpg?quality=90&bg-color=255,255,255&fit=bounds&height=350&width=350&canvas=350:350",
       "url": "https://www.caratlane.us/beyond-infinity-personalised-gemstone-bracelet.html",
+      "source": "CaratLane",
+      "category": "Diamond Jewelry"
+    },
+    {
+      "name": "Flutter Personalised Kids' Gold Bracelet",
+      "price": 222,
+      "image": "https://cdn.caratlane.us/media/catalog/product/u/b/ubr00859-yc00-000000000-00-18kt-yellow-gold-bracelets-main-image.jpg?quality=90&bg-color=255,255,255&fit=bounds&height=615&width=615&canvas=615:615",
+      "url": "https://www.caratlane.us/flutter-personalised-kids-gold-bracelet.html",
       "source": "CaratLane",
       "category": "Diamond Jewelry"
     },
@@ -195,7 +211,7 @@
     {
       "name": "Fresh Peppy Diamond Stud Earrings",
       "price": 316,
-      "image": "https://cdn.caratlane.us/media/catalog/product/j/e/jer07857-yb1a-000000000-00-14kt-yellow-gold-earrings-main-image_2.jpg?quality=90&bg-color=255,255,255&fit=bounds&height=350&width=350&canvas=350:350",
+      "image": "https://cdn.caratlane.us/media/catalog/product/j/e/je07857-1yp900_5_lar.jpg?quality=90&bg-color=255,255,255&fit=bounds&height=615&width=615&canvas=615:615",
       "url": "https://www.caratlane.us/jer07857-yb1a-000000000-00-0000.html",
       "source": "CaratLane",
       "category": "Diamond Jewelry"
@@ -211,7 +227,7 @@
     {
       "name": "Anaya Mini Kids' Diamond Earrings",
       "price": 212,
-      "image": "https://cdn.caratlane.us/media/catalog/product/j/e/je06989-1yp900_8_lar_1.jpg?quality=90&bg-color=255,255,255&fit=bounds&height=615&width=615&canvas=615:615",
+      "image": "https://cdn.caratlane.us/media/catalog/product/j/e/jer06989-yb1a-000000000-00-14kt-yellow-gold-earrings-small-image.jpg?quality=90&bg-color=255,255,255&fit=bounds&height=350&width=350&canvas=350:350",
       "url": "https://www.caratlane.us/anaya-mini-kids-diamond-earrings.html",
       "source": "CaratLane",
       "category": "Diamond Jewelry"
@@ -221,6 +237,14 @@
       "price": 373,
       "image": "https://cdn.caratlane.us/media/catalog/product/j/e/je05760-1yp9r0_11_listfront.jpg?quality=90&bg-color=255,255,255&fit=bounds&height=350&width=350&canvas=350:350",
       "url": "https://www.caratlane.us/aria-gemstone-hoop-earrings.html",
+      "source": "CaratLane",
+      "category": "Diamond Jewelry"
+    },
+    {
+      "name": "Dabbling Duck Baby Gold Bangle",
+      "price": 311,
+      "image": "https://cdn.caratlane.us/media/pdp_videos_thumb/web/UBA00003-YB00-000000000-00_01.5.0000000.jpg",
+      "url": "https://www.caratlane.us/dabbling-duck-baby-gold-bangle.html",
       "source": "CaratLane",
       "category": "Diamond Jewelry"
     },
@@ -251,7 +275,7 @@
     {
       "name": "Eyes on Me Ear Cuffs",
       "price": 365,
-      "image": "https://cdn.caratlane.us/media/catalog/product/j/e/je08082-ygp900_11_listfront.jpg?quality=90&bg-color=255,255,255&fit=bounds&height=350&width=350&canvas=350:350",
+      "image": "https://cdn.caratlane.us/media/catalog/product/j/e/je08082-ygp900_1_lar.jpg?quality=90&bg-color=255,255,255&fit=bounds&height=615&width=615&canvas=615:615",
       "url": "https://www.caratlane.us/eyes-on-me-ear-cuffs.html",
       "source": "CaratLane",
       "category": "Diamond Jewelry"
@@ -269,6 +293,22 @@
       "price": 109,
       "image": "https://cdn.caratlane.us/media/catalog/product/u/e/ue05082-1y0000_5_lar.jpg?quality=90&bg-color=255,255,255&fit=bounds&height=615&width=615&canvas=615:615",
       "url": "https://www.caratlane.us/mystical-unicorn-kids-earrings.html",
+      "source": "CaratLane",
+      "category": "Diamond Jewelry"
+    },
+    {
+      "name": "Flutter Beam Kids' Gold Earrings",
+      "price": 79,
+      "image": "https://cdn.caratlane.us/media/catalog/product/u/e/ue04855-1y0000_6_lar.jpg?quality=90&bg-color=255,255,255&fit=bounds&height=615&width=615&canvas=615:615",
+      "url": "https://www.caratlane.us/flutter-beam-kids-earrings.html",
+      "source": "CaratLane",
+      "category": "Diamond Jewelry"
+    },
+    {
+      "name": "Ballotte Pearl Bracelet",
+      "price": 548,
+      "image": "https://cdn.caratlane.us/media/catalog/product/u/t/ut00333-yg00p0_6_lar.jpg?quality=90&bg-color=255,255,255&fit=bounds&height=615&width=615&canvas=615:615",
+      "url": "https://www.caratlane.us/ballotte-pearl-bracelet.html",
       "source": "CaratLane",
       "category": "Diamond Jewelry"
     },
@@ -321,6 +361,14 @@
       "category": "Diamond Jewelry"
     },
     {
+      "name": "Love Heart Stud Earring",
+      "price": 49,
+      "image": "https://cdn.caratlane.us/media/catalog/product/u/e/uer06507-yb00-000000000-00-14kt-yellow-gold-earrings-main-image_2.jpg?quality=90&bg-color=255,255,255&fit=bounds&height=350&width=350&canvas=350:350",
+      "url": "https://www.caratlane.us/love-heart-stud-earring.html",
+      "source": "CaratLane",
+      "category": "Diamond Jewelry"
+    },
+    {
       "name": "Ma Akshar Gold Necklace",
       "price": 294,
       "image": "https://cdn.caratlane.us/media/catalog/product/u/n/une00641-yb00-000000000-00-14kt-yellow-gold-necklaces-small-image.jpg?quality=90&bg-color=255,255,255&fit=bounds&height=350&width=350&canvas=350:350",
@@ -341,14 +389,6 @@
       "price": 137,
       "image": "https://cdn.caratlane.us/media/catalog/product/u/b/ubr01357-yb00-000000000-00-14kt-yellow-gold-bracelets-small-image.jpg?quality=90&bg-color=255,255,255&fit=bounds&height=350&width=350&canvas=350:350",
       "url": "https://www.caratlane.us/alphabet-j-nazaria-gold-bracelet.html",
-      "source": "CaratLane",
-      "category": "Diamond Jewelry"
-    },
-    {
-      "name": "Beautiful Bounty Gold Drop Earrings",
-      "price": 177,
-      "image": "https://cdn.caratlane.us/media/catalog/product/u/e/uer06267-yb00-000000000-00-14kt-yellow-gold-earrings-small-image.jpg?quality=90&bg-color=255,255,255&fit=bounds&height=350&width=350&canvas=350:350",
-      "url": "https://www.caratlane.us/beautiful-bounty-gold-drop-earrings.html",
       "source": "CaratLane",
       "category": "Diamond Jewelry"
     },
@@ -681,6 +721,6 @@
       "category": "Diamond Jewelry"
     }
   ],
-  "lastFetched": "2026-11-09T15:04:29.777Z",
-  "count": 85
+  "lastFetched": "2026-11-10T01:09:17.687Z",
+  "count": 90
 }
